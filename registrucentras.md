@@ -346,7 +346,8 @@ Svarbu ir tai, kad, taikant mėnesio NPD, atsižvelgiama tik į darbo užmokesč
 
 Jei už studijas ar profesinį mokymą sumokėta skolintomis lėšomis (tam tikslui paimta iš kredito įstaigos paskola), tai iš metinių pajamų gali būti atimta per mokestinį laikotarpį grąžinta šios paskolos dalis;
 
-2.5. palūkanas už vieną iki 2008-12-31 paimtą kreditą (arba jo dalį) vienam gyvenamajam būstui statyti arba jam įsigyti arba už gyvenamojo būsto finansinę nuomą (lizingą).        
+2.5. palūkanas už vieną iki 2008-12-31 paimtą kreditą (arba jo dalį) vienam gyvenamajam būstui statyti arba jam įsigyti arba už gyvenamojo būsto finansinę nuomą (lizingą).
+
 Bendra visų atimamų išlaidų (t. y. gyvybės draudimo įmokų, įmokų į II ir III pakopos pensijų fondus, palūkanų už kreditą būstui įsigyti ar statyti, sumos už profesinį mokymą ar studijas sumokėtų įmokų) suma negali viršyti 25 procentų apmokestinamųjų pajamų, kurioms taikomas 15, 20 ar 32 procentų pajamų mokesčio tarifas, sumos, apskaičiuotos iš visų mokestiniais metais gautų pajamų atėmus GPMĮ 16 straipsnio 1 dalies 1–5 punktuose nurodytas sumas. Be to, atimamų gyvybės draudimo įmokų ir/ar įmokų į III ir II pakopos pensijų fondus išlaidų suma bet kokiu atveju negali viršyti 1 500 eurų.
 
 Kaip susigrąžinti pajamų mokesčio permoką?
