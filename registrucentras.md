@@ -942,19 +942,15 @@ Teisės aktų nustatyta tvarka informacija apie mokesčių mokėtoją gali būti
 Informacija apie mokesčių mokėtoją gali būti teikiama šiais būdais:
 
 Informacijos teikimo būdas
-	
 
 Komentarai
 
 Žodžiu tiesiogiai ar telefonu pagal žodinius asmenų prašymus (kai duomenys teikiami vieną kartą)
 
- 
-	
-
 Paslaptyje nelaikoma informacija, kuri skelbiama VMI svetainėje, teikiama tel. 1882 ir 8 5 2191 777 arba atvykus į VMI aptarnavimo padalinius (tik iš anksto užsiregistravus internetu arba tel. 8 5 2191 777).
 
 Raštu pagal rašytinius asmenų prašymus (kai duomenys teikiami vieną kartą), išsiunčiant atsakymą tokiu būdu, kokiu buvo pateiktas prašymas. Jeigu asmens prašyme buvo nurodytas būdas, kuriuo trečiasis asmuo pageidauja gauti atsakymą, atsakoma nurodytu būdu
-	
+
 
 Trečiasis asmuo, norėdamas vieną kartą gauti informaciją apie mokesčių mokėtoją, mokesčių administratoriui pateikia rašytinį prašymą, kuriame turi nurodyti Taisyklių 10.1–10.9 punktuose nurodytą informaciją.
 
@@ -970,17 +966,11 @@ Atsižvelgiant į teiktinos informacijos kiekį, informacija apie mokesčių mok
 
 Elektroniniu būdu pagal VMI ir asmens sudarytą duomenų teikimo sutartį (kai duomenys teikiami daug kartų)
 	
-
 Jeigu duomenys bus teikiami daug kartų, VMI pateikiamas prašymas sudaryti duomenų teikimo sutartį Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo nustatyta tvarka, pagal kurią informacija teikiama automatiniu būdu elektroninių ryšių tinklais.
 
 VMI, Europos Komisijos interneto svetainėse, jeigu ši informacija padėtų mokesčių mokėtojams vykdyti jų mokestines prievoles ir / ar užkirsti kelią mokesčių įstatymų pažeidimams
 	
-
 VMI interneto svetainėje tretiesiems asmenims teikiama informacija adresu. 
-
- 
-
- 
 
 VMI nenagrinėja prašymo pateikti informaciją ir apie tai ne vėliau kaip per 5 darbo dienas nuo prašymo gavimo VMI prie FM ar AVMI dienos praneša asmeniui, nurodydamas tokio prašymo nenagrinėjimo priežastis ir, esant  žemiau 1 punkte numatytiems atvejams, siūlydamas ištaisyti nustatytus trūkumus per nurodytą terminą, kuris negali būti trumpesnis kaip 5 darbo dienos, jeigu:
 
@@ -1007,134 +997,134 @@ Mokesčių mokėtojo teisės
 
 Mokesčių mokėtojo pareigos
 
-    iš VMI gauti nemokamą informaciją apie mokesčius, jų lengvatas, informaciją apie galiojančius mokesčių teisės aktus bei kitą informaciją, reikalingą jo mokestinėms prievolėms vykdyti;
+iš VMI gauti nemokamą informaciją apie mokesčius, jų lengvatas, informaciją apie galiojančius mokesčių teisės aktus bei kitą informaciją, reikalingą jo mokestinėms prievolėms vykdyti;
 
-    gauti konsultacijas mokesčių mokėjimo klausimais;
+gauti konsultacijas mokesčių mokėjimo klausimais;
 
-    reikalauti laiku grąžinti (įskaityti) mokesčio permokas;
+reikalauti laiku grąžinti (įskaityti) mokesčio permokas;
 
-    asmeniškai dalyvauti arba būti atstovaujamas (jei įstatymai tokio atstovavimo tiesiogiai nedraudžia) savo atstovo pagal įstatymą ar įgalioto atstovo esant santykių su mokesčių administratoriumi, taip pat mokestinį ginčą nagrinėjančiose institucijose;
+asmeniškai dalyvauti arba būti atstovaujamas (jei įstatymai tokio atstovavimo tiesiogiai nedraudžia) savo atstovo pagal įstatymą ar įgalioto atstovo esant santykių su mokesčių administratoriumi, taip pat mokestinį ginčą nagrinėjančiose institucijose;
 
-    dalyvauti mokestinio patikrinimo procese;
+dalyvauti mokestinio patikrinimo procese;
 
-    teikti paaiškinimus ir atsikirtimus dėl patikrinimo akto;
+teikti paaiškinimus ir atsikirtimus dėl patikrinimo akto;
 
-    gauti sprendimą dėl patikrinimo akto tvirtinimo, taip pat visus kitus dėl jo priimtus VMI sprendimus, susijusius su mokesčių mokėtojo mokestinės prievolės dydžiu;
+gauti sprendimą dėl patikrinimo akto tvirtinimo, taip pat visus kitus dėl jo priimtus VMI sprendimus, susijusius su mokesčių mokėtojo mokestinės prievolės dydžiu;
 
-    nevykdyti neteisėtų VMI nurodymų, įskaitant teisę atsisakyti pateikti informaciją, jei nurodymas pateikiamas dėl duomenų, kuriais mokesčių mokėtojas nedisponuoja ir pagal galiojančius teisės aktus kaupti neprivalo;
+nevykdyti neteisėtų VMI nurodymų, įskaitant teisę atsisakyti pateikti informaciją, jei nurodymas pateikiamas dėl duomenų, kuriais mokesčių mokėtojas nedisponuoja ir pagal galiojančius teisės aktus kaupti neprivalo;
 
-    reikalauti, kad VMI, atlikdama administravimo veiksmus mokesčių mokėtojo atžvilgiu, tiksliai laikytųsi mokesčių teisės aktuose numatytų procedūrų ir neviršytų jai suteiktų įgaliojimų;
+reikalauti, kad VMI, atlikdama administravimo veiksmus mokesčių mokėtojo atžvilgiu, tiksliai laikytųsi mokesčių teisės aktuose numatytų procedūrų ir neviršytų jai suteiktų įgaliojimų;
 
-    reikalauti užtikrinti informacijos apie mokesčių mokėtoją slaptumą;
+reikalauti užtikrinti informacijos apie mokesčių mokėtoją slaptumą;
 
-    reikalauti atlyginti neteisėta mokesčių administratoriaus veika padarytą turtinę ir neturtinę žalą;
+reikalauti atlyginti neteisėta mokesčių administratoriaus veika padarytą turtinę ir neturtinę žalą;
 
-    įstatymų nustatyta tvarka apskųsti bet kokį mokesčių administratoriaus (jo pareigūno) veiksmą ar jo neatlikimą;
+įstatymų nustatyta tvarka apskųsti bet kokį mokesčių administratoriaus (jo pareigūno) veiksmą ar jo neatlikimą;
 
-    tvarkyti mokesčių apskaičiavimo teisingumui pagrįsti reikalingus asmens duomenis;
+tvarkyti mokesčių apskaičiavimo teisingumui pagrįsti reikalingus asmens duomenis;
 
-    pareikšti savo požiūrį dėl mokesčių administratoriaus priimtų sprendimų, kurie grindžiami automatizuotu duomenų tvarkymu, įskaitant profiliavimą, ir reikalauti, kad tokius sprendimus peržiūrėtų ir motyvuotus paaiškinimus dėl jų pateiktų ar juos pakeistų tam įgaliotas mokesčių administratoriaus pareigūnas;
+pareikšti savo požiūrį dėl mokesčių administratoriaus priimtų sprendimų, kurie grindžiami automatizuotu duomenų tvarkymu, įskaitant profiliavimą, ir reikalauti, kad tokius sprendimus peržiūrėtų ir motyvuotus paaiškinimus dėl jų pateiktų ar juos pakeistų tam įgaliotas mokesčių administratoriaus pareigūnas;
 
-    naudotis kitomis šio ir kitų įstatymų bei jų lydimųjų teisės aktų suteiktomis teisėmis.
+naudotis kitomis šio ir kitų įstatymų bei jų lydimųjų teisės aktų suteiktomis teisėmis.
 
 	
 
-    laiku ir tiksliai įvykdyti mokestinę prievolę;
+laiku ir tiksliai įvykdyti mokestinę prievolę;
 
-    bendradarbiauti su VMI, vykdyti jos teisėtus nurodymus ir netrukdyti įgyvendinti įstatymu suteiktų teisių;
+bendradarbiauti su VMI, vykdyti jos teisėtus nurodymus ir netrukdyti įgyvendinti įstatymu suteiktų teisių;
 
-    teisės aktų nustatyta tvarka įsiregistruoti mokesčių mokėtoju, laiku pranešti apie pasikeitusius mokesčių mokėtojų registre esančius duomenis;
+teisės aktų nustatyta tvarka įsiregistruoti mokesčių mokėtoju, laiku pranešti apie pasikeitusius mokesčių mokėtojų registre esančius duomenis;
 
-    teisingai apskaičiuoti mokestį, vadovaujantis mokesčių įstatymais;
+teisingai apskaičiuoti mokestį, vadovaujantis mokesčių įstatymais;
 
-    laiku pateikti mokesčių deklaracijas ir kitus teisės aktuose nurodytus dokumentus;
+laiku pateikti mokesčių deklaracijas ir kitus teisės aktuose nurodytus dokumentus;
 
-    teisės aktų nustatyta tvarka tvarkyti apskaitą, saugoti apskaitos dokumentus ir registrus, taip pat kitus dokumentus;
+teisės aktų nustatyta tvarka tvarkyti apskaitą, saugoti apskaitos dokumentus ir registrus, taip pat kitus dokumentus;
 
-    sudaryti VMI patikrinimui atlikti reikiamas sąlygas, kai patikrinimas atliekamas nuvykus pas mokesčių mokėtoją;
+sudaryti VMI patikrinimui atlikti reikiamas sąlygas, kai patikrinimas atliekamas nuvykus pas mokesčių mokėtoją;
 
-    pateikti VMI visus patikrinimui atlikti reikiamus dokumentus, kompiuteriu tvarkomos apskaitos duomenis bei kitą informaciją;
+pateikti VMI visus patikrinimui atlikti reikiamus dokumentus, kompiuteriu tvarkomos apskaitos duomenis bei kitą informaciją;
 
-    pateikti VMI informaciją apie sąskaitos užsienio kredito, mokėjimo ir elektroninių pinigų įstaigoje atidarymą;
+pateikti VMI informaciją apie sąskaitos užsienio kredito, mokėjimo ir elektroninių pinigų įstaigoje atidarymą;
 
-    pateikti VMI informaciją apie MAĮ 42-1 straipsnyje nurodytus sandorius;
+pateikti VMI informaciją apie MAĮ 42-1 straipsnyje nurodytus sandorius;
 
-    MAĮ 42² straipsnyje nustatyta tvarka pateikti Valstybinei mokesčių inspekcijai pridėtinės vertės mokesčio sąskaitų faktūrų duomenis;
+MAĮ 42² straipsnyje nustatyta tvarka pateikti Valstybinei mokesčių inspekcijai pridėtinės vertės mokesčio sąskaitų faktūrų duomenis;
 
-    MAĮ 42³ straipsnyje nustatyta tvarka pateikti Valstybinei mokesčių inspekcijai važtaraščių ir kitų prekių gabenimo dokumentų duomenis;
+MAĮ 42³ straipsnyje nustatyta tvarka pateikti Valstybinei mokesčių inspekcijai važtaraščių ir kitų prekių gabenimo dokumentų duomenis;
 
-    Lietuvos Respublikos Vyriausybės arba jos įgaliotos institucijos nustatytais atvejais, būdais ir tvarka fiksuoti atsiskaitymų už parduodamas prekes (kai prekės superkamos, – superkamas prekes) ir teikiamas paslaugas duomenis;
+Lietuvos Respublikos Vyriausybės arba jos įgaliotos institucijos nustatytais atvejais, būdais ir tvarka fiksuoti atsiskaitymų už parduodamas prekes (kai prekės superkamos, – superkamas prekes) ir teikiamas paslaugas duomenis;
 
-    atlikti kitas šiame ir kituose įstatymuose bei jų lydimuose teisės aktuose numatytas pareigas.
+atlikti kitas šiame ir kituose įstatymuose bei jų lydimuose teisės aktuose numatytas pareigas.
 
 VMI pareigos
 	
 
 VMI teisės
 
-    skatinti savanorišką mokesčių sumokėjimą;
+skatinti savanorišką mokesčių sumokėjimą;
 
-    nepažeisti mokesčių mokėtojo teisių;
+nepažeisti mokesčių mokėtojo teisių;
 
-    tiksliai laikytis mokesčių teisės aktų;
+tiksliai laikytis mokesčių teisės aktų;
 
-    pagal savo kompetenciją ginti teisėtus valstybės interesus;
+pagal savo kompetenciją ginti teisėtus valstybės interesus;
 
-    užtikrinti informacijos apie mokesčių mokėtoją slaptumą;
+užtikrinti informacijos apie mokesčių mokėtoją slaptumą;
 
-    naudotis savo teisėmis tik tiek, kiek tai susiję su jam pavestomis funkcijomis;
+naudotis savo teisėmis tik tiek, kiek tai susiję su jam pavestomis funkcijomis;
 
-    atlikdamas savo funkcijas, stengtis kuo mažiau trikdyti mokesčių mokėtojo veiklą;
+atlikdamas savo funkcijas, stengtis kuo mažiau trikdyti mokesčių mokėtojo veiklą;
 
-    užtikrinti, kad būtų laikomasi asmens duomenų tvarkymo reikalavimų, ir įgyvendinti tinkamas technines ir organizacines duomenų saugumo priemones ir kitas 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamente (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas) duomenų valdytojui nustatytas prievoles;
+užtikrinti, kad būtų laikomasi asmens duomenų tvarkymo reikalavimų, ir įgyvendinti tinkamas technines ir organizacines duomenų saugumo priemones ir kitas 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamente (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas) duomenų valdytojui nustatytas prievoles;
 
-    vykdyti kitas MAĮ ir kituose įstatymuose bei jų lydimuosiuose teisės aktuose nustatytas pareigas.
+vykdyti kitas MAĮ ir kituose įstatymuose bei jų lydimuosiuose teisės aktuose nustatytas pareigas.
 
 	
 
-    gauti iš asmenų, tarp jų iš kredito, mokėjimo ir elektroninių pinigų įstaigų, mokesčių administravimo ir kitoms teisės aktuose nustatytoms funkcijoms atlikti reikiamus duomenis ir dokumentų nuorašus, kompiuterinių laikmenų duomenis (kopijas) apie to arba kitų konkrečiai įvardytų asmenų, įskaitant naudos gavėjus, turtą, pajamas, išlaidas ir veiklą, naudotis savo ir kitų juridinių asmenų valdomų ar tvarkomų registrų, duomenų bazių informacija;
+gauti iš asmenų, tarp jų iš kredito, mokėjimo ir elektroninių pinigų įstaigų, mokesčių administravimo ir kitoms teisės aktuose nustatytoms funkcijoms atlikti reikiamus duomenis ir dokumentų nuorašus, kompiuterinių laikmenų duomenis (kopijas) apie to arba kitų konkrečiai įvardytų asmenų, įskaitant naudos gavėjus, turtą, pajamas, išlaidas ir veiklą, naudotis savo ir kitų juridinių asmenų valdomų ar tvarkomų registrų, duomenų bazių informacija;
 
-    nustatyta tvarka patekti į mokesčių mokėtojo teritoriją, pastatus ir patalpas;
+nustatyta tvarka patekti į mokesčių mokėtojo teritoriją, pastatus ir patalpas;
 
-    laikinai paimti iš mokesčių mokėtojo finansinės apskaitos (toliau – apskaita), sandorių ir kitus mokesčių apskaičiavimo teisingumo patikrinimui ir mokestiniam tyrimui atlikti reikalingus dokumentus;
+laikinai paimti iš mokesčių mokėtojo finansinės apskaitos (toliau – apskaita), sandorių ir kitus mokesčių apskaičiavimo teisingumo patikrinimui ir mokestiniam tyrimui atlikti reikalingus dokumentus;
 
-    užantspauduoti ir (ar) užplombuoti mokesčių mokėtojo dokumentų, vertybinių popierių, pinigų ir materialinių vertybių saugojimo vietas, patalpas, įrengimus; uždaryti teritoriją ar jos dalis;5) paimti produkcijos (prekių) mėginius ar pavyzdžius, atlikti kontrolinius pirkimus;
+užantspauduoti ir (ar) užplombuoti mokesčių mokėtojo dokumentų, vertybinių popierių, pinigų ir materialinių vertybių saugojimo vietas, patalpas, įrengimus; uždaryti teritoriją ar jos dalis;5) paimti produkcijos (prekių) mėginius ar pavyzdžius, atlikti kontrolinius pirkimus;
 
-    paimti produkcijos (prekių) mėginius ar pavyzdžius, atlikti kontrolinius pirkimus;
+paimti produkcijos (prekių) mėginius ar pavyzdžius, atlikti kontrolinius pirkimus;
 
-    daryti žymas mokesčių mokėtojo dokumentuose, kad būtų išvengta jų klastojimo;
+daryti žymas mokesčių mokėtojo dokumentuose, kad būtų išvengta jų klastojimo;
 
-    duoti mokesčių mokėtojui, taip pat kitiems fiziniams ir juridiniams asmenims (kai tai susiję su mokesčių administratoriaus teisių mokesčių mokėtojo atžvilgiu įgyvendinimu) privalomus vykdyti nurodymus atvykti pas mokesčių administratorių, jei tai būtina jo funkcijoms atlikti; duoti nurodymus mokesčių apskaičiavimo, deklaravimo ir mokėjimo, turto bei pajamų deklaravimo bei apskaitos tvarkymo klausimais;
+duoti mokesčių mokėtojui, taip pat kitiems fiziniams ir juridiniams asmenims (kai tai susiję su mokesčių administratoriaus teisių mokesčių mokėtojo atžvilgiu įgyvendinimu) privalomus vykdyti nurodymus atvykti pas mokesčių administratorių, jei tai būtina jo funkcijoms atlikti; duoti nurodymus mokesčių apskaičiavimo, deklaravimo ir mokėjimo, turto bei pajamų deklaravimo bei apskaitos tvarkymo klausimais;
 
-    priverstinai išieškoti iš asmenų mokestines nepriemokas;
+priverstinai išieškoti iš asmenų mokestines nepriemokas;
 
-    atlikti pats arba pareikalauti iš kitų kompetentingų institucijų atlikti kontrolinius matavimus, kompiuterinių programų bei jų duomenų patikrinimus, materialinių vertybių inventorizaciją ir kitus faktinius tikrinimus;
+atlikti pats arba pareikalauti iš kitų kompetentingų institucijų atlikti kontrolinius matavimus, kompiuterinių programų bei jų duomenų patikrinimus, materialinių vertybių inventorizaciją ir kitus faktinius tikrinimus;
 
-    įrengti skaitiklius bei matavimo prietaisus mokesčių mokėtojo saugyklose, produkcijos laikymo vietose, kituose veiklai naudojamuose įrenginiuose;
+įrengti skaitiklius bei matavimo prietaisus mokesčių mokėtojo saugyklose, produkcijos laikymo vietose, kituose veiklai naudojamuose įrenginiuose;
 
-    įrengti skaitiklius bei matavimo prietaisus mokesčių mokėtojo saugyklose, produkcijos laikymo vietose, kituose veiklai naudojamuose įrenginiuose;
+įrengti skaitiklius bei matavimo prietaisus mokesčių mokėtojo saugyklose, produkcijos laikymo vietose, kituose veiklai naudojamuose įrenginiuose;
 
-    kai kyla pagrįstas įtarimas, kad asmens pajamos nėra apmokestintos įstatymų nustatyta tvarka ar turtas įsigytas už įstatymų nustatyta tvarka neapmokestintas lėšas, nurodyti asmenims pateikti centrinio mokesčių administratoriaus nustatyta forma ir tvarka paaiškinimus apie turto įsigijimo ir pajamų gavimo šaltinius ir juos pagrįsti;
+kai kyla pagrįstas įtarimas, kad asmens pajamos nėra apmokestintos įstatymų nustatyta tvarka ar turtas įsigytas už įstatymų nustatyta tvarka neapmokestintas lėšas, nurodyti asmenims pateikti centrinio mokesčių administratoriaus nustatyta forma ir tvarka paaiškinimus apie turto įsigijimo ir pajamų gavimo šaltinius ir juos pagrįsti;
 
-    kreiptis į mokesčių mokėtoją, kitus fizinius ir juridinius asmenis (kai tai susiję su mokesčių administratoriaus teisių mokesčių mokėtojo atžvilgiu įgyvendinimu) ir duoti nurodymus pašalinti aplinkybes ir sąlygas, trukdančias mokesčių administratoriui tinkamai atlikti savo funkcijas;
+kreiptis į mokesčių mokėtoją, kitus fizinius ir juridinius asmenis (kai tai susiję su mokesčių administratoriaus teisių mokesčių mokėtojo atžvilgiu įgyvendinimu) ir duoti nurodymus pašalinti aplinkybes ir sąlygas, trukdančias mokesčių administratoriui tinkamai atlikti savo funkcijas;
 
-    taikyti mokestinės prievolės įvykdymo užtikrinimo būdus;
+taikyti mokestinės prievolės įvykdymo užtikrinimo būdus;
 
-    finansų ministro nustatyta tvarka perduoti atstovavimo pagrindais arba perleidžiant reikalavimo teisę mokesčių mokėtojo mokestinių nepriemokų išieškojimą centralizuotai valdomo valstybės turto valdytojui;
+finansų ministro nustatyta tvarka perduoti atstovavimo pagrindais arba perleidžiant reikalavimo teisę mokesčių mokėtojo mokestinių nepriemokų išieškojimą centralizuotai valdomo valstybės turto valdytojui;
 
-    pagal savo kompetenciją pareikšti ieškinį teismui dėl sandorio ar jo dalies pripažinimo negaliojančiu; būti ieškovu ar atsakovu teisme kitose bylose;
+pagal savo kompetenciją pareikšti ieškinį teismui dėl sandorio ar jo dalies pripažinimo negaliojančiu; būti ieškovu ar atsakovu teisme kitose bylose;
 
-    pagal savo kompetenciją pareikšti ieškinį teismui dėl sandorio ar jo dalies pripažinimo negaliojančiu; būti ieškovu ar atsakovu teisme kitose bylose;
+pagal savo kompetenciją pareikšti ieškinį teismui dėl sandorio ar jo dalies pripažinimo negaliojančiu; būti ieškovu ar atsakovu teisme kitose bylose;
 
-    nepažeisdamas įstatymų garantuojamo asmens privataus gyvenimo neliečiamumo, fotografuoti, daryti garso ir vaizdo įrašus;
+nepažeisdamas įstatymų garantuojamo asmens privataus gyvenimo neliečiamumo, fotografuoti, daryti garso ir vaizdo įrašus;
 
-    atleisti mokesčių mokėtoją ar trečiąjį asmenį nuo mokesčių administratoriaus kompetencijai priklausančiuose įgyvendinti teisės aktuose nustatytų reikalavimų vykdymo, jeigu tinkamas mokesčių mokėtojo mokestinės prievolės įvykdymas užtikrinamas centrinio mokesčių administratoriaus pripažintomis lygiavertėmis alternatyviomis priemonėmis;
+atleisti mokesčių mokėtoją ar trečiąjį asmenį nuo mokesčių administratoriaus kompetencijai priklausančiuose įgyvendinti teisės aktuose nustatytų reikalavimų vykdymo, jeigu tinkamas mokesčių mokėtojo mokestinės prievolės įvykdymas užtikrinamas centrinio mokesčių administratoriaus pripažintomis lygiavertėmis alternatyviomis priemonėmis;
 
-    centrinio mokesčių administratoriaus nustatyta tvarka priimti automatizuotu duomenų tvarkymu, įskaitant profiliavimą, grindžiamus sprendimus;
+centrinio mokesčių administratoriaus nustatyta tvarka priimti automatizuotu duomenų tvarkymu, įskaitant profiliavimą, grindžiamus sprendimus;
 
-    užkardydamas galimai neteisėtus asmenų veiksmus ir saugodamas valstybės finansų sistemą nuo galimos žalos, analizuodamas mokestines rizikas ir mokesčių mokėtojų elgseną, nustatydamas kontrolės prioritetus ir vykdydamas pridėtinės vertės mokesčio skirtumo grąžinimo kontrolę, atlikdamas mokestinį tyrimą ir (ar) mokestinį patikrinimą, vykdydamas susitarimo dėl mokesčio ir su juo susijusių sumų dydžio procedūrą, taip pat administruodamas jo kompetencijai priskirtinus mokesčius, gauti, atsižvelgiant į konkretų asmens duomenų gavimo poreikį, Įtariamųjų, kaltinamųjų ir nuteistųjų registro duomenis apie mokesčių mokėtojams (fiziniams ir juridiniams asmenims) pradėtus ikiteisminius tyrimus dėl galimo sukčiavimo, neteisėto praturtėjimo, nusikalstamų veikų ekonomikai ir verslo tvarkai, nusikalstamų veikų finansų sistemai, taip pat apie mokesčių mokėtojams (fiziniams ir juridiniams asmenims) priimtus ir įsiteisėjusius apkaltinamuosius nuosprendžius dėl šių nusikalstamų veikų;
+užkardydamas galimai neteisėtus asmenų veiksmus ir saugodamas valstybės finansų sistemą nuo galimos žalos, analizuodamas mokestines rizikas ir mokesčių mokėtojų elgseną, nustatydamas kontrolės prioritetus ir vykdydamas pridėtinės vertės mokesčio skirtumo grąžinimo kontrolę, atlikdamas mokestinį tyrimą ir (ar) mokestinį patikrinimą, vykdydamas susitarimo dėl mokesčio ir su juo susijusių sumų dydžio procedūrą, taip pat administruodamas jo kompetencijai priskirtinus mokesčius, gauti, atsižvelgiant į konkretų asmens duomenų gavimo poreikį, Įtariamųjų, kaltinamųjų ir nuteistųjų registro duomenis apie mokesčių mokėtojams (fiziniams ir juridiniams asmenims) pradėtus ikiteisminius tyrimus dėl galimo sukčiavimo, neteisėto praturtėjimo, nusikalstamų veikų ekonomikai ir verslo tvarkai, nusikalstamų veikų finansų sistemai, taip pat apie mokesčių mokėtojams (fiziniams ir juridiniams asmenims) priimtus ir įsiteisėjusius apkaltinamuosius nuosprendžius dėl šių nusikalstamų veikų;
 
-    naudotis kitomis mokesčių ir kitų įstatymų suteiktomis teisėmis.
+naudotis kitomis mokesčių ir kitų įstatymų suteiktomis teisėmis.
 
  
 
@@ -1142,7 +1132,7 @@ VMI, atlikdama savo funkcijas ir įgyvendindama jai įstatymu suteiktas teises, 
 
 Paklausimus VMI paklausėjai gali pateikti tokiais būdais:
 
-    raštu:
+raštu:
 
 1.1. per Mano VMI: Palaugos -> Paklausimai - > Paklausimo pateikimas.
 
@@ -1152,7 +1142,7 @@ Paklausimus VMI paklausėjai gali pateikti tokiais būdais:
 
 1.4. įteikiamas atvykus į VMI prie FM arba AVMI;
 
-    žodžiu:
+žodžiu:
 
 2.1. paskambinę konsultavimo telefonu 1882 arba +370 5 260 5060;
 
@@ -1168,35 +1158,35 @@ Pažymėtina, kad mokesčių mokėtojai neprivalo vadovautis pateikta konsultaci
 
 
 
-    Jeigu paklausėjo atsiųstas rašytinis paklausimas yra nesudėtingas, tai konsultacija turi būti suteikiama ne vėliau kaip per 5 darbo dienas nuo paklausimo gavimo VMI prie FM dienos.
+Jeigu paklausėjo atsiųstas rašytinis paklausimas yra nesudėtingas, tai konsultacija turi būti suteikiama ne vėliau kaip per 5 darbo dienas nuo paklausimo gavimo VMI prie FM dienos.
 
-    Jeigu paklausimas gaunamas VMI bendruoju elektroninio pašto adresu, toks paklausimas užregistruojamas ne vėliau kaip artimiausią darbo dieną. Paklausimas, gautas VMI valstybės tarnautojo ar darbuotojo institucijos jam suteiktu elektroninio pašto adresu, turi būti persiųstas ne vėliau kaip artimiausią darbo dieną VMI administracijos padaliniui, vykdančiam dokumentų registravimo funkcijas. Į šiame punkte nurodytus paklausimus atsakoma šio skyriaus nustatyta tvarka.
+Jeigu paklausimas gaunamas VMI bendruoju elektroninio pašto adresu, toks paklausimas užregistruojamas ne vėliau kaip artimiausią darbo dieną. Paklausimas, gautas VMI valstybės tarnautojo ar darbuotojo institucijos jam suteiktu elektroninio pašto adresu, turi būti persiųstas ne vėliau kaip artimiausią darbo dieną VMI administracijos padaliniui, vykdančiam dokumentų registravimo funkcijas. Į šiame punkte nurodytus paklausimus atsakoma šio skyriaus nustatyta tvarka.
 
-    Paklausėjui sutikus ar paprašius, į nesudėtingą rašytinį paklausimą, konsultaciją ir / ar informaciją gali suteikti VMI prie FM Mokesčių informacijos departamentas paklausėjo nurodytu telefonu. Jeigu atskleidžiama informacija apie mokesčių mokėtoją, kurios laikymą paslaptyje VMI privalo užtikrinti, tai prieš tokį pokalbį telefonu konsultantas privalo paklausėją identifikuoti vienu iš taisyklių 10 punkte nurodytų būdų. Suteikus konsultaciją konsultavimo telefonu, atsakymas raštu neteikiamas.
+Paklausėjui sutikus ar paprašius, į nesudėtingą rašytinį paklausimą, konsultaciją ir / ar informaciją gali suteikti VMI prie FM Mokesčių informacijos departamentas paklausėjo nurodytu telefonu. Jeigu atskleidžiama informacija apie mokesčių mokėtoją, kurios laikymą paslaptyje VMI privalo užtikrinti, tai prieš tokį pokalbį telefonu konsultantas privalo paklausėją identifikuoti vienu iš taisyklių 10 punkte nurodytų būdų. Suteikus konsultaciją konsultavimo telefonu, atsakymas raštu neteikiamas.
 
     Siekdamas parengti tikslią rašytinę konsultaciją ir išvengti neteisingų interpretacijų, ne vėliau kaip per 10 darbo dienų nuo paklausimo gavimo dienos rašytinę konsultaciją rengiantis konsultantas gali paprašyti paklausėjo patikslinti duomenis. Konsultacija teikiama, tik gavus patikslintus duomenis. Tokiu atveju rašytinės konsultacijos pateikimo terminas šių taisyklių 42 punkte nustatyta tvarka skaičiuojamas nuo patikslintų duomenų gavimo iš paklausėjo dienos.
 
     Pakartotinai konsultacija gali būti teikiama, jeigu pakartotinai kreipdamasis paklausėjas nurodo naujas aplinkybes. Jeigu tas pats paklausėjas pakartotinai kreipiasi į VMI prie FM konsultacijos tuo pačiu klausimu, nenurodydamas naujų aplinkybių, tai jis informuojamas apie tuo klausimu jam jau suteiktą konsultaciją ir apie tai, kad tokiu atveju pakartotinai konsultacija neteikiama.
 
-    Jeigu paklausėjo paklausime išdėstyti klausimai susiję su kelių institucijų kompetencija, tai dėl tos dalies (jeigu ją galima suteikti atskirai nuo visos prašomos konsultacijos ir / ar informacijos) paklausimo, kuri susijusi su VMI kompetencija, konsultacija ir / ar informacija suteikiama šių taisyklių nustatyta tvarka, dėl kitos dalies konsultacijos paklausimas persiunčiamas kitai kompetentingai institucijai ne vėliau kaip per 5 darbo dienas nuo paklausimo gavimo VMI dienos, kartu apie tai raštu informuojant paklausėją ir paaiškinant persiuntimo priežastis.
+Jeigu paklausėjo paklausime išdėstyti klausimai susiję su kelių institucijų kompetencija, tai dėl tos dalies (jeigu ją galima suteikti atskirai nuo visos prašomos konsultacijos ir / ar informacijos) paklausimo, kuri susijusi su VMI kompetencija, konsultacija ir / ar informacija suteikiama šių taisyklių nustatyta tvarka, dėl kitos dalies konsultacijos paklausimas persiunčiamas kitai kompetentingai institucijai ne vėliau kaip per 5 darbo dienas nuo paklausimo gavimo VMI dienos, kartu apie tai raštu informuojant paklausėją ir paaiškinant persiuntimo priežastis.
 
-    Į kitų institucijų gautus ir šių institucijų į VMI prie FM persiųstus rašytinius paklausimus, kuriuose nurodyti klausimai priskiriami ir VMI kompetencijai, atsakoma paklausimą persiuntusiai institucijai ne vėliau kaip per 10 darbo dienų nuo paklausimo gavimo VMI prie FM dienos.
+Į kitų institucijų gautus ir šių institucijų į VMI prie FM persiųstus rašytinius paklausimus, kuriuose nurodyti klausimai priskiriami ir VMI kompetencijai, atsakoma paklausimą persiuntusiai institucijai ne vėliau kaip per 10 darbo dienų nuo paklausimo gavimo VMI prie FM dienos.
 
-    Rašytinis paklausimas (išskyrus nesudėtingus paklausimus) turi būti išnagrinėtas ir konsultacija paklausėjui suteikta ne vėliau kaip per 20 darbo dienų nuo paklausimo gavimo VMI prie FM dienos, išskyrus taisyklių 43-44 punktuose nurodytus atvejus.
+Rašytinis paklausimas (išskyrus nesudėtingus paklausimus) turi būti išnagrinėtas ir konsultacija paklausėjui suteikta ne vėliau kaip per 20 darbo dienų nuo paklausimo gavimo VMI prie FM dienos, išskyrus taisyklių 43-44 punktuose nurodytus atvejus.
 
-    Jeigu yra gautas sudėtingas paklausimas ir / ar dėl objektyvių priežasčių negalima parengti rašytinės konsultacijos per taisyklių 42 punkte nustatytą terminą, tai šis terminas gali būti pratęstas dar iki 20 darbo dienų.
+Jeigu yra gautas sudėtingas paklausimas ir / ar dėl objektyvių priežasčių negalima parengti rašytinės konsultacijos per taisyklių 42 punkte nustatytą terminą, tai šis terminas gali būti pratęstas dar iki 20 darbo dienų.
 
 Kai atsakymas į paklausimą yra susijęs su apibendrinto mokesčio įstatymo paaiškinimo (komentaro) parengimo inicijavimu, per šiame taisyklių punkte nustatytą terminą parengiama ir paklausėjui pateikiama konsultacija su VMI prie FM nuomone, nurodant, kad pateikta VMI prie FM nuomonė yra negalutinė ir tuo klausimu yra inicijuojamas (inicijuotas) apibendrinto mokesčio įstatymo paaiškinimo (komentaro) parengimas.
 
-    Kai rašytinės konsultacijos negalima parengti dėl paklausimų, kurie susiję su informacijos iš užsienio valstybės institucijos ar iš Lietuvos valstybės ir / ar savivaldybės institucijos (toliau – institucija) gavimu, per taisyklių 42 punkte nustatytą terminą, tokios konsultacijos terminas gali būti pratęstas iki tol, kol nebus gautas atsakymas iš institucijos. Apie tai, kad dėl paklausime nurodytos informacijos yra kreiptasi į instituciją, per taisyklių 42 punkte nustatytą terminą paklausėjas informuojamas atskiru raštu ir pateikiama konsultacija su VMI prie FM nuomone (jeigu ją įmanoma pateikti, negavus atsakymo iš institucijos), nurodant, kad pateikta VMI prie FM nuomonė yra negalutinė.
+Kai rašytinės konsultacijos negalima parengti dėl paklausimų, kurie susiję su informacijos iš užsienio valstybės institucijos ar iš Lietuvos valstybės ir / ar savivaldybės institucijos (toliau – institucija) gavimu, per taisyklių 42 punkte nustatytą terminą, tokios konsultacijos terminas gali būti pratęstas iki tol, kol nebus gautas atsakymas iš institucijos. Apie tai, kad dėl paklausime nurodytos informacijos yra kreiptasi į instituciją, per taisyklių 42 punkte nustatytą terminą paklausėjas informuojamas atskiru raštu ir pateikiama konsultacija su VMI prie FM nuomone (jeigu ją įmanoma pateikti, negavus atsakymo iš institucijos), nurodant, kad pateikta VMI prie FM nuomonė yra negalutinė.
 
-    Taisyklių 43 ir 44 punktuose nustatytais atvejais konsultantas ne vėliau kaip per 5 darbo dienas po paaiškėjimo, kad rašytinės konsultacijos pateikimas gali užsitęsti ilgiau kaip 20 darbo dienų, turi informuoti paklausėją raštu, kad konsultacijos suteikimo terminas pratęsiamas, ir nurodyti jo pratęsimo priežastis.
+Taisyklių 43 ir 44 punktuose nustatytais atvejais konsultantas ne vėliau kaip per 5 darbo dienas po paaiškėjimo, kad rašytinės konsultacijos pateikimas gali užsitęsti ilgiau kaip 20 darbo dienų, turi informuoti paklausėją raštu, kad konsultacijos suteikimo terminas pratęsiamas, ir nurodyti jo pratęsimo priežastis.
 
-    Rašytinė konsultacija ir / ar informacija paklausėjui pateikiama tokiu būdu, kokiu pateiktas rašytinis paklausimas, jeigu paklausėjas nepageidauja gauti atsakymo kitu būdu.
+Rašytinė konsultacija ir / ar informacija paklausėjui pateikiama tokiu būdu, kokiu pateiktas rašytinis paklausimas, jeigu paklausėjas nepageidauja gauti atsakymo kitu būdu.
 
-    Pateikus paklausimą per Mano VMI, rašytinė konsultacija ir / ar informacija taip pat suteikiama, atsakant per Mano VMI. Jeigu dėl techninių sutrikimų atsakymo per Mano VMI neįmanoma pateikti, tai atsakymas pateikiamas kitu su paklausėju suderintu būdu, jei toks suderinimas yra įmanomas, atsižvelgiant į paklausėjo pateiktą kontaktinę informaciją.
+Pateikus paklausimą per Mano VMI, rašytinė konsultacija ir / ar informacija taip pat suteikiama, atsakant per Mano VMI. Jeigu dėl techninių sutrikimų atsakymo per Mano VMI neįmanoma pateikti, tai atsakymas pateikiamas kitu su paklausėju suderintu būdu, jei toks suderinimas yra įmanomas, atsižvelgiant į paklausėjo pateiktą kontaktinę informaciją.
 
-    Jeigu paruoštame atsakyme į paklausimą yra informacijos, kurios laikymą paslaptyje VMI privalo užtikrinti, tai toks atsakymas paklausėjui turi būti pateikiamas vienu iš šių būdų:
+Jeigu paruoštame atsakyme į paklausimą yra informacijos, kurios laikymą paslaptyje VMI privalo užtikrinti, tai toks atsakymas paklausėjui turi būti pateikiamas vienu iš šių būdų:
 
 13.1. tiesiogiai įteikiant paklausėjui ar jo atstovui, atvykusiam į VMI prie FM ar AVMI ir pateikusiems asmens tapatybę patvirtinantį dokumentą, paklausėjo atstovui – ir atstovavimą liudijantį dokumentą, prieš tai atsakymo pateikimą suderinus su paklausėju;
 
@@ -1219,17 +1209,17 @@ Prašymas gali būti pateiktas dėl vieno sandorio arba jų grupės ir su juo (j
 
 Prašyme mokesčių mokėtojas turi pateikti būsimojo sandorio suderinimui reikalingą informaciją:
 
-    nurodyti sandorius ir teisės aktus, dėl kurių kreipiamasi;
+nurodyti sandorius ir teisės aktus, dėl kurių kreipiamasi;
 
-    apibūdinti būsimąjį sandorį, kiekvieną faktą pagrindžiant prie prašymo pridedant dokumentus, nurodant sandorio šalis bei jų tarpusavio ryšius, kai tai turi įtakos apmokestinimui;
+apibūdinti būsimąjį sandorį, kiekvieną faktą pagrindžiant prie prašymo pridedant dokumentus, nurodant sandorio šalis bei jų tarpusavio ryšius, kai tai turi įtakos apmokestinimui;
 
-    detaliai aprašyti visas aplinkybes, su kuriomis mokesčių įstatymai sieja apmokestinimą;
+detaliai aprašyti visas aplinkybes, su kuriomis mokesčių įstatymai sieja apmokestinimą;
 
-    nurodyti kitus su būsimuoju sandoriu susijusius sandorius, kurie turi įtakos sprendimo priėmimui, bei kitą apmokestinimui reikšmingą informaciją;
+nurodyti kitus su būsimuoju sandoriu susijusius sandorius, kurie turi įtakos sprendimo priėmimui, bei kitą apmokestinimui reikšmingą informaciją;
 
-    nurodyti mokesčių teisės aktų nuostatas, kurios, mokesčių mokėtojo nuomone, taikytinos aprašytam būsimajam sandoriui;
+nurodyti mokesčių teisės aktų nuostatas, kurios, mokesčių mokėtojo nuomone, taikytinos aprašytam būsimajam sandoriui;
 
-    kitą informaciją ir įrodymus, kuriais grindžiamas siūlomas mokesčių teisės aktų nuostatų taikymas.
+kitą informaciją ir įrodymus, kuriais grindžiamas siūlomas mokesčių teisės aktų nuostatų taikymas.
 
 	
 
@@ -1239,12 +1229,12 @@ Mokesčių mokėtojas gali pasirinkti, dėl kokių būsimųjų kontroliuojamųj�
 
 Prašyme mokesčių mokėtojas turi pateikti būsimojo kontroliuojamojo sandorio kainodaros principų suderinimui reikalingą informaciją:
 
-    būsimojo kontroliuojamojo sandorio dalyvius, jų ekonominius bei teisinius tarpusavio ryšius;
+būsimojo kontroliuojamojo sandorio dalyvius, jų ekonominius bei teisinius tarpusavio ryšius;
 
-    informaciją apie kontroliuojamąjį sandorį, jo kainų atitikimo ištiestosios rankos principui pagrindimą — kainodaros metodą;
+informaciją apie kontroliuojamąjį sandorį, jo kainų atitikimo ištiestosios rankos principui pagrindimą — kainodaros metodą;
 
-    palyginamuosius duomenis, kritines prielaidas (sąlygas) nuo kurių priklausys, ar pasirinkta būsimojo kontroliuojamojo sandorio kainodaros metodika yra tinkama;
+palyginamuosius duomenis, kritines prielaidas (sąlygas) nuo kurių priklausys, ar pasirinkta būsimojo kontroliuojamojo sandorio kainodaros metodika yra tinkama;
 
-    kitą informaciją ir įrodymus, kuriais grindžiamas siūlomas mokesčių teisės aktų nuostatų taikymas.
+kitą informaciją ir įrodymus, kuriais grindžiamas siūlomas mokesčių teisės aktų nuostatų taikymas.
 
 Jeigu teisės aktai nenumato imperatyvaus reikalavimo tvirtinti atitinkamą įgaliojimą notarine tvarka, įgaliojimas gali būti sudarytas informacinių technologijų priemonėmis ir įregistruotas viešame VĮ „Registrų centras“ Įgaliojimų registre. Tokiu atveju asmeniui kreipiantis į VMI dėl bet kokių VMI teikiamų viešųjų ir administracinių paslaugų, kaip tai suprantama Lietuvos Respublikos viešojo administravimo įstatyme, gavimo, ir siekiant įgalioti kitą asmenį tokias paslaugas gauti, gali būti pateikiamas supaprastintas įgaliojimas.
