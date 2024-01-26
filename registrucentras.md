@@ -759,8 +759,6 @@ Patalpų, kuriose įregistruota juridinio asmens buveinė, savininkas turi teis�
 
 Už prašymo išregistruoti vieno juridinio asmens buveinę priėmimą mokamas 12,06 euro atlyginimas. Atsiskaitomąsias sąskaitas rasite čia.
 
-# Mokesčių žinyno naujienos
-
 ## DĖL GYVENTOJŲ PAJAMŲ MOKESČIO LENGVATŲ GYVYBĖS DRAUDIMO IR KITOMS ĮMOKOMS DEKLARAVIMO UŽ 2023 METUS
 
 #### URL: https://www.vmi.lt/evmi/mokesciu-zinynas
