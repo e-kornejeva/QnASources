@@ -761,9 +761,9 @@ Už prašymo išregistruoti vieno juridinio asmens buveinę priėmimą mokamas 1
 
 # Mokesčių žinyno naujienos
 
-#### URL: https://www.vmi.lt/evmi/mokesciu-zinynas
-
 ## DĖL GYVENTOJŲ PAJAMŲ MOKESČIO LENGVATŲ GYVYBĖS DRAUDIMO IR KITOMS ĮMOKOMS DEKLARAVIMO UŽ 2023 METUS
+
+#### URL: https://www.vmi.lt/evmi/mokesciu-zinynas
 
 Primename, kad nuolatiniai Lietuvos gyventojai (toliau – gyventojai) turi teisę pasinaudoti GPMĮ[1] 21 straipsnyje nustatytomis pajamų mokesčio lengvatomis ir susigrąžinti dalį pajamų mokesčio, išskaičiuoto (sumokėto) nuo 2023 m. mokestiniu laikotarpiu gautų pajamų, arba sumažinti mokėtiną pajamų mokestį.
 
@@ -803,10 +803,11 @@ Svarbu: Bendra visų atimamų išlaidų (t. y. gyvybės draudimo įmokų, įmok�
 
 Rašte išdėstytomis lengvatomis negali pasinaudoti gyventojai, kurie:
 
-    mokestiniu laikotarpiu gavo tik pajamų mokesčiu neapmokestinamų pajamų,
-        ne individualios veiklos pajamų už parduotas atliekas, apmokestintas taikant 5 proc., pajamų mokesčio tarifą, ir/ar
-        pajamų, nuo kurių pajamų mokestis sumokėtas įsigyjant verslo liudijimą, taip pat
-        atitinkamas įmokas sumokėjo užsienio vienetams, įregistruotiems ar kitaip organizuotiems tikslinėse teritorijose[2].
+* mokestiniu laikotarpiu gavo tik pajamų mokesčiu neapmokestinamų pajamų,
+
+* ne individualios veiklos pajamų už parduotas atliekas, apmokestintas taikant 5 proc., pajamų mokesčio tarifą, ir/ar pajamų, nuo kurių pajamų mokestis sumokėtas įsigyjant verslo liudijimą, taip pat
+  
+* atitinkamas įmokas sumokėjo užsienio vienetams, įregistruotiems ar kitaip organizuotiems tikslinėse teritorijose[2].
 
        Išsamią informaciją apie gyvybės draudimo ir kitas įmokas mokantiems gyventojams taikomas lengvatas galima rasti GPMĮ 21 straipsnio apibendrintame paaiškinime (komentare), kuris paskelbtas VMI prie FM interneto svetainėje (adresu: www.vmi.lt).
 
@@ -822,6 +823,8 @@ Pasinaudoti mokesčio lengvatomis galima pateikiant VMI iki š. m. gegužės 2 d
 [3] patvirtinta Valstybinės mokesčių inspekcijos prie Lietuvos Respublikos finansų ministerijos viršininko 2019 m. gruodžio 12 d. įsakymu Nr. VA-93 „Dėl Pavyzdinės pajamų mokesčio deklaracijos GPM311 formos ir jos priedų formų ir jų užpildymo, pateikimo bei tikslinimo taisyklių patvirtinimo“.
 
 ## DĖL 2023 METAIS GYVENTOJŲ GAUTŲ PALŪKANŲ APMOKESTINIMO IR DEKLARAVIMO
+
+#### URL: https://www.vmi.lt/evmi/mokesciu-zinynas
 
 Paaiškiname, kokia tvarka apmokestinamos ir deklaruojamos 2023 metais gyventojų gautos palūkanos:
 
