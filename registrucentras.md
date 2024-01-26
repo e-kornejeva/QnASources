@@ -822,8 +822,6 @@ Pasinaudoti mokesčio lengvatomis galima pateikiant VMI iki š. m. gegužės 2 d
 
 ## DĖL 2023 METAIS GYVENTOJŲ GAUTŲ PALŪKANŲ APMOKESTINIMO IR DEKLARAVIMO
 
-#### URL: https://www.vmi.lt/evmi/mokesciu-zinynas
-
 Paaiškiname, kokia tvarka apmokestinamos ir deklaruojamos 2023 metais gyventojų gautos palūkanos:
 
 1. Kai palūkanos gautos už suteiktas paskolas.
@@ -840,7 +838,7 @@ Nenuolatinio Lietuvos gyventojo (toliau – nenuolatinis gyventojas) gautos pal�
 
 Pagal GPMĮ 17 straipsnio 1 dalies 20-2 punkto nuostatas 2023 metais gautų palūkanų už vartojimo kreditą, suteiktą per tarpusavio skolinimo platformą Lietuvos Respublikos vartojimo kredito įstatyme ar atitinkamame Europos ekonominės erdvės valstybės įstatyme nustatyta tvarka, taip pat palūkanų už lėšas, suteiktas per sutelktinio finansavimo platformą 2020 m. spalio 7 d. Europos Parlamento ir Tarybos reglamente (ES) 2020/1503 dėl Europos sutelktinio finansavimo paslaugų verslui teikėjų, kuriuo iš dalies keičiamas Reglamentas (ES) 2017/1129 ir Direktyva (ES) 2019/1937, ar atitinkamame Europos ekonominės erdvės valstybės įstatyme nustatyta tvarka, suma, neviršijanti 500 eurų per mokestinį laikotarpį.
 
-                 Tokių pagal mokesčio mokėjimo tvarką B klasės neapmokestinamosioms pajamoms priskiriamų palūkanų nuolatiniam gyventojui Pavyzdinėje pajamų mokesčio deklaracijos GPM311 formoje deklaruoti neprivalu.
+Tokių pagal mokesčio mokėjimo tvarką B klasės neapmokestinamosioms pajamoms priskiriamų palūkanų nuolatiniam gyventojui Pavyzdinėje pajamų mokesčio deklaracijos GPM311 formoje deklaruoti neprivalu.
 
 Kai bendra 2023 metais gautų palūkanų suma viršija 500 Eur sumą, pajamų mokesčiu neapmokestinama 500 Eur, o šį dydį viršijanti suma apmokestinama taikant GPMĮ 6 straipsnyje nustatytą 15 proc. pajamų mokesčio tarifą, o metinei pajamų ne iš darbo santykių arba jų esmę atitinkančių santykių[5] daliai, viršijančiai 120 VDU dydžio sumą, taikomą apdraustųjų asmenų einamųjų metų VSD įmokų bazei skaičiuoti, taikomas 20 proc. pajamų mokesčio tarifas.
 
@@ -862,9 +860,9 @@ Tokių pagal mokesčio mokėjimo tvarką B klasės neapmokestinamosioms pajamoms
 
 3.2. Kai 3.1. punkte išvardyti ne nuosavybės vertybiniai popieriai įsigyti ir/ar indėlių sutartys sudarytos nuo 2014-01-01, nuolatinio Lietuvos gyventojo gautos palūkanos pajamų mokesčiu neapmokestinamos, kai bendra per mokestinį laikotarpį gauta palūkanų suma už ne nuosavybės vertybinius popierius ir už indėlius neviršija 500 Eur (GPMĮ 17 str. 1 d. 20 p.).
 
-                 Pvz., Gyventojas 2023 metais (nuo 2023-01-01 iki 2023-12-31) gavo: 50 Eur palūkanų už Lietuvos banke „X“ laikomą indėlį (indėlio sutartis sudaryta 2022-01-06), 320 Eur palūkanų už Lenkijos Vyriausybės obligacijas (obligacijos įsigytos 2022-03-10) ir 130 Eur palūkanų už UAB „Y“ obligacijas (obligacijos įsigytos 2021-02-02; vienetas – gyventojo darbdavys; mokamos palūkanos nėra didesnės nei kitiems tų pačių obligacijų turėtojams mokamos palūkanos). Viso 2023 metais gyventojas gavo 500 Eur palūkanų. Kadangi ši suma neviršija įstatyme nustatyto dydžio, ne nuosavybės vertybiniai popieriai įsigyti ir indėlio sutartis sudaryta nuo 2014-01-01, visa gautų pajamų suma gyventojų pajamų mokesčiu neapmokestinama.
+Pvz., Gyventojas 2023 metais (nuo 2023-01-01 iki 2023-12-31) gavo: 50 Eur palūkanų už Lietuvos banke „X“ laikomą indėlį (indėlio sutartis sudaryta 2022-01-06), 320 Eur palūkanų už Lenkijos Vyriausybės obligacijas (obligacijos įsigytos 2022-03-10) ir 130 Eur palūkanų už UAB „Y“ obligacijas (obligacijos įsigytos 2021-02-02; vienetas – gyventojo darbdavys; mokamos palūkanos nėra didesnės nei kitiems tų pačių obligacijų turėtojams mokamos palūkanos). Viso 2023 metais gyventojas gavo 500 Eur palūkanų. Kadangi ši suma neviršija įstatyme nustatyto dydžio, ne nuosavybės vertybiniai popieriai įsigyti ir indėlio sutartis sudaryta nuo 2014-01-01, visa gautų pajamų suma gyventojų pajamų mokesčiu neapmokestinama.
 
-                 Tokių pagal mokesčio mokėjimo tvarką B klasės neapmokestinamosioms pajamoms priskiriamų palūkanų sumos, neviršijančios 500 Eur per 2023 metus, nuolatiniam gyventojui Pavyzdinėje pajamų mokesčio deklaracijos GPM311 formoje deklaruoti neprivalu.
+Tokių pagal mokesčio mokėjimo tvarką B klasės neapmokestinamosioms pajamoms priskiriamų palūkanų sumos, neviršijančios 500 Eur per 2023 metus, nuolatiniam gyventojui Pavyzdinėje pajamų mokesčio deklaracijos GPM311 formoje deklaruoti neprivalu.
 
 Kai bendra 2023 metais gautų palūkanų suma už ne nuosavybės vertybinius popierius ir už indėlius viršija 500 Eur sumą, tai pajamų mokesčiu neapmokestinama 500 Eur, o šį dydį viršijanti suma apmokestinama taikant GPMĮ 6 straipsnyje nustatytą 15 proc. pajamų mokesčio tarifą, o metinei pajamų ne iš darbo santykių arba jų esmę atitinkančių santykių[8] daliai, viršijančiai 120 VDU dydžio sumą, taikomą apdraustųjų asmenų einamųjų metų VSD įmokų bazei skaičiuoti, taikomas 20 proc. pajamų mokesčio tarifas.
 
