@@ -187,3 +187,131 @@ Mokant baudas už administracinius nusižengimus už mokesčių mokėtoją, mok�
 Jeigu mokesčių prievolių, administracinių baudų ar kitų įmokų mokėjimą atliekate iš užsienio banko sąskaitos, o mokėjimo nurodyme nėra atskirų skilčių asmens, už kurį mokama, įmokos kodo ir kitos informacijos, būtinos mokėjimui atlikti, šią informaciją (mokesčių mokėtojo kodą ir vardą, pavardę asmens, už kurį mokama, įmokos kodą, mokant administracinę baudą – 11 skaitmenų nusižengimo identifikacinį kodą (ROIK) būtina nurodyti kitame, tam skirtame mokėjimo nurodymo laukelyje (pvz., mokėjimo paskirtyje).
 
 Mokestis laikomas sumokėtu, kai mokesčių administratoriaus kredito įstaiga gauna lėšas iš mokesčių mokėtojo kredito įstaigos.
+
+## Mokesčių apskaičiavimas
+
+#### URL: https://www.vmi.lt/evmi/mokes%C4%8Di%C5%B3-apskai%C4%8Diavimas-66-72-str.-
+
+Apskaičiuoti ar perskaičiuoti mokestį gali:
+
+1. mokesčių mokėtojas (išskyrus tam tikras išimtis, pvz., žemės mokestį apskaičiuoja VMI), pastebėjęs, kad mokestis buvo apskaičiuotas neteisingai;
+
+2. mokestį išskaičiuojantis asmuo;
+
+3. VMI, tuo atveju, kai tai nustato atitinkamo mokesčio įstatymas, kai mokesčių mokėtojas įstatymų nustatyta tvarka neapskaičiavo mokesčio arba neteisingai apskaičiavęs, jo neperskaičiavo.
+
+Laikotarpis, už kurį gali būti apskaičiuotas ar perskaičiuotas mokestis:
+
+1. Jeigu kitaip nenustatyta atitinkamo mokesčio įstatyme, mokesčių mokėtojas ar mokesčių administratorius mokestį apskaičiuoti arba perskaičiuoti gali ne daugiau kaip už einamuosius ir trejus praėjusius kalendorinius metus, skaičiuojamus atgal nuo tų metų, kada pradedama mokestį apskaičiuoti arba perskaičiuoti, sausio 1 dienos.
+
+2. Mokesčių administratoriui atliekant pakartotinį mokesčių mokėtojo patikrinimą, 1 punkte nurodytos nuostatos netaikomos, tačiau mokesčių administratorius tokio patikrinimo metu negali apskaičiuoti mokesčio už ilgesnį laikotarpį negu pirminio patikrinimo metu.
+
+3. Jeigu mokesčių mokėtojas pateikia mokesčio deklaraciją arba patikslintą mokesčio deklaraciją likus mažiau kaip 90 dienų iki 1 punkte numatyto mokesčio apskaičiavimo (perskaičiavimo) termino pabaigos, mokesčių administratorius gali patikrinti šioje deklaracijoje deklaruoto mokesčio apskaičiavimo teisingumą ir jį perskaičiuoti neatsižvelgdamas į  1 punkte nurodytas  nuostatas, jeigu mokesčių administratorius patikrinimą pradeda ne vėliau kaip per 90 dienų nuo šios deklaracijos pateikimo dienos.
+
+4. Apskaičiuoti ar perskaičiuoti mokestį už ilgesnį negu 1 punkte numatytas terminas, bet ne daugiau, kaip už einamuosius ir penkerius praėjusius kalendorinius metus, skaičiuojamus 1 punkte.  nustatyta tvarka, galima šiais atvejais:
+
+- kai apskaičiuojamas ar perskaičiuojamas gyventojų pajamų mokestis (išskyrus fizinio asmens mokamo pajamų mokesčio nuo pajamų iš individualios veiklos dalį);
+
+- kai mokesčių administratorius apskaičiuoja ar perskaičiuoja mokesčių mokėtojo, neatitinkančio minimalių patikimo mokesčių mokėtojo kriterijų, mokesčius;
+
+- kai, remiantis šio Įstatymo 611 straipsniu, mokesčių administratorius mokesčius apskaičiuoja ar perskaičiuoja pagal automatinių informacijos mainų pagrindu gautą informaciją;
+
+- kai mokestis apskaičiuojamas ar perskaičiuojamas taikant Lietuvos Respublikos pelno mokesčio įstatymo 40 straipsnio 2 dalį, taip pat tikrinant Pelno mokesčio įstatymo 5 straipsnio 7 dalies ir 461 straipsnio taikymo pagrįstumą. Šiuo atveju apskaičiuoti ar perskaičiuoti mokestį už ilgesnį negu 1 punkte numatytas terminas galima tik tiek, kiek tai susiję su šiame punkte nurodytąja aplinkybe;
+
+- kai siekiama įrodyti skolų beviltiškumą ir pastangas susigrąžinti šias skolas pagal Pridėtinės vertės mokesčio įstatymo 891 straipsnį, Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo 18 straipsnį, Pelno mokesčio įstatymo 25 straipsnį. Šiuo atveju apskaičiuoti ar perskaičiuoti mokestį už ilgesnį negu 1 punkte numatytas terminas galima tik tiek, kiek tai susiję su šiame punkte nurodytąja aplinkybe;
+
+- kai mokestis apskaičiuojamas ar perskaičiuojamas teismui pripažinus mokesčio mokėtojo bankrotą tyčiniu;
+
+- kai pagal Pridėtinės vertės mokesčio įstatymo VIII skyriaus nuostatas daroma ilgalaikio turto, kuris nėra nekilnojamasis turtas, atskaita. Šiuo atveju apskaičiuoti ar perskaičiuoti mokestį už ilgesnį negu 1 punkte numatytas terminas galima tik tiek, kiek tai susiję su šiame punkte nurodytąja aplinkybe.
+
+1. Mokesčių administratorius apskaičiuoti ar perskaičiuoti mokestį už ilgesnį negu MAĮ 68 str. 1 dalyje numatytas terminas gali tuo atveju, kai baudžiamojoje byloje būtina nustatyti padarytą žalą valstybei ir nėra pasibaigę Baudžiamajame kodekse nustatyti apkaltinamojo nuosprendžio priėmimo senaties terminai.
+
+2. Apskaičiuoti ar perskaičiuoti mokestį už ilgesnį negu MAĮ 68 str. 1 dalyje numatytas terminas, bet ne daugiau kaip už einamuosius ir dešimt praėjusių kalendorinių metų, skaičiuojamų MAĮ 68 str.  1 dalyje nustatyta tvarka, galima šiais atvejais:
+
+- kai pagal Pridėtinės vertės mokesčio įstatymo VIII skyriaus nuostatas daroma nekilnojamojo turto, pripažinto ilgalaikiu turtu, atskaita. Šiuo atveju apskaičiuoti ar perskaičiuoti mokestį už ilgesnį negu MAĮ 68 str. 1 dalyje numatytas terminas galima tik tiek, kiek tai susiję su šiame punkte nurodytąja aplinkybe;           
+
+- kai vykdomos dvigubo apmokestinimo ginčų sprendimo procedūros, numatytos Lietuvos Respublikos sudarytose ir taikomose dvigubo apmokestinimo išvengimo sutartyse, Lietuvos Respublikos dvigubo apmokestinimo ginčų sprendimo įstatyme, Konvencijoje 90/436/EEB dėl dvigubo apmokestinimo išvengimo koreguojant asocijuotų įmonių pelną arba Daugiašalėje konvencijoje, taip pat kai mokesčių administratorius apskaičiuoja arba perskaičiuoja mokestį. Šiuo atveju apskaičiuoti ar perskaičiuoti mokestį už ilgesnį negu MAĮ 68 str. 1 dalyje numatytas terminas galima tik tiek, kiek tai susiję su šiame punkte nurodytąja aplinkybe.
+
+VMI ir mokesčių mokėtojas susitarimą gali pasirašyti tik tuo atveju, jeigu apskaičiuojant mokesčius nė viena iš šalių neturi pakankamai įrodymų savo apskaičiavimams pagrįsti.
+
+Susitarimo metu šalys išsprendžia kilusį ginčą, užkerta kelią kilti mokestiniam ginčui ateityje, išsprendžia mokestinės prievolės klausimą arba kitus ginčytinus klausimus.
+
+Pasiūlymą pasirašyti susitarimą savo iniciatyva gali teikti ir mokesčių mokėtojas, ir mokesčių administratorius mokestinio tyrimo ar mokestinio patikrinimo metu, taip pat visų mokestinių ginčų nagrinėjimo etapų metu.
+
+Nepavykus susitarimo pasirašyti per vieną etapą, jo pasirašymas gali būti inicijuojamas per kitus etapus, pvz., nepavykus susitarimo pasirašyti mokestinio patikrinimo metu, jo pasirašymas gali būti inicijuojamas bet kuriame mokestinio ginčo etape. Tačiau pakartotinis susitarimo procedūros inicijavimas tame pačiame ginčo etape galimas tik paaiškėjus naujoms su ginču susijusioms aplinkybėms, kurios nebuvo žinomos svarstant anksčiau pateiktą prašymą pradėti susitarimo procedūrą.
+
+Mokesčių mokėtojas, neturintis pakankamai įrodymų savo mokesčių apskaičiavimams pagrįsti, ir pageidaujantis susitarimą pasirašyti mokestinio tyrimo ar mokestinio patikrinimo metu, turi raštu kreiptis į mokesčių administratorių, atliekantį tą mokestinį tyrimą ar mokestinį patikrinimą.
+
+Pasiūlymas pasirašyti susitarimą mokestinio tyrimo metu gali būti pateikiamas per trūkumų ir / ar prieštaravimų pašalinimo terminą, nurodytą Pranešime apie atliktą mokestinį tyrimą (forma FR0687).
+
+Pasiūlymas pasirašyti susitarimą mokestinio patikrinimo metu gali būti pateikiamas atliekamo patikrinimo metu po to, kai mokesčių mokėtojas supažindinamas su patikrinimo akto projektu, arba per rašytinių pastabų pateikimo terminą.
+
+Mokesčių mokėtojas, susitarimą pageidaujantis pasirašyti mokestinio ginčo, kurį nagrinėja VMI prie FM, Mokestinių ginčų komisija prie Lietuvos Respublikos Vyriausybės ar teismas, metu, dėl susitarimo pasirašymo raštu turi kreiptis į VMI prie FM arba pasiūlymą VMI prie FM pateikti per AVMI, atlikusią mokestinį patikrinimą, kai pasiūlymas pasirašyti susitarimą sutampa su skundo dėl sprendimo dėl patikrinimo akto priėmimo padavimu VMI prie FM. Taip pat  šalis,  prašanti inicijuoti susitarimą, informuoja ginčą nagrinėjančią instituciją apie pateiktą prašymą.
+
+Mokesčių mokėtojas, pageidaujantis pasirašyti susitarimą, turi pateikti rašytinį pasiūlymą, kuriame rekomenduojama nurodyti:
+
+1. pavadinimą (jei tai fizinis asmuo — vardą, pavardę), identifikacinį numerį (asmens kodą), buveinės adresą (gyvenamąją vietą), telefoną, elektroninio pašto adresą;
+
+2. mokesčių administratoriaus nustatytas aplinkybes (faktus), kurios yra susitarimo objektas, ir dėl kurių apskaičiuoti ar apskaičiuotini mokesčiai bei su jais susijusių sumų dydžiai;
+
+3. argumentus dėl mokesčių administratoriaus nustatytų aplinkybių (faktų) ir jo apskaičiuotų ar apskaičiuotinų mokesčių ir su jais susijusių sumų dydžių nepagrįstumo, kaip (kokia suma) argumentai įtakoja mokesčio dydį;
+
+4. išvadas ir pasiūlymus dėl susitarimo pasirašymo;
+
+5. kitą informaciją, dokumentus, kurie gali būti svarbūs, nagrinėjant mokesčių mokėtojo pasiūlymą.
+
+Mokesčių mokėtojas pasiūlymą pasirašyti susitarimą gali išdėstyti ir pastabose dėl surašyto patikrinimo akto arba VMI prie FM pateiktame skunde.
+
+Pasiūlymą pasirašyti susitarimą mokesčių mokėtojui gali pateikti ir VMI vardu darbo grupė. Tokiu atveju VMI parengia ir mokesčių mokėtojui išsiunčia pasiūlymą atvykti į derybas dėl mokesčio ir su juo susijusių sumų dydžio.
+
+Mokesčių administratoriui ir mokesčių mokėtojui pasirašius susitarimą, mokesčių mokėtojas praranda teisę ginčyti mokesčio apskaičiavimo teisingumą, o VMI praranda teisę apskaičiuoti didesnę sumą, negu nurodyta pasirašytame susitarime.
+
+VMI, apskaičiuodama mokestį, turi teisę vertinti mokesčių mokėtojo veiklos turinį, o ne formalią jos išrašką.
+
+VMI mokestį apskaičiuoja taikydama turinio viršenybės prieš formą principą, kai:
+
+1. formaliai sudaryti sandoriai, ūkinės operacijos fiksuojamos apskaitoje, jei tai numato teisės aktai, ir yra vykdomi;
+
+2. sudarytas sandoris, ūkinė operacija ar bet kokia jų grupė, vertinant atliktų veiksmų visumą, savo turiniu neatitinka mokesčio įstatymo tikslo ir prasmės, tačiau atskirais veiksmais formaliai teisės aktų reikalavimai nepažeidžiami arba jų pažeidimas yra labai abejotinas;
+
+3. sandorio, ūkinės operacijos ar bet kokios jų grupės sudarymo pagrindinis tikslas – mokestinė nauda, kuri suprantama kaip mokesčio mokėjimo terminų nukėlimas, mokėtinos mokesčio sumos sumažinimas arba visiškas mokesčio išvengimas, grąžintinos (įskaitytinos) mokesčio permokos (skirtumo) padidinimas, arba mokesčio permokos (skirtumo) grąžinimo terminų sutrumpinimas;
+
+4. sudarytas sandoris, ūkinės operacijos ar bet kokia jų grupė nepateisinamas jokiais verslo ar kitais, jo naudą pagrindžiančiais, poreikiais, išskyrus nurodytą 3 punkte, ir įprastinėmis rinkos sąlygomis jie nebūtų sudaromi.
+
+Apskaičiuojant ar perskaičiuojant mokestį neatsižvelgiama į formalią mokesčių mokėtojo veiklos išraišką, bet atkuriamos iškreiptos ar slėptos aplinkybės. Mokestis apskaičiuojamas pagal atitinkamo mokesčio įstatymo nuostatas.
+
+Įvertinimas gali būti atliekamas, kai VMI mokesčių mokėtojo mokestinės prievolės dydžio negali nustatyti įprastine, atitinkamo mokesčio įstatyme nustatyta tvarka, nes mokesčių mokėtojas nevykdo arba netinkamai vykdo savo pareigas:
+
+1. apskaičiuodamas mokesčius nepateikia mokesčio deklaracijos, nustatyta tvarka patvirtintos ataskaitos ar kito dokumento, į mokesčio deklaraciją įrašo neteisingus duomenis;
+
+2. bendradarbiaudamas su VMI nevykdo arba netinkamai vykdo mokesčių teisės aktuose nustatytas mokesčių mokėtojo pareigas, trukdo VMI įgyvendinti jai suteiktas teises, nevykdo VMI nurodymų pateikti apskaitos dokumentus, registrus, sutvarkyti buhalterinę apskaitą ir kitais atvejais;
+
+3. netvarko apskaitos ar tvarko nesilaikydamas Lietuvos įstatymų;
+
+4. neišsaugo, arba išsaugo ne visus, apskaitos ar kitus dokumentus.
+
+Pagal kitų valstybės institucijų dokumentus mokesčio apskaičiavimo ir perskaičiavimo būdas taikomas, kai įstatymų nustatyta tvarka, kitos valstybės institucijos atlieka asmenų komercinės, ūkinės ar finansinės veiklos patikrinimus ir nustato mokesčių įstatymų pažeidimus, tačiau nėra įgaliotos atlikti mokesčių administravimo veiksmų.
+
+VMI, apskaičiuodama mokestį pagal savo įvertinimą, naudojasi:
+
+1. mokesčių mokėtojo pateiktais dokumentais;
+
+2. kitų mokesčių mokėtojų pateiktais dokumentais;
+
+3. informacija, gauta iš kitų asmenų;
+
+4. informacija, gauta iš Lietuvos ir užsienio valstybių mokesčių administratorių, kitų institucijų;
+
+5. informacija, gauta iš registrų (kadastrų);
+
+6. informacija, gauta stebėjimo būdu;
+
+7. informacija, gauta iš statistikos leidinių;
+
+8. informacija, gauta iš žinynų, katalogų;
+
+9. informacija, gauta iš spaudos, informacinių biuletenių, kitų visuomenės informavimo priemonių;
+
+10. informacija, gauta iš interneto svetainių;
+
+11. informacija, gauta iš kitų šaltinių, kurių pagrindu galima nustatyti mokesčių mokėtojo atitinkamus veiklos rodiklius, gauti kitą įvertinimui atlikti reikalingą informaciją.
