@@ -995,7 +995,6 @@ Jeigu prašymas mokesčių administratoriui pateiktas ne pagal kompetenciją, mo
 5. Mokesčių administratorius, 3 punkte nurodytais atvejais atsisakydamas suteikti asmens ar jo įgalioto asmens prašomą informaciją apie mokesčių mokėtoją, ne vėliau kaip per 20 darbo dienų nuo prašymo gavimo VMI prie FM ar AVMI dienos turi apie tai raštu pranešti trečiajam asmeniui bei nurodyti atsisakymo priežastis ir galimybę šį atsisakymą apskųsti teisės aktų nustatyta tvarka.
 
 Mokesčių mokėtojo teisės
-	
 
 Mokesčių mokėtojo pareigos
 
@@ -1029,8 +1028,6 @@ pareikšti savo požiūrį dėl mokesčių administratoriaus priimtų sprendimų
 
 naudotis kitomis šio ir kitų įstatymų bei jų lydimųjų teisės aktų suteiktomis teisėmis.
 
-	
-
 laiku ir tiksliai įvykdyti mokestinę prievolę;
 
 bendradarbiauti su VMI, vykdyti jos teisėtus nurodymus ir netrukdyti įgyvendinti įstatymu suteiktų teisių;
@@ -1060,7 +1057,6 @@ Lietuvos Respublikos Vyriausybės arba jos įgaliotos institucijos nustatytais a
 atlikti kitas šiame ir kituose įstatymuose bei jų lydimuose teisės aktuose numatytas pareigas.
 
 VMI pareigos
-	
 
 VMI teisės
 
@@ -1081,8 +1077,6 @@ atlikdamas savo funkcijas, stengtis kuo mažiau trikdyti mokesčių mokėtojo ve
 užtikrinti, kad būtų laikomasi asmens duomenų tvarkymo reikalavimų, ir įgyvendinti tinkamas technines ir organizacines duomenų saugumo priemones ir kitas 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamente (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas) duomenų valdytojui nustatytas prievoles;
 
 vykdyti kitas MAĮ ir kituose įstatymuose bei jų lydimuosiuose teisės aktuose nustatytas pareigas.
-
-	
 
 gauti iš asmenų, tarp jų iš kredito, mokėjimo ir elektroninių pinigų įstaigų, mokesčių administravimo ir kitoms teisės aktuose nustatytoms funkcijoms atlikti reikiamus duomenis ir dokumentų nuorašus, kompiuterinių laikmenų duomenis (kopijas) apie to arba kitų konkrečiai įvardytų asmenų, įskaitant naudos gavėjus, turtą, pajamas, išlaidas ir veiklą, naudotis savo ir kitų juridinių asmenų valdomų ar tvarkomų registrų, duomenų bazių informacija;
 
@@ -1128,8 +1122,6 @@ užkardydamas galimai neteisėtus asmenų veiksmus ir saugodamas valstybės fina
 
 naudotis kitomis mokesčių ir kitų įstatymų suteiktomis teisėmis.
 
- 
-
 VMI, atlikdama savo funkcijas ir įgyvendindama jai įstatymu suteiktas teises, atliekamus veiksmus įformina sprendimais ir kitais dokumentais, kurių formas ir užpildymo tvarką nustato VMI.
 
 Paklausimus VMI paklausėjai gali pateikti tokiais būdais:
@@ -1158,17 +1150,15 @@ raštu:
 
 Pažymėtina, kad mokesčių mokėtojai neprivalo vadovautis pateikta konsultacija mokesčių mokėjimo klausimais.
 
-
-
 Jeigu paklausėjo atsiųstas rašytinis paklausimas yra nesudėtingas, tai konsultacija turi būti suteikiama ne vėliau kaip per 5 darbo dienas nuo paklausimo gavimo VMI prie FM dienos.
 
 Jeigu paklausimas gaunamas VMI bendruoju elektroninio pašto adresu, toks paklausimas užregistruojamas ne vėliau kaip artimiausią darbo dieną. Paklausimas, gautas VMI valstybės tarnautojo ar darbuotojo institucijos jam suteiktu elektroninio pašto adresu, turi būti persiųstas ne vėliau kaip artimiausią darbo dieną VMI administracijos padaliniui, vykdančiam dokumentų registravimo funkcijas. Į šiame punkte nurodytus paklausimus atsakoma šio skyriaus nustatyta tvarka.
 
 Paklausėjui sutikus ar paprašius, į nesudėtingą rašytinį paklausimą, konsultaciją ir / ar informaciją gali suteikti VMI prie FM Mokesčių informacijos departamentas paklausėjo nurodytu telefonu. Jeigu atskleidžiama informacija apie mokesčių mokėtoją, kurios laikymą paslaptyje VMI privalo užtikrinti, tai prieš tokį pokalbį telefonu konsultantas privalo paklausėją identifikuoti vienu iš taisyklių 10 punkte nurodytų būdų. Suteikus konsultaciją konsultavimo telefonu, atsakymas raštu neteikiamas.
 
-    Siekdamas parengti tikslią rašytinę konsultaciją ir išvengti neteisingų interpretacijų, ne vėliau kaip per 10 darbo dienų nuo paklausimo gavimo dienos rašytinę konsultaciją rengiantis konsultantas gali paprašyti paklausėjo patikslinti duomenis. Konsultacija teikiama, tik gavus patikslintus duomenis. Tokiu atveju rašytinės konsultacijos pateikimo terminas šių taisyklių 42 punkte nustatyta tvarka skaičiuojamas nuo patikslintų duomenų gavimo iš paklausėjo dienos.
+Siekdamas parengti tikslią rašytinę konsultaciją ir išvengti neteisingų interpretacijų, ne vėliau kaip per 10 darbo dienų nuo paklausimo gavimo dienos rašytinę konsultaciją rengiantis konsultantas gali paprašyti paklausėjo patikslinti duomenis. Konsultacija teikiama, tik gavus patikslintus duomenis. Tokiu atveju rašytinės konsultacijos pateikimo terminas šių taisyklių 42 punkte nustatyta tvarka skaičiuojamas nuo patikslintų duomenų gavimo iš paklausėjo dienos.
 
-    Pakartotinai konsultacija gali būti teikiama, jeigu pakartotinai kreipdamasis paklausėjas nurodo naujas aplinkybes. Jeigu tas pats paklausėjas pakartotinai kreipiasi į VMI prie FM konsultacijos tuo pačiu klausimu, nenurodydamas naujų aplinkybių, tai jis informuojamas apie tuo klausimu jam jau suteiktą konsultaciją ir apie tai, kad tokiu atveju pakartotinai konsultacija neteikiama.
+Pakartotinai konsultacija gali būti teikiama, jeigu pakartotinai kreipdamasis paklausėjas nurodo naujas aplinkybes. Jeigu tas pats paklausėjas pakartotinai kreipiasi į VMI prie FM konsultacijos tuo pačiu klausimu, nenurodydamas naujų aplinkybių, tai jis informuojamas apie tuo klausimu jam jau suteiktą konsultaciją ir apie tai, kad tokiu atveju pakartotinai konsultacija neteikiama.
 
 Jeigu paklausėjo paklausime išdėstyti klausimai susiję su kelių institucijų kompetencija, tai dėl tos dalies (jeigu ją galima suteikti atskirai nuo visos prašomos konsultacijos ir / ar informacijos) paklausimo, kuri susijusi su VMI kompetencija, konsultacija ir / ar informacija suteikiama šių taisyklių nustatyta tvarka, dėl kitos dalies konsultacijos paklausimas persiunčiamas kitai kompetentingai institucijai ne vėliau kaip per 5 darbo dienas nuo paklausimo gavimo VMI dienos, kartu apie tai raštu informuojant paklausėją ir paaiškinant persiuntimo priežastis.
 
@@ -1201,13 +1191,10 @@ Būsimasis sandoris suprantamas kaip mokesčių mokėtojo sandoris, ūkinė oper
 Prašymą mokesčių mokėtojas turi pateikti VMI prie FM. Prašymą pateikti gali mokesčių mokėtojas ar jo įgaliotas asmuo. Kai kreipiasi įgaliotas asmuo, turi būti pridedami įgaliojimą patvirtinantys dokumentai.
 
 Prašymas pritarti mokesčių mokėtojo būsimojo sandorio mokesčių teisės aktų nuostatų taikymui
-	
 
 Prašymas pritarti mokesčių mokėtojo būsimojo kontroliuojamojo sandorio kainodaros principams
 
 Prašymas gali būti pateiktas dėl vieno sandorio arba jų grupės ir su juo (jais) susijusių vieno ar kelių mokesčių, pateikiant vieną arba kelis argumentuotus apmokestinimo variantus.
-
- 
 
 Prašyme mokesčių mokėtojas turi pateikti būsimojo sandorio suderinimui reikalingą informaciją:
 
@@ -1223,11 +1210,7 @@ nurodyti mokesčių teisės aktų nuostatas, kurios, mokesčių mokėtojo nuomon
 
 kitą informaciją ir įrodymus, kuriais grindžiamas siūlomas mokesčių teisės aktų nuostatų taikymas.
 
-	
-
 Mokesčių mokėtojas gali pasirinkti, dėl kokių būsimųjų kontroliuojamųjų sandorių jis kreipsis į VMI. Rekomenduotina, kad tai būtų sandoriai, kurių kainos nustatymas dėl sandorių sudėtingumo, unikalumo, ribotų galimybių rasti palyginamuosius nekontroliuojamuosius sandorius ir kitų aplinkybių yra sudėtingas, kelia pagrįstų abejonių dėl tokių sandorių kainodaros principų nustatymo teisingumo ir patikimumo.
-
- 
 
 Prašyme mokesčių mokėtojas turi pateikti būsimojo kontroliuojamojo sandorio kainodaros principų suderinimui reikalingą informaciją:
 
