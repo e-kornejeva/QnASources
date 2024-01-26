@@ -48,19 +48,12 @@ Rašte išdėstytomis lengvatomis negali pasinaudoti gyventojai, kurie:
   
 * atitinkamas įmokas sumokėjo užsienio vienetams, įregistruotiems ar kitaip organizuotiems tikslinėse teritorijose[2].
 
-       Išsamią informaciją apie gyvybės draudimo ir kitas įmokas mokantiems gyventojams taikomas lengvatas galima rasti GPMĮ 21 straipsnio apibendrintame paaiškinime (komentare), kuris paskelbtas VMI prie FM interneto svetainėje (adresu: www.vmi.lt).
+Išsamią informaciją apie gyvybės draudimo ir kitas įmokas mokantiems gyventojams taikomas lengvatas galima rasti GPMĮ 21 straipsnio apibendrintame paaiškinime (komentare), kuris paskelbtas VMI prie FM interneto svetainėje (adresu: www.vmi.lt).
 
 Pasinaudoti mokesčio lengvatomis galima pateikiant VMI iki š. m. gegužės 2 d. Pavyzdinę pajamų mokesčio deklaracijos GPM311 formą (toliau – Deklaracija)[3]. Patirtos išlaidos nurodomos Deklaracijos GPM311G priede „Išlaidos, mažinančios pajamas“.
 
-                 Pajamų mokesčio permoka, grąžintina gyventojui pagal jo iki š. m. gegužės 2 d. pateiktą 2023 m. mokestinio laikotarpio Deklaraciją, grąžinama iki š. m. liepos 31 d., o pagal pateiktą nuo š. m. gegužės 3 d., − per 90 dienų po jos gavimo VMI dienos.
+Pajamų mokesčio permoka, grąžintina gyventojui pagal jo iki š. m. gegužės 2 d. pateiktą 2023 m. mokestinio laikotarpio Deklaraciją, grąžinama iki š. m. liepos 31 d., o pagal pateiktą nuo š. m. gegužės 3 d., − per 90 dienų po jos gavimo VMI dienos.
  
-
-[1] Lietuvos Respublikos gyventojų pajamų mokesčio įstatymas.
-
-[2]Tikslinių teritorijų sąrašas patvirtintas Lietuvos Respublikos finansų ministro 2001 m. gruodžio 22 d. įsakymu Nr. 344 „Dėl Tikslinių teritorijų sąrašo patvirtinimo“.
-
-[3] patvirtinta Valstybinės mokesčių inspekcijos prie Lietuvos Respublikos finansų ministerijos viršininko 2019 m. gruodžio 12 d. įsakymu Nr. VA-93 „Dėl Pavyzdinės pajamų mokesčio deklaracijos GPM311 formos ir jos priedų formų ir jų užpildymo, pateikimo bei tikslinimo taisyklių patvirtinimo“.
-
 ## DĖL 2023 METAIS GYVENTOJŲ GAUTŲ PALŪKANŲ APMOKESTINIMO IR DEKLARAVIMO
 
 #### URL: https://www.vmi.lt/evmi/mokesciu-zinynas
@@ -115,23 +108,6 @@ Pažymėtina, kad nenuolatinis gyventojas GPMĮ 17 straipsnio 1 dalies 20 punkte
 
 Visos šiame rašte išdėstytos GPMĮ 17 straipsnyje nustatytos mokesčio lengvatos netaikomos, jeigu atitinkamos pajamos gautos iš užsienio vienetų, įregistruotų ar kitaip organizuotų tikslinėse teritorijose.Tikslinių teritorijų sąrašas patvirtintas Lietuvos Respublikos finansų ministro 2001 m. gruodžio 22 d. įsakymu Nr. 344 „Dėl tikslinių teritorijų sąrašo patvirtinimo“.
  
-
-[1] Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo.
-
-[2] išskyrus tantjemas, autorinius atlyginimus iš darbdavio, mažosios bendrijos vadovų (ne narių) pajamas, pajamas iš paskirstytojo pelno, individualios veiklos pajamas (pagal pažymą ir/ar verslo liudijimą), pajamas už parduotas atliekas;
-
-[3] Vidutinių šalies darbo užmokesčių.
-
-[4] Valstybinio socialinio draudimo.
-
-[5] išskyrus tantjemas, autorinius atlyginimus iš darbdavio, MB vadovų (ne MB narių) pajamas, pajamas iš paskirstytojo pelno, individualios veiklos pajamas (pagal pažymą ir/ar verslo liudijimą), pajamas už parduotas atliekas.
-
-[6] išskyrus, kai ne nuosavybės vertybiniai popieriai išleisti darbdavio ir jis darbuotojams moka didesnes palūkanas negu kitiems šių vertybinių popierių turėtojams
-
-[7] Europos ekonominė ervė.
-
-[8] (išskyrus tantjemas, autorinius atlyginimus iš darbdavio, MB vadovų (ne MB narių) pajamas, pajamas iš paskirstytojo pelno, individualios veiklos pajamas (pagal pažymą ir/ar verslo liudijimą), pajamas už parduotas atliekas)
-
 ## Mokesčių sumokėjimas, grąžinimas, įskaitymas
 
 #### URL: https://www.vmi.lt/evmi/mokes%C4%8Di%C5%B3-sumok%C4%97jimas-gr%C4%85%C5%BEinimas-%C4%AFskaitymas-82-87-str.-
