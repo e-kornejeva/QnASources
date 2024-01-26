@@ -758,3 +758,136 @@ Atlyginimas už individualios įmonės įregistravimą, teikiant prašymą popie
 Patalpų, kuriose įregistruota juridinio asmens buveinė, savininkas turi teisę kreiptis į Juridinių asmenų registro tvarkytoją asmeniškai (iš anksto registruotis galite čia) arba  paštu  su prašymu išregistruoti iš Registro juridinio asmens buveinę iš jam nuosavybės teise priklausančių patalpų. Prašymą gavęs Registro tvarkytojas, išsiunčia pranešimą apie numatomą buveinės išregistravimą Registre nurodytais valdymo organų narių adresais ir Registro tvarkytojo leidžiamame elektroniniame informaciniame leidinyje paskelbia informaciją apie gautą patalpų savininko prašymą dėl buveinės išregistravimo. Pranešime apie numatomą buveinės išregistravimą taip pat pateikiama informacija apie galimą juridinio asmens likvidavimą Civilinio kodekso 2.70 straipsnyje nustatyta tvarka. Jeigu juridinis asmuo per šešis mėnesius nuo pranešimo išsiuntimo ar informacijos apie gautą patalpų savininko prašymą dėl buveinės išregistravimo paskelbimo Registro tvarkytojo leidžiamame elektroniniame informaciniame leidinyje nepakeičia buveinės, Registro tvarkytojas išregistruoja juridinio asmens buveinę ir nurodo, kad juridinio asmens buveinė išregistruota patalpų savininko prašymu.
 
 Už prašymo išregistruoti vieno juridinio asmens buveinę priėmimą mokamas 12,06 euro atlyginimas. Atsiskaitomąsias sąskaitas rasite čia.
+
+# Mokesčių žinyno naujienos
+
+#### URL: https://www.vmi.lt/evmi/mokesciu-zinynas
+
+## DĖL GYVENTOJŲ PAJAMŲ MOKESČIO LENGVATŲ GYVYBĖS DRAUDIMO IR KITOMS ĮMOKOMS DEKLARAVIMO UŽ 2023 METUS
+
+Primename, kad nuolatiniai Lietuvos gyventojai (toliau – gyventojai) turi teisę pasinaudoti GPMĮ[1] 21 straipsnyje nustatytomis pajamų mokesčio lengvatomis ir susigrąžinti dalį pajamų mokesčio, išskaičiuoto (sumokėto) nuo 2023 m. mokestiniu laikotarpiu gautų pajamų, arba sumažinti mokėtiną pajamų mokestį.
+
+GPMĮ 21 straipsnyje nustatytomis pajamų mokesčio lengvatomis pasinaudoti gali tie gyventojai, kurie per mokestinį laikotarpį patyrė tokias išlaidas, t. y. 2023 metais mokėjo:
+
+1) gyvybės draudimo įmokas pagal gyvybės draudimo sutartį, kurioje nustatyta, kad gyvybės draudimo išmoka išmokama ne tik įvykus draudžiamajam įvykiui, bet ir pasibaigus draudimo sutarties galiojimo terminui ir naudos gavėju draudimo laikotarpio pabaigoje yra:
+
+- pats gyventojas,
+
+- gyventojo sutuoktinis,
+
+- gyventojo nepilnamečiai vaikai (įvaikiai, globotiniai, kuriems nustatyta nuolatinė globa (rūpyba) šeimoje),
+
+- iki 18 metų ir vyresni neįgalieji vaikai (įvaikiai, globotiniai, kuriems nustatyta nuolatinė globa (rūpyba) šeimoje, pilnamečiai asmenys, kuriems iki pilnametystės buvo nustatyta nuolatinė globa (rūpyba) šeimoje), kuriems nustatytas specialusis nuolatinės slaugos poreikis,
+
+- iki 18 metų ir vyresni vaikai (įvaikiai, globotiniai, kuriems nustatyta nuolatinė globa (rūpyba) šeimoje, pilnamečiai asmenys, kuriems iki pilnametystės buvo nustatyta nuolatinė globa (rūpyba) šeimoje), kuriems iki 2005 m. birželio 30 d. buvo nustatyta visiška negalia);
+
+2) pensijų įmokas į III pakopos pensijų fondus, profesinių pensijų fondų dalyvių asociacijų ir (ar) jiems analogiškų subjektų, veikiančių Europos ekonominės erdvės (toliau - EEE) valstybėje, turimus pensijų fondus pagal pensijų kaupimo sutartį, kurioje naudos gavėju kaupimo laikotarpio pabaigoje yra:
+
+- pats gyventojas,
+
+- gyventojo sutuoktinis,
+
+- iki 18 metų ir vyresni neįgalieji vaikai (įvaikiai, globotiniai, kuriems nustatyta nuolatinė globa (rūpyba) šeimoje), kuriems nustatytas specialusis nuolatinės slaugos poreikis,
+
+- iki 18 metų ir vyresni vaikai (įvaikiai, globotiniai, kuriems nustatyta nuolatinė globa (rūpyba) šeimoje, pilnamečių asmenų, kuriems iki pilnametystės buvo nustatyta nuolatinė globa (rūpyba) šeimoje), kuriems iki 2005 m. birželio 30 d. buvo nustatyta visiška negalia);
+
+3) papildomas kaupiamąsias pensijų įmokas į II pakopos pensijų fondus, profesinių pensijų fondų dalyvių asociacijų ir (ar) jiems analogiškų subjektų, veikiančių EEE valstybėje ar Ekonominio bendradarbiavimo ir plėtros organizacijos (EBPO) valstybėje narėje, turimus pensijų fondus, kurios mokamos pagal Pensijų kaupimo įstatymo 8 str. 4 dalies nuostatas ir kurios yra didesnės negu 3 proc. gyventojo pajamų, nuo kurių skaičiuojamos valstybinio socialinio draudimo įmokos;
+
+4) už profesinį mokymą pagal formaliojo profesinio mokymo programą, kurią baigus įgyjama atitinkama kvalifikacija, formaliojo profesinio mokymo programos modulį, kurį baigus įgyjama atitinkama kompetencija (kompetencijos), ir (ar) už studijas, kurias baigus įgyjama aukštojo mokslo kvalifikacija.
+
+Jei už studijas ar profesinį mokymą sumokėta skolintomis lėšomis (tam tikslui paimta iš kredito įstaigos paskola), tai iš metinių pajamų gali būti atimta per mokestinį laikotarpį grąžinta šios paskolos dalis;
+
+5) palūkanas už vieną iki 2008-12-31 paimtą kreditą (arba jo dalį) vienam gyvenamajam būstui statyti arba jam įsigyti arba už gyvenamojo būsto finansinę nuomą (lizingą);
+
+Svarbu: Bendra visų atimamų išlaidų (t. y. gyvybės draudimo įmokų, įmokų į II ir III pakopos pensijų fondus, palūkanų už kreditą būstui įsigyti ar statyti, už profesinį mokymą ar studijas sumokėtų įmokų) suma negali viršyti 25 procentų apmokestinamųjų pajamų, kurioms taikomas 15, 20 ar 32 procentų pajamų mokesčio tarifas, sumos, apskaičiuotos iš visų mokestiniais metais gautų pajamų atėmus GPMĮ 16 straipsnio 1 dalies 1–5 punktuose nurodytas sumas. Be to, atimamų gyvybės draudimo įmokų ir/ar įmokų į II ir III pakopos pensijų fondus išlaidų suma bet kokiu atveju negali viršyti 1500 eurų.
+
+Rašte išdėstytomis lengvatomis negali pasinaudoti gyventojai, kurie:
+
+    mokestiniu laikotarpiu gavo tik pajamų mokesčiu neapmokestinamų pajamų,
+        ne individualios veiklos pajamų už parduotas atliekas, apmokestintas taikant 5 proc., pajamų mokesčio tarifą, ir/ar
+        pajamų, nuo kurių pajamų mokestis sumokėtas įsigyjant verslo liudijimą, taip pat
+        atitinkamas įmokas sumokėjo užsienio vienetams, įregistruotiems ar kitaip organizuotiems tikslinėse teritorijose[2].
+
+       Išsamią informaciją apie gyvybės draudimo ir kitas įmokas mokantiems gyventojams taikomas lengvatas galima rasti GPMĮ 21 straipsnio apibendrintame paaiškinime (komentare), kuris paskelbtas VMI prie FM interneto svetainėje (adresu: www.vmi.lt).
+
+Pasinaudoti mokesčio lengvatomis galima pateikiant VMI iki š. m. gegužės 2 d. Pavyzdinę pajamų mokesčio deklaracijos GPM311 formą (toliau – Deklaracija)[3]. Patirtos išlaidos nurodomos Deklaracijos GPM311G priede „Išlaidos, mažinančios pajamas“.
+
+                 Pajamų mokesčio permoka, grąžintina gyventojui pagal jo iki š. m. gegužės 2 d. pateiktą 2023 m. mokestinio laikotarpio Deklaraciją, grąžinama iki š. m. liepos 31 d., o pagal pateiktą nuo š. m. gegužės 3 d., − per 90 dienų po jos gavimo VMI dienos.
+ 
+
+[1] Lietuvos Respublikos gyventojų pajamų mokesčio įstatymas.
+
+[2]Tikslinių teritorijų sąrašas patvirtintas Lietuvos Respublikos finansų ministro 2001 m. gruodžio 22 d. įsakymu Nr. 344 „Dėl Tikslinių teritorijų sąrašo patvirtinimo“.
+
+[3] patvirtinta Valstybinės mokesčių inspekcijos prie Lietuvos Respublikos finansų ministerijos viršininko 2019 m. gruodžio 12 d. įsakymu Nr. VA-93 „Dėl Pavyzdinės pajamų mokesčio deklaracijos GPM311 formos ir jos priedų formų ir jų užpildymo, pateikimo bei tikslinimo taisyklių patvirtinimo“.
+
+## DĖL 2023 METAIS GYVENTOJŲ GAUTŲ PALŪKANŲ APMOKESTINIMO IR DEKLARAVIMO
+
+Paaiškiname, kokia tvarka apmokestinamos ir deklaruojamos 2023 metais gyventojų gautos palūkanos:
+
+1. Kai palūkanos gautos už suteiktas paskolas.
+
+Pagal GPMĮ[1] nuostatas apskaičiuojant ir deklaruojant 2023 metais gautas palūkanas už suteiktas paskolas įmonėms ir/ar gyventojams, šios pajamos apmokestinamos taikant GPMĮ 6 straipsnyje nustatytą 15 proc. pajamų mokesčio tarifą, o metinei pajamų ne iš darbo santykių arba jų esmę atitinkančių santykių[2] daliai, viršijančiai 120 VDU[3] dydžio sumą, taikomą apdraustųjų asmenų einamųjų metų VSD[4] įmokų bazei skaičiuoti, taikomas 20 proc. pajamų mokesčio tarifas. GPMĮ šioms pajamoms nenustato jokių lengvatų, apmokestinama nuo pirmo euro.
+
+Tuo atveju, kai nuolatinis Lietuvos gyventojas (toliau – nuolatinis gyventojas) palūkanas už suteiktą paskolą gauna iš kito nuolatinio gyventojo, pagal mokesčio mokėjimo tvarką pajamos priskiriamos A klasės pajamoms ir todėl pajamų mokestį apskaičiuoti, išskaičiuoti ir sumokėti į valstybės biudžetą privalo palūkanas išmokantis asmuo. Vadovaujantis GPMĮ 24 straipsniu, palūkanas išmokėjęs nuolatinis gyventojas, kaip mokestį išskaičiuojantis asmuo, privalo deklaruoti išmokėtas palūkanų sumas, išskaičiuotą ir sumokėtą pajamų mokestį pateikdamas Mėnesinės pajamų mokesčio nuo A klasės pajamų deklaracijos GPM313 formą ir Metinės gyventojams išmokėtų išmokų, priskiriamų A ir B klasės pajamoms, deklaracijos GPM312 formą.
+
+Nuolatinio gyventojo iš kitų šaltinių (pvz., iš Lietuvos įmonių ir iš užsienio) gautos palūkanos už suteiktą paskolą pagal pajamų mokesčio mokėjimo tvarką priskiriamos B klasės pajamoms ir todėl pajamų mokestį apskaičiuoti ir sumokėti privalo pats pajamų gavęs gyventojas, pateikdamas Pavyzdinę pajamų mokesčio deklaracijos GPM311 formą. Palūkanos deklaruojamos šios deklaracijos GPM311 priede GPM311E. Palūkanas išmokėjęs asmuo (Lietuvos įmonė), vadovaudamasis GPMĮ 24 straipsniu, privalo pateikti Metinės gyventojams išmokėtų išmokų, priskiriamų A ir B klasės pajamoms, deklaracijos GPM312 formą.
+
+Nenuolatinio Lietuvos gyventojo (toliau – nenuolatinis gyventojas) gautos palūkanos už suteiktą paskolą pagal mokesčio mokėjimo tvarką priskiriamos A klasės pajamoms, todėl pajamų mokestį apskaičiuoti, išskaičiuoti ir sumokėti į valstybės biudžetą privalo palūkanas išmokantis asmuo. Vadovaujantis GPMĮ 24 straipsniu, palūkanas išmokėjęs asmuo, kaip mokestį išskaičiuojantis asmuo, privalo deklaruoti išmokėtas palūkanų sumas, išskaičiuotą ir sumokėtą pajamų mokestį pateikdamas Mėnesinės pajamų mokesčio nuo A klasės pajamų deklaracijos GPM313 formą bei Metinės gyventojams išmokėtų išmokų, priskiriamų A ir B klasės pajamoms, deklaracijos GPM312 formą.
+
+2. Kai palūkanos gautos už vartojimo kreditą, suteiktą per tarpusavio skolinimo platformą, ar už lėšas, suteiktas per sutelktinio finansavimo platformą.
+
+Pagal GPMĮ 17 straipsnio 1 dalies 20-2 punkto nuostatas 2023 metais gautų palūkanų už vartojimo kreditą, suteiktą per tarpusavio skolinimo platformą Lietuvos Respublikos vartojimo kredito įstatyme ar atitinkamame Europos ekonominės erdvės valstybės įstatyme nustatyta tvarka, taip pat palūkanų už lėšas, suteiktas per sutelktinio finansavimo platformą 2020 m. spalio 7 d. Europos Parlamento ir Tarybos reglamente (ES) 2020/1503 dėl Europos sutelktinio finansavimo paslaugų verslui teikėjų, kuriuo iš dalies keičiamas Reglamentas (ES) 2017/1129 ir Direktyva (ES) 2019/1937, ar atitinkamame Europos ekonominės erdvės valstybės įstatyme nustatyta tvarka, suma, neviršijanti 500 eurų per mokestinį laikotarpį.
+
+                 Tokių pagal mokesčio mokėjimo tvarką B klasės neapmokestinamosioms pajamoms priskiriamų palūkanų nuolatiniam gyventojui Pavyzdinėje pajamų mokesčio deklaracijos GPM311 formoje deklaruoti neprivalu.
+
+Kai bendra 2023 metais gautų palūkanų suma viršija 500 Eur sumą, pajamų mokesčiu neapmokestinama 500 Eur, o šį dydį viršijanti suma apmokestinama taikant GPMĮ 6 straipsnyje nustatytą 15 proc. pajamų mokesčio tarifą, o metinei pajamų ne iš darbo santykių arba jų esmę atitinkančių santykių[5] daliai, viršijančiai 120 VDU dydžio sumą, taikomą apdraustųjų asmenų einamųjų metų VSD įmokų bazei skaičiuoti, taikomas 20 proc. pajamų mokesčio tarifas.
+
+Tokiu atveju, vadovaujantis GPMĮ 27 straipsniu, pajamų mokestį apskaičiuoti ir sumokėti privalo pats pajamų gavęs nuolatinis gyventojas, pateikdamas Pavyzdinę pajamų mokesčio deklaracijos GPM311 formą. Palūkanos deklaruojamos šios deklaracijos GPM311 formos priede GPM311E.
+
+Nenuolatinio gyventojo gautos tokios palūkanos pagal mokesčio mokėjimo tvarką priskiriamos A klasės pajamoms, todėl pajamų mokestį apskaičiuoti, išskaičiuoti ir sumokėti į valstybės biudžetą privalo palūkanas išmokantis asmuo. Vadovaujantis GPMĮ 24 straipsniu, palūkanas išmokėjęs asmuo, kaip mokestį išskaičiuojantis asmuo, privalo deklaruoti išmokėtas palūkanų sumas, išskaičiuotą ir sumokėtą pajamų mokestį pateikdamas Mėnesinės pajamų mokesčio nuo A klasės pajamų deklaracijos GPM313 formą ir Metinės gyventojams išmokėtų išmokų, priskiriamų A ir B klasės pajamoms, deklaracijos GPM312 formą. Nenuolatinis gyventojas GPMĮ 17 straipsnio 1 dalies 20-2 punkte nustatyta pajamų mokesčio lengvata gali pasinaudoti mokestiniam laikotarpiui pasibaigus pateikdamas Nenuolatinio Lietuvos gyventojo metinės pajamų mokesčio deklaracijos GPM314 formą.
+
+3. Kai palūkanos gautos už ne nuosavybės vertybinius popierius ir už kredito įstaigose laikomus indėlius.
+
+3.1. Pagal GPMĮ 17 straipsnio nuostatas pajamų mokesčiu neapmokestinamos palūkanos, gautos už:
+
+- iki 2013 gruodžio 31 d. įsigytus vienetų (tiek Lietuvos, tiek užsienio valstybių) ne nuosavybės vertybinius popierius[6], jeigu šie ne nuosavybės vertybiniai popieriai pradėti išpirkti ne anksčiau kaip po 366 dienų nuo jų išleidimo dienos (GPMĮ 17 str. 1 d. 20-1 p.);
+
+- iki 2013 m. gruodžio 31 d. įsigytus EEE[7] valstybių vyriausybių, taip pat EEE valstybių politinių ar teritorijos administracinių padalinių vertybinius popierius (GPMĮ 17 str. 1 d. 21 p.);
+
+- pagal iki 2013 m. gruodžio 31 d. sudarytas sutartis dėl EEE valstybėse už jų bankuose ar kitose kredito įstaigose laikomus indėlius (GPMĮ 17 str. 1 d. 22 p.).
+
+Tokių pagal mokesčio mokėjimo tvarką B klasės neapmokestinamosioms pajamoms priskiriamų palūkanų nuolatiniam Lietuvos gyventojui Pavyzdinėje pajamų mokesčio deklaracijos GPM311 formoje deklaruoti neprivalu.
+
+3.2. Kai 3.1. punkte išvardyti ne nuosavybės vertybiniai popieriai įsigyti ir/ar indėlių sutartys sudarytos nuo 2014-01-01, nuolatinio Lietuvos gyventojo gautos palūkanos pajamų mokesčiu neapmokestinamos, kai bendra per mokestinį laikotarpį gauta palūkanų suma už ne nuosavybės vertybinius popierius ir už indėlius neviršija 500 Eur (GPMĮ 17 str. 1 d. 20 p.).
+
+                 Pvz., Gyventojas 2023 metais (nuo 2023-01-01 iki 2023-12-31) gavo: 50 Eur palūkanų už Lietuvos banke „X“ laikomą indėlį (indėlio sutartis sudaryta 2022-01-06), 320 Eur palūkanų už Lenkijos Vyriausybės obligacijas (obligacijos įsigytos 2022-03-10) ir 130 Eur palūkanų už UAB „Y“ obligacijas (obligacijos įsigytos 2021-02-02; vienetas – gyventojo darbdavys; mokamos palūkanos nėra didesnės nei kitiems tų pačių obligacijų turėtojams mokamos palūkanos). Viso 2023 metais gyventojas gavo 500 Eur palūkanų. Kadangi ši suma neviršija įstatyme nustatyto dydžio, ne nuosavybės vertybiniai popieriai įsigyti ir indėlio sutartis sudaryta nuo 2014-01-01, visa gautų pajamų suma gyventojų pajamų mokesčiu neapmokestinama.
+
+                 Tokių pagal mokesčio mokėjimo tvarką B klasės neapmokestinamosioms pajamoms priskiriamų palūkanų sumos, neviršijančios 500 Eur per 2023 metus, nuolatiniam gyventojui Pavyzdinėje pajamų mokesčio deklaracijos GPM311 formoje deklaruoti neprivalu.
+
+Kai bendra 2023 metais gautų palūkanų suma už ne nuosavybės vertybinius popierius ir už indėlius viršija 500 Eur sumą, tai pajamų mokesčiu neapmokestinama 500 Eur, o šį dydį viršijanti suma apmokestinama taikant GPMĮ 6 straipsnyje nustatytą 15 proc. pajamų mokesčio tarifą, o metinei pajamų ne iš darbo santykių arba jų esmę atitinkančių santykių[8] daliai, viršijančiai 120 VDU dydžio sumą, taikomą apdraustųjų asmenų einamųjų metų VSD įmokų bazei skaičiuoti, taikomas 20 proc. pajamų mokesčio tarifas.
+
+Tokiu atveju gyventojui privalu pateikti Pavyzdinės pajamų mokesčio deklaracijos GPM311 formą ir gautas palūkanas deklaruoti šios deklaracijos GPM311 formos priede GPM311E.
+
+Pažymėtina, kad nenuolatinis gyventojas GPMĮ 17 straipsnio 1 dalies 20 punkte nustatyta pajamų mokesčio lengvata palūkanoms už ne nuosavybės vertybinius popierius ir už kredito įstaigose laikomus indėlius gali pasinaudoti mokestiniam laikotarpiui pasibaigus, pateikdamas Nenuolatinio Lietuvos gyventojo metinę pajamų mokesčio deklaracijos GPM314 formą. Nenuolatinių gyventojų gautos palūkanos už Vyriausybės ne nuosavybės vertybinius popierius nėra pajamų mokesčio objektas (GPMĮ 5 str. 4 d. 1 punktas).
+
+Visos šiame rašte išdėstytos GPMĮ 17 straipsnyje nustatytos mokesčio lengvatos netaikomos, jeigu atitinkamos pajamos gautos iš užsienio vienetų, įregistruotų ar kitaip organizuotų tikslinėse teritorijose.Tikslinių teritorijų sąrašas patvirtintas Lietuvos Respublikos finansų ministro 2001 m. gruodžio 22 d. įsakymu Nr. 344 „Dėl tikslinių teritorijų sąrašo patvirtinimo“.
+ 
+
+[1] Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo.
+
+[2] išskyrus tantjemas, autorinius atlyginimus iš darbdavio, mažosios bendrijos vadovų (ne narių) pajamas, pajamas iš paskirstytojo pelno, individualios veiklos pajamas (pagal pažymą ir/ar verslo liudijimą), pajamas už parduotas atliekas;
+
+[3] Vidutinių šalies darbo užmokesčių.
+
+[4] Valstybinio socialinio draudimo.
+
+[5] išskyrus tantjemas, autorinius atlyginimus iš darbdavio, MB vadovų (ne MB narių) pajamas, pajamas iš paskirstytojo pelno, individualios veiklos pajamas (pagal pažymą ir/ar verslo liudijimą), pajamas už parduotas atliekas.
+
+[6] išskyrus, kai ne nuosavybės vertybiniai popieriai išleisti darbdavio ir jis darbuotojams moka didesnes palūkanas negu kitiems šių vertybinių popierių turėtojams
+
+[7] Europos ekonominė ervė.
+
+[8] (išskyrus tantjemas, autorinius atlyginimus iš darbdavio, MB vadovų (ne MB narių) pajamas, pajamas iš paskirstytojo pelno, individualios veiklos pajamas (pagal pažymą ir/ar verslo liudijimą), pajamas už parduotas atliekas)
+
+
