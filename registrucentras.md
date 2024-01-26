@@ -194,11 +194,11 @@ Pažymime, kad už metinio NPD perskaičiavimą yra atsakingas pats gyventojas.
 
 3. Kaip apskaičiuojami 2023 m. metiniai NPD?
 
-1. Gyventojams, kurių metinių apmokestinamųjų pajamų (toliau — GMP) bendra suma neviršija 10 080 eurų (t. y. dvylikos MMA[8] dydžių sumos, galiojusios 2023 m. sausio 1 d.), metinis NPD yra 7 500 eurų.
+3.1. Gyventojams, kurių metinių apmokestinamųjų pajamų (toliau — GMP) bendra suma neviršija 10 080 eurų (t. y. dvylikos MMA[8] dydžių sumos, galiojusios 2023 m. sausio 1 d.), metinis NPD yra 7 500 eurų.
 
-2. Gyventojams, kurių GMP yra didesnės nei 10 080 eurų, bet neviršija 23 112 eurų, metinis NPD apskaičiuojamas pagal šią formulę: Metinis NPD = 7 500 − 0,42 × (GMP — 10 080 eurų).
+3.2. Gyventojams, kurių GMP yra didesnės nei 10 080 eurų, bet neviršija 23 112 eurų, metinis NPD apskaičiuojamas pagal šią formulę: Metinis NPD = 7 500 − 0,42 × (GMP — 10 080 eurų).
 
-3. Gyventojams, kurių GMP yra didesnės nei 23 112 eurai, bet mažesnės nei 34 370,67[9] eurai, metinis NPD apskaičiuojamas pagal šią formulę: Metinis NPD = 4 800 − 0,18 × (GMP — 7 704 eurų (642 x 12)).
+3.3. Gyventojams, kurių GMP yra didesnės nei 23 112 eurai, bet mažesnės nei 34 370,67[9] eurai, metinis NPD apskaičiuojamas pagal šią formulę: Metinis NPD = 4 800 − 0,18 × (GMP — 7 704 eurų (642 x 12)).
 
 3.4. Gyventojams, kuriems nustatytas 30–55 procentų darbingumo lygis, vidutinis ar lengvas neįgalumo lygis, senatvės pensijos amžių sukakusiems gyventojams, kuriems nustatytas vidutinių ar nedidelių specialiųjų poreikių lygis, taikomas 935 eurų mėnesio NPD. Tokiems gyventojams, teisę į didesnį NPD turėjusiems visus 2023 m., taikomas metinis NPD yra 11 220 eurų ( 935 Eur x 12 mėn.), neatsižvelgiant į metinių apmokestinamųjų pajamų sumą (GMP).
 
