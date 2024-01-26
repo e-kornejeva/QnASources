@@ -824,6 +824,8 @@ Pasinaudoti mokesčio lengvatomis galima pateikiant VMI iki š. m. gegužės 2 d
 
 ## DĖL 2023 METAIS GYVENTOJŲ GAUTŲ PALŪKANŲ APMOKESTINIMO IR DEKLARAVIMO
 
+#### URL: https://www.vmi.lt/evmi/mokesciu-zinynas
+
 Paaiškiname, kokia tvarka apmokestinamos ir deklaruojamos 2023 metais gyventojų gautos palūkanos:
 
 1. Kai palūkanos gautos už suteiktas paskolas.
@@ -893,7 +895,7 @@ Visos šiame rašte išdėstytos GPMĮ 17 straipsnyje nustatytos mokesčio lengv
 
 ## Mokesčių administratoriaus ir mokesčių mokėtojo teisės ir pareigos
 
-#### https://www.vmi.lt/evmi/mokesciu-administratoriaus-ir-mokesciu-moketojo-teises-ir-pareigos-32-42-str.-
+#### URL: https://www.vmi.lt/evmi/mokesciu-administratoriaus-ir-mokesciu-moketojo-teises-ir-pareigos-32-42-str.-
 
 Paslaptyje nelaikoma ši informacija apie mokesčių mokėtoją:
 
