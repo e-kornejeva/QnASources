@@ -1,809 +1,760 @@
-# VMI MOKESČIŲ ŽINYNAS
+# Juridinių asmenų registras
 
-## DĖL GYVENTOJŲ PAJAMŲ MOKESČIO LENGVATŲ GYVYBĖS DRAUDIMO IR KITOMS ĮMOKOMS DEKLARAVIMO UŽ 2023 METUS
+## Kaip pateikti metines finansines ataskaitas Registrų centrui? Kokie nustatyti terminai?
 
-#### URL: https://www.vmi.lt/evmi/mokesciu-zinynas#d%C4%97l-gyventoj%C5%B3-pajam%C5%B3-mokes%C4%8Dio-lengvat%C5%B3-gyvyb%C4%97s-draudimo-ir-kitoms-%C4%AFmokoms-deklaravimo-u%C5%BE-2023-metus
+#### URL: https://info.registrucentras.lt/node/4053
 
-Primename, kad nuolatiniai Lietuvos gyventojai (toliau – gyventojai) turi teisę pasinaudoti GPMĮ[1] 21 straipsnyje nustatytomis pajamų mokesčio lengvatomis ir susigrąžinti dalį pajamų mokesčio, išskaičiuoto (sumokėto) nuo 2023 m. mokestiniu laikotarpiu gautų pajamų, arba sumažinti mokėtiną pajamų mokestį.
+Informuojame, kad finansinių ataskaitų rinkinius gali teikti juridinio asmens vadovas ar įgaliotas asmuo, prisijungę prie sistemos  per elektroninės bankininkystės sistemą arba kvalifikuotu sertifikatu patvirtintu elektroniniu parašu. Finansinių ataskaitų rinkinio pateikimo tvarką rasite Registrų centro tinklalapyje pagal šią nuorodą.
 
-GPMĮ 21 straipsnyje nustatytomis pajamų mokesčio lengvatomis pasinaudoti gali tie gyventojai, kurie per mokestinį laikotarpį patyrė tokias išlaidas, t. y. 2023 metais mokėjo:
+Verslo apskaitos standartus, jų taikymo metodines rekomendacijas rasite Audito, apskaitos, turto vertinimo ir nemokumo valdymo tarnybos interneto svetainėje. Konsultacijų konkrečiais verslo apskaitos standartų taikymo, finansinių ataskaitų sudarymo klausimais rekomenduojame kreiptis į minėtą tarnybą.
 
-1) gyvybės draudimo įmokas pagal gyvybės draudimo sutartį, kurioje nustatyta, kad gyvybės draudimo išmoka išmokama ne tik įvykus draudžiamajam įvykiui, bet ir pasibaigus draudimo sutarties galiojimo terminui ir naudos gavėju draudimo laikotarpio pabaigoje yra:
+Pagal Civilinio kodekso 2.66 straipsnio 4 dalį įstatymų nustatytais atvejais Juridinių asmenų registrui pateikiamas juridinio asmens metinių finansinių ataskaitų rinkinys (metinių konsoliduotųjų finansinių ataskaitų rinkinys) ir (arba) metinis pranešimas (konsoliduotasis metinis pranešimas) ar veiklos ataskaita arba metinė ataskaita kiekvienais metais per trisdešimt dienų nuo jų patvirtinimo momento, jei įstatymai nenumato kito termino. Tais atvejais, kai yra atliktas finansinių ataskaitų auditas, kartu su audituotu metinių finansinių ataskaitų rinkiniu (metinių konsoliduotųjų finansinių ataskaitų rinkiniu) turi būti pateikta ir auditoriaus išvada.
 
-- pats gyventojas,
+Finansinė atskaitomybė tvirtinama eiliniame visuotiniame dalyvių susirinkime, kuris šaukiamas, pasibaigus finansiniams metams. Kai kurie įstatymai nustato terminą, iki kada turi būti patvirtinta finansinė atskaitomybė. Pavyzdžiui: pagal Akcinių bendrovių įstatymą eilinis visuotinis akcininkų susirinkimas, kuriame tvirtinama finansinė atskaitomybė, turi įvykti kasmet ne vėliau kaip per 4 mėnesius nuo finansinių metų pabaigos, pagal Mažųjų bendrijų įstatymą mažosios bendrijos metinių finansinių ataskaitų rinkinys ne vėliau kaip per 3 mėnesius nuo finansinių metų pabaigos turi būti patvirtintas mažosios bendrijos narių susirinkime.
 
-- gyventojo sutuoktinis,
+Finansinių ataskaitų rinkinius turi teikti: akcinės bendrovės, uždarosios akcinės bendrovės, kooperatinės bendrovės (kooperatyvai), žemės ūkio bendrovės, valstybės įmonės, savivaldybių įmonės, tikrosios ūkinės bendrijos ir komanditinės ūkinės bendrijos, jeigu sudaro metines finansines ataskaitas, individualios įmonės, jeigu sudaro metines finansines ataskaitas, užsienio juridinio asmens ar kitos organizacijos filialai, Europos ekonominių interesų grupės, jeigu sudaro metines finansines ataskaitas, Europos bendrovės, Europos kooperatinės bendrovės, mažosios bendrijos, labdaros ir paramos fondai, jeigu nerengia metinės ataskaitos, asociacijos, jeigu nerengia metinės ataskaitos, viešosios įstaigos. 
 
-- gyventojo nepilnamečiai vaikai (įvaikiai, globotiniai, kuriems nustatyta nuolatinė globa (rūpyba) šeimoje),
+Atkreiptinas dėmesys, kad viešosios įstaigos, kurios pagal Viešojo sektoriaus atskaitomybės įstatymą priskiriamos prie viešojo sektoriaus subjektų, patvirtintus metinius finansinių ataskaitų rinkinius ir su jais susijusius dokumentus teikia per Finansų ministerijos Viešojo sektoriaus apskaitos ir ataskaitų konsolidavimo informacinę sistemą (VSAKIS). Dokumentai į VSAKIS įkeliami pasibaigus ataskaitiniams metams, atitinkamų metų Konsolidavimo kalendoriuje nustatytais terminais, bet ne vėliau kaip iki gegužės 25 d. Viešojo sektoriaus subjektų sąrašas (Konsolidavimo schema) skelbiamas Finansų ministerijos interneto svetainėje.
 
-- iki 18 metų ir vyresni neįgalieji vaikai (įvaikiai, globotiniai, kuriems nustatyta nuolatinė globa (rūpyba) šeimoje, pilnamečiai asmenys, kuriems iki pilnametystės buvo nustatyta nuolatinė globa (rūpyba) šeimoje), kuriems nustatytas specialusis nuolatinės slaugos poreikis,
+Vadovaujantis Asociacijų įstatymo, Viešųjų įstaigų įstatymo, Labdaros ir paramos fondų įstatymo pakeitimais, kurie įsigaliojo 2018-01-01, yra sukurta papildoma Neatlygintinos paieškos Juridinių asmenų registre paslauga – neatlygintinas asociacijų, viešųjų įstaigų, labdaros ir paramos fondų Juridinių asmenų registro tvarkytojui pateiktų metinių finansinių ataskaitų rinkinių bei su jais susijusių dokumentų skelbimas Registrų centro interneto svetainėje.
 
-- iki 18 metų ir vyresni vaikai (įvaikiai, globotiniai, kuriems nustatyta nuolatinė globa (rūpyba) šeimoje, pilnamečiai asmenys, kuriems iki pilnametystės buvo nustatyta nuolatinė globa (rūpyba) šeimoje), kuriems iki 2005 m. birželio 30 d. buvo nustatyta visiška negalia);
+Neatlygintinai skelbiami trijų teisinių formų (asociacijų, viešųjų įstaigų, labdaros ir paramos fondų) 2017-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių dokumentai.
 
-2) pensijų įmokas į III pakopos pensijų fondus, profesinių pensijų fondų dalyvių asociacijų ir (ar) jiems analogiškų subjektų, veikiančių Europos ekonominės erdvės (toliau - EEE) valstybėje, turimus pensijų fondus pagal pensijų kaupimo sutartį, kurioje naudos gavėju kaupimo laikotarpio pabaigoje yra:
+Norėdami pasinaudoti šia neatlygintina paslauga, spustelkite šią nuorodą. Atsiradusiame paieškos laukelyje įveskite juridinio asmens pavadinimą ir (arba) kodą bei įrašykite sistemos nurodytą apsaugos kodą. Paieškos sistemai suradus juridinį asmenį, paspauskite aktyvų raudonos spalvos ženklelį "D" (Neatlygintina JA dokumentų sąrašo peržiūra). Jeigu minėti dokumentai pateikti, JA dokumentų sąrašo peržiūroje matoma aktyvi nuoroda (pabraukta, pvz., Finansinės atskaitomybės dokumentai / 2020 m. finansinė atskaitomybė, aiškinamasis raštas, metinis pranešimas (veiklos ataskaita), patvirtintos finansinės ataskaitos), kurią pasirinkus, pateikiamas dokumentų sąrašas/nuorodos.
 
-- pats gyventojas,
+Informuojame, kad vadovaujantis galiojančių teisės aktų nuostatomis, Juridinių asmenų registre veiklos stabdymas neregistruojamas, juridinis asmuo laikomas veikiančiu ir turi teikti įstatymų nustatytus dokumentus ir duomenis.
+Teisės aktuose nėra įtvirtintų nuostatų, atleidžiančių nuo prievolės pateikti finansines ataskaitas, jei juridinis asmuo laikinai nevykdo veiklos ir Valstybinė mokesčių inspekcija yra priėmusi sprendimą dėl laikino atleidimo nuo mokesčių deklaracijų pateikimo.
 
-- gyventojo sutuoktinis,
+Dėmesio! Juridinių asmenų registro tvarkytojas savo iniciatyva panaikina  paramos gavėjo statusą, kai viešasis juridinis asmuo  - paramos gavėjas - per  nurodytą terminą  Juridinių asmenų registro tvarkytojui nepateikia metinių finansinių ataskaitų rinkinio ir metinio pranešimo ar veiklos ataskaitos. Paramos gavėjo statusas panaikinamas  per 2 mėnesius po to, kai Juridinių asmenų registro tvarkytojas raštu įspėja juridinį asmenį apie pažeidimą. Dėl  paramos gavėjo statuso suteikimo papildomai galima kreiptis tik po metų nuo jo panaikinimo dienos.
+ 
+Pagal Lietuvos Respublikos administracinių nusižengimų kodekso 223 straipsnio 2 dalį neteisingų juridinio asmens, užsienio juridinio asmens ar kitos organizacijos filialo finansinių ataskaitų (konsoliduotųjų finansinių ataskaitų), metinės ataskaitos, metinio pranešimo (konsoliduotojo metinio pranešimo), veiklos ataskaitų, mokėjimų valdžios institucijoms ataskaitos (konsoliduotosios mokėjimų valdžios institucijoms ataskaitos) pateikimas Juridinių asmenų registro tvarkytojui arba juridinio asmens, užsienio juridinio asmens ar kitos organizacijos filialo finansinių ataskaitų (konsoliduotųjų finansinių ataskaitų), metinės ataskaitos, metinio pranešimo (konsoliduotojo metinio pranešimo), veiklos ataskaitų, auditoriaus išvados, mokėjimų valdžios institucijoms ataskaitos (konsoliduotosios mokėjimų valdžios institucijoms ataskaitos) nepateikimas Juridinių asmenų registro tvarkytojui laiku teisės aktų nustatytais atvejais ir tvarka užtraukia baudą juridinių asmenų, užsienio juridinių asmenų ar kitų organizacijų filialų vadovams ar kitiems įstatymuose arba steigimo dokumentuose nurodytiems asmenims nuo dviejų šimtų iki trijų tūkstančių eurų.
 
-- iki 18 metų ir vyresni neįgalieji vaikai (įvaikiai, globotiniai, kuriems nustatyta nuolatinė globa (rūpyba) šeimoje), kuriems nustatytas specialusis nuolatinės slaugos poreikis,
+## Kokie veiksmai turi būti atlikti norint įsteigti mažąją bendriją?
 
-- iki 18 metų ir vyresni vaikai (įvaikiai, globotiniai, kuriems nustatyta nuolatinė globa (rūpyba) šeimoje, pilnamečių asmenų, kuriems iki pilnametystės buvo nustatyta nuolatinė globa (rūpyba) šeimoje), kuriems iki 2005 m. birželio 30 d. buvo nustatyta visiška negalia);
+#### URL: https://info.registrucentras.lt/node/753
 
-3) papildomas kaupiamąsias pensijų įmokas į II pakopos pensijų fondus, profesinių pensijų fondų dalyvių asociacijų ir (ar) jiems analogiškų subjektų, veikiančių EEE valstybėje ar Ekonominio bendradarbiavimo ir plėtros organizacijos (EBPO) valstybėje narėje, turimus pensijų fondus, kurios mokamos pagal Pensijų kaupimo įstatymo 8 str. 4 dalies nuostatas ir kurios yra didesnės negu 3 proc. gyventojo pajamų, nuo kurių skaičiuojamos valstybinio socialinio draudimo įmokos;
+Mažoji bendrija steigiama ir veikia Mažųjų bendrijų įstatymo nustatyta tvarka.
 
-4) už profesinį mokymą pagal formaliojo profesinio mokymo programą, kurią baigus įgyjama atitinkama kvalifikacija, formaliojo profesinio mokymo programos modulį, kurį baigus įgyjama atitinkama kompetencija (kompetencijos), ir (ar) už studijas, kurias baigus įgyjama aukštojo mokslo kvalifikacija.
+Informaciją, kokia tvarka yra steigiama mažoji bendrija, teikiant dokumentus popieriuje, rasite šioje nuorodoje.
 
-Jei už studijas ar profesinį mokymą sumokėta skolintomis lėšomis (tam tikslui paimta iš kredito įstaigos paskola), tai iš metinių pajamų gali būti atimta per mokestinį laikotarpį grąžinta šios paskolos dalis;
+Mažoji bendrija taip pat gali būti steigiama ir elektroniniu būdu per Registrų centro klientų savitarnos sistemą. 
 
-5) palūkanas už vieną iki 2008-12-31 paimtą kreditą (arba jo dalį) vienam gyvenamajam būstui statyti arba jam įsigyti arba už gyvenamojo būsto finansinę nuomą (lizingą);
+Steigiant mažąją bendriją elektroniniu būdu:
 
-Svarbu: Bendra visų atimamų išlaidų (t. y. gyvybės draudimo įmokų, įmokų į II ir III pakopos pensijų fondus, palūkanų už kreditą būstui įsigyti ar statyti, už profesinį mokymą ar studijas sumokėtų įmokų) suma negali viršyti 25 procentų apmokestinamųjų pajamų, kurioms taikomas 15, 20 ar 32 procentų pajamų mokesčio tarifas, sumos, apskaičiuotos iš visų mokestiniais metais gautų pajamų atėmus GPMĮ 16 straipsnio 1 dalies 1–5 punktuose nurodytas sumas. Be to, atimamų gyvybės draudimo įmokų ir/ar įmokų į II ir III pakopos pensijų fondus išlaidų suma bet kokiu atveju negali viršyti 1500 eurų.
-
-Rašte išdėstytomis lengvatomis negali pasinaudoti gyventojai, kurie:
-
-* mokestiniu laikotarpiu gavo tik pajamų mokesčiu neapmokestinamų pajamų,
-
-* ne individualios veiklos pajamų už parduotas atliekas, apmokestintas taikant 5 proc., pajamų mokesčio tarifą, ir/ar pajamų, nuo kurių pajamų mokestis sumokėtas įsigyjant verslo liudijimą, taip pat
+- visi steigėjai privalo turėti kvalifikuotus elektroninius parašus;
   
-* atitinkamas įmokas sumokėjo užsienio vienetams, įregistruotiems ar kitaip organizuotiems tikslinėse teritorijose[2].
+- visi dokumentai pasirašomi tik kvalifikuotais elektroniniais parašais;
+  
+- pavadinime neketinama vartoti Lietuvos vardo;
+  
+- jeigu patalpos, kuriose numatoma registruoti juridinio asmens buveinę, nėra steigėjo asmeninė nuosavybė, prašymą teikiantis steigėjas sistemoje surašo visus savininkus, o sutikimą suteikti patalpas juridinio asmens buveinei savitarnos sistemoje kvalifikuotu elektroniniu parašu turi pasirašyti visi esami patalpų savininkai (bendraturčiai) kaip fiziniai asmenys (dokumentą savininkai ras savitarnos sistemoje pasirinkę Juridinių asmenų registras, Mano dokumentai). 
 
-Išsamią informaciją apie gyvybės draudimo ir kitas įmokas mokantiems gyventojams taikomas lengvatas galima rasti GPMĮ 21 straipsnio apibendrintame paaiškinime (komentare), kuris paskelbtas VMI prie FM interneto svetainėje (adresu: www.vmi.lt).
+Elektroniniu parašu prisijungęs prie Registrų centro savitarnos sistemos, steigėjas (vienas iš steigėjų) turi pasirinkti skiltį Juridinių asmenų registras, kairėje meniu pusėje spustelti nuorodas: Juridinio asmens, filialo ir duomenų registravimas, Juridinio asmens, filialo registravimas  ir pasirinkus juridinio asmens teisinę formą - Mažoji bendrija, spustelti  Pildyti prašymą.
 
-Pasinaudoti mokesčio lengvatomis galima pateikiant VMI iki š. m. gegužės 2 d. Pavyzdinę pajamų mokesčio deklaracijos GPM311 formą (toliau – Deklaracija)[3]. Patirtos išlaidos nurodomos Deklaracijos GPM311G priede „Išlaidos, mažinančios pajamas“.
+Atsivėrusiame lange steigėjas turės pasirinkti mažosios bendrijos valdymo tipą.
 
-Pajamų mokesčio permoka, grąžintina gyventojui pagal jo iki š. m. gegužės 2 d. pateiktą 2023 m. mokestinio laikotarpio Deklaraciją, grąžinama iki š. m. liepos 31 d., o pagal pateiktą nuo š. m. gegužės 3 d., − per 90 dienų po jos gavimo VMI dienos.
+Atkreiptinas dėmesys, kad įsteigus bendriją, kurioje numatytas tik vienas narys, vėliau norint priimti daugiau narių, reikės keisti mažosios bendrijos nuostatus, todėl racionalu būtų pasirinkti valdymo tipą, kur numatytas vienas ar daugiau narių. Taip pat atkreipiame dėmesį, kad pasirinkus valdymo tipą, kai mažosios bendrijos valdymo organas yra narių susirinkimas, pasitaiko atvejų, kai mažosios bendrijos atstovas ar vienintelis narys negali prisijungti prie kitų valstybės institucijų sistemų, kadangi jos "atpažįsta" tik vadovą, todėl geriau rinktis mažosios bendrijos tipą, kurioje yra vienasmenis valdymo organas - vadovas. Šie patarimai  yra rekomendacinio pobūdžio ir apsispręsti, kokio tipo mažąją bendriją steigti, turi jos steigėjai.
+
+Pasirinkus valdymo tipą, savitarnos sistema atitinkama chronologine tvarka nurodys, kokius duomenis reikia įrašyti duomenų laukuose siekiant, kad sistema galėtų sugeneruoti steigimo aktą arba steigimo sutartį, nuostatus ir prašymą registruoti forma JAR-1-E.
+
+Steigiant mažąją bendriją elektroniniu būdu, yra veiklos tikslai pasirenkami iš Juridinių asmenų registro tvarkytojo pateikto elektroninio veiklos tikslų klasifikatoriaus. Mažosios bendrijos nuostatuose, kurie automatiškai sugeneruojami savitarnos sistemoje, visais atvejais bus sugeneruota nuoroda, kad bendrija gali užsiimti bet kokia kita veikla, kuri neprieštarauja Lietuvos Respublikos teisės aktams. Pavyzdinius mažosios bendrijos nuostatus galite peržiūrėti čia.
+
+Sugeneruotus steigimo aktą arba steigimo sutartį bei nuostatus kvalifikuotu elektroniniu parašu turi pasirašyti visi steigėjai. Dokumentai pasirašomi pasirinkus funkciją Pasirašyti. Kai dokumentus chronologine tvarka pasirašys visi steigėjai, jų būsena pasikeis į Pasirašytas. Vėliausiai pasirašoma forma JAR-1-E - ją pasirašo prašymą pildantis steigėjas. Kai visi dokumentai pasirašyti, reikia įdėti paslaugą į krepšelį ir savitarnos sistemoje atlikti apmokėjimo procedūrą. Negalima krepšelio apmokėti atskiru banko pavedimu, atsijungus nuo sistemos. Juridinis asmuo bus įregistruotas ne vėliau kaip per 1 darbo dieną, jeigu Juridinių asmenų registro tvarkytojas, tikrindamas pateiktus duomenis ir dokumentus, nenustatys trūkumų. 
+
+Teikiant prašymą popieriniu būdu, mažoji bendrija bus įregistruota ne vėliau kaip per 3 darbo dienas, jeigu Juridinių asmenų registro tvarkytojas, tikrindamas pateiktus duomenis ir dokumentus, nenustatys trūkumų. 
+
+Atlyginimas už mažosios bendrijos įregistravimą - 17,13 euro.
+
+## Kokia tvarka keičiama juridinio asmens buveinė? Ar yra galimybė juridinio asmens buveinės adresą pakeisti elektroniniu būdu per Registrų centro savitarną?
+
+#### URL: https://info.registrucentras.lt/node/549
+
+Civilinio kodekso 2.49 straipsnyje yra nurodyta, kad juridinio asmens buveine laikoma ta vieta, kurioje yra nuolatinis jo valdymo organas. Juridinio asmens buveinė apibūdinama, nurodant patalpų adresą. Patalpa, kurioje registruojama juridinio asmens buveinė, turi būti įregistruota Nekilnojamojo turto registre. Teisės aktai nenustato, kokios paskirties patalpose gali būti registruojama juridinio asmens buveinė.
+
+Juridinių asmenų registre yra įrašomi šie duomenys, identifikuojantys juridinio asmens buveinę: adresas bei nekilnojamojo daikto, kuriame registruota buveinė, unikalus numeris Nekilnojamojo turto registre, todėl patalpos suteikiamos juridinio asmens buveinei turi būti  įregistruotos Nekilnojamojo turto registre. 
+
+Pasikeitus buveinei,  Juridinių asmenų registro tvarkytojui (registruotis vizitui galima čia) teikiama:
+
+1. Prašymas įregistruoti pakeitimus forma JAR-1.
+
+2. Visuotinio dalyvių susirinkimo, priėmusio sprendimą dėl buveinės pakeitimo, protokolas (sprendimas). 
+
+3. Jeigu juridinis asmuo nėra patalpų, suteikiamų juridinio asmens, jo filialo ar atstovybės buveinei registruoti, savininkas arba patalpos juridiniam asmeniui priklauso bendrosios nuosavybės teise, teikiamas rašytinis savininko arba bendraturčio sutikimas suteikti patalpas juridinio asmens buveinei registruoti.
+
+4. Dokumentus ir duomenis teikiančio asmens tapatybę patvirtinantis dokumentas. Jeigu dokumentų ir duomenų teikėjas veikia per atstovą, kartu su dokumentais Registro tvarkytojui turi būti pateikiami atstovo įgaliojimus patvirtinantys dokumentai, jeigu įgaliojimas neįregistruotas Įgaliojimų posistemėje. Siunčiant prašymą paštu, kartu pridedama vadovo asmens dokumento kopija. Ši kopija notaro netvirtinama.
+
+Prašymą pakeisti juridinio asmens buveinę galima pateikti ir elektroniniu būdu per Registrų centro klientų savitarnos sistemą.  Dokumentų ir duomenų teikėjas (vadovas ar jo įgaliotas asmuo), kvalifikuotu elektroniniu parašu turi prisijungti prie Registrų centro klientų savitarnos sistemos, horizontaliame meniu pasirinkti skiltį Juridinių asmenų registras bei kairėje esančiame vertikaliame meniu paspausti nuorodas: Juridinio asmens, filialo ir duomenų registravimas, Juridinio asmens, filialo duomenų registravimas, patvirtinus, kad kontaktiniai duomenys teisingi arba įrašius pakeistus kontaktinius duomenis, iš keičiamų duomenų sąrašo turės pasirinkti Juridinio asmens buveinė. Atsivėrus sistemos langui, skiltyje PRAŠYMO OBJEKTAS, reikės atlikti buveinės adreso paiešką pagal adresą, unikalų numerį arba savininką (jei buveinės patalpos yra nuosavas nekilnojamas turtas). 
+
+Skiltyje BUVEINĖS PATALPŲ SAVININKAI reikės įrašyti visus esamus patalpų savininkus.
+
+Atkreipiame dėmesį, kad jeigu patalpos buveinei registruoti nėra juridinio asmens nuosavybė, sistema sugeneruos Sutikimą suteikti patalpas juridinio asmens buveinei, kurį elektroniniu parašu turi pasirašyti visi esami patalpų savininkai. Patalpų savininkai gali pasirašyti Sutikimą suteikti patalpas juridinio asmens buveinei, prisijungę prie Registrų centro savitarnos sistemos ir pasirinkę - Juridinių asmenų registras. Paspaudus nuorodą Mano dokumentai, bus matomas nustatytos formos Sutikimas suteikti patalpas Juridinio asmens buveinei, kuris turi būti patvirtintas patalpų savininko elektroniniu parašu (pasirašyti sutikimą patalpų savininkai turi ne vienu metu, bet vienas po kito).
+
+Išsaugojus duomenis ir informaciją, reikia spausti nuorodą Tęsti ir sistema sugeneruos prašymą forma JAR-1-E, kurį  duomenų teikėjui reikės pasirašyti elektroniniu parašu. Dokumentams pasirašyti reikia spustelti šalia nepasirašyto dokumento esančią aktyvią nuorodą Pasirašyti. Svarbu pažymėti, kad keičiant buveinę elektroniniu būdu, prieš pasirašant prašymą pakeisti duomenis (JAR-1-E), būtina įkelti PDF arba ADOC formatu išsaugotą visuotinio dalyvių susirinkimo protokolą (sprendimą). 
+
+Pasirašius prašymo formą JAR-1-E, paslaugą reikia įdėti į krepšelį ir atlikti tiesioginį apmokėjimą  savitarnos svetainėje per elektroninę bankininkystę. Apmokėjus krepšelį, prašymas keisti duomenis ir dokumentus pateikiamas Juridinių asmenų registro tvarkytojui, o prašymo būsena taps Vykdomas.
+
+Už  buveinės adreso pakeitimo įregistravimą mokamas 4,15 Eur atlyginimas.
+
+Juridinių asmenų registro tvarkytojui neradus kliūčių įregistruoti, pakeisti duomenys įregistruojami ne vėliau kaip per 3 darbo dienas.
+
+Kai buveinės adresas yra nurodytas juridinio asmens steigimo dokumente (įstatuose, nuostatuose, statute), pasikeitus juridinio asmens buveinės adresui, kartu turi būti keičiamas steigimo dokumentas (naujame steigimo dokumente buveinės adresas gali būti neįrašomas).
+
+## Kaip pakeisti juridinio asmens steigimo dokumentą (įstatus, nuostatus)?
+
+#### URL: https://info.registrucentras.lt/node/593
+
+ Kaip nurodyta Civilinio kodekso 2.46 straipsnyje, juridiniai asmenys veikia pagal savo steigimo dokumentus: įstatus, nuostatus, statutus ar kt., todėl kituose teisės aktuose vartojama sąvoka "steigimo dokumentas"  neapima steigimo akto ar steigimo sutarties. Juridinio asmens steigimo dokumentą  galima pakeisti šiais būdais:  
+
+ * tiesiogiai teikiant dokumentus ir duomenis Registrų centro klientų aptarnavimo padalinyje (registruotis vizitui galite čia); 
+    
+ * uždarosioms akcinėms bendrovėms, individualioms įmonėms, asociacijoms, viešosioms įstaigoms, labdaros ir paramos fondams bei mažosioms bendrijoms yra sudaryta galimybė pateikti prašymą dėl naujo steigimo dokumento įregistravimo elektroniniu būdu per Registrų centro klientų savitarną.
+
+Teikiant dokumentus popieriniu būdu tiesiogiai Juridinių asmenų registro tvarkytojui, dokumentų ir duomenų teikėjas Juridinių asmenų registro tvarkytojui notaro voke  tiesiogiai arba paštu pateikia:
+
+1. Prašymą forma JAR-1 su notaro tvirtinamuoju įrašu. Notaro tvirtinimas  (ne)reikalingas, kai teikiamas prašymas įregistruoti Juridinių asmenų registro nuostatų 44, 45 punktuose nurodytų teisinių formų juridinių asmenų steigimo dokumentus.
+   
+3. Pakeistą steigimo dokumentą.
+   
+5. Juridinio asmens organo sprendimą pakeisti ir patvirtinti juridinio asmens steigimo dokumentą.
+    
+7. Dokumentus teikiančio asmens tapatybę patvirtinantį dokumentą. Jei dokumentus teikia įgaliotas asmuo, kartu su dokumentais Registro tvarkytojui turi būti pateikiami atstovo įgaliojimus patvirtinantys dokumentai, jeigu įgaliojimas neįregistruotas Įgaliojimų posistemėje. Jeigu dokumentai siunčiami paštu, pridedama vadovo asmens dokumento kopija.
+
+Teikiant prašymą įregistruoti naują steigimo dokumentą elektroniniu būdu per Registrų centro savitarnos sistemą, steigimo dokumentas bus sugeneruotas automatiškai pagal ūkio (šiuo metu - Ekonomikos ir inovacijų ministerija) ar teisingumo ministro įsakymu patvirtintus pavyzdinius steigimo dokumentus.
+
+Prisijungus prie Registrų centro savitarnos sistemos, horizontaliame meniu reikia pasirinkti skiltį Juridinių asmenų registras, kairėje sistemos lango pusėje esančiame meniu reikės pasirinkti laukelius: Juridinio asmens, filialo ir duomenų registravimas, Juridinio asmens, filialo duomenų registravimas, patvirtinus, kad kontaktiniai duomenys teisingi arba įrašius pakeistus kontaktinius duomenis, įrašyti keičiamus duomenis.
+
+Atlikus nurodytus veiksmus, sistema sugeneruos ir leis elektroniniu parašu pasirašyti naują steigimo dokumentą ir prašymo formą JAR-1-E.
+
+Svarbu pažymėti, kad teikiant prašymą keisti steigimo dokumentą elektroniniu būdu, būtina įkelti PDF arba ADOC formatu išsaugotą juridinio asmens organo sprendimą pakeisti juridinio asmens steigimo dokumentą.
+
+Pasirašius sistemos sugeneruotus dokumentus ir, neišėjus iš savitarnos sistemos, sumokėjus nustatyto dydžio atlyginimą per elektroninę bankininkystę, prašymas įregistruoti bus pateiktas Juridinių asmenų registro tvarkytojui.
+
+Juridinių asmenų registro tvarkytojui neradus kliūčių įregistruoti, steigimo dokumentas įregistruojamas ne vėliau kaip per 3 darbo dienas.
+
+Atlyginimas už steigimo dokumento įregistravimą - 19,80  euro.  Teikiant prašymą elektroniniu būdu, mokamas 17,54 euro atlyginimas.
+
+Juridinio asmens steigimo dokumentai netenka galios, jeigu jie nebuvo pateikti Juridinių asmenų registro tvarkytojui per šešis  mėnesius nuo sprendimo patvirtinti naujus steigimo dokumentus dienos, jeigu įstatymai nenustato kito termino.
+
+Atkreipiame Jūsų dėmesį, kad visais atvejais keičiant akcinės bendrovės ar uždarosios akcinės bendrovės įstatus, akcijos nominali vertė ir įstatinio kapitalo dydis turi būti nurodyti eurais. Žemės ūkio bendrovės įstatuose nustatytas minimalus pajinio įnašo dydis ir kooperatinės bendrovės (kooperatyvo) ar jų sąjungos įstatuose nustatyti minimalaus ir maksimalaus pajaus ir stojamojo mokesčio dydžiai turi būti išreikšti eurais.
+
+## Kokia tvarka keičiamas akcinės bendrovės ar uždarosios akcinės bendrovės vadovas?
+
+#### URL: https://info.registrucentras.lt/node/458
+
+Bendrovės vadovas keičiamas Akcinių bendrovių įstatymo 37 straipsnio nustatyta tvarka.
+
+Apie bendrovės vadovo išrinkimą ar atšaukimą bei sutarties su juo pasibaigimą kitais pagrindais naujai išrinktas vadovas arba įgaliotas asmuo Juridinių asmenų registro tvarkytojui privalo pranešti ne vėliau kaip per 5 dienas.
+
+Norint pakeisti duomenis apie bendrovės vadovą, dokumentų ir duomenų teikėjas Juridinių asmenų registro tvarkytojui turi pateikti:
+
+ *  Prašymą įregistruoti pakeitimus forma JAR-1.
+   
+ *  Vienasmenio valdymo organo duomenų formą JAR-VO-V.
+   
+ *  Kontaktinių duomenų formą KD-1.
+   
+ *  Visuotinio akcininkų susirinkimo (stebėtojų tarybos ar valdybos, kai šie organai renka vadovą) protokolą dėl vadovo atšaukimo ir naujo vadovo išrinkimo kartu su protokolo priedais.
+   
+ *  Dokumentus ir duomenis teikiančio asmens tapatybę patvirtinantį dokumentą. Jei dokumentus pateikia ne juridinio asmens vadovas, o atstovas, kartu su dokumentais Registro tvarkytojui turi būti pateikiami atstovo įgaliojimus patvirtinantys dokumentai, jeigu įgaliojimas neįregistruotas sistemoje. Kai dokumentai siunčiami paštu, pridedama vadovo asmens dokumento kopija.
+
+Naujasis vadovas prašymą įregistruoti gali pateikti ir per E. pristatymo dėžutę. Šiuo atveju kiekvienas dokumentas turi būti pasirašytas kvalifikuotu sertifikatu patvirtintu elektroniniu pasirašančiojo asmens parašu (vadovas pasirašo formas JAR-1 ir KD-1, posėdžio pirmininkas ir sekretorius bei dalyviai pasirašo protokolą).
+
+Juridinio asmens prašymas dėl duomenų apie vadovą pakeitimo taip pat gali būti pateiktas elektroniniu būdu per Registrų centro klientų savitarnos sistemą, jeigu duomenis teikia  įgaliotas asmuo (duomenų apie naują vadovą nėra duomenų bazėje, todėl sistema jo neatpažins), kuriam yra išduotas ir Juridinių asmenų registre įregistruotas įgaliojimas  teikti duomenis ir pasirašyti dokumentus.
+
+Dokumentų ir duomenų teikėjas, kvalifikuotu sertifikatu patvirtinto elektroninio parašo pagalba prisijungęs prie Registrų centro klientų savitarnos sistemos, horizontaliame meniu spustelėjęs nuorodą Juridinių asmenų registras ir kairėje meniu pusėje pasirinkęs laukelius: Juridinio asmens, filialo ir duomenų registravimas, Juridinio asmens, filialo duomenų registravimas, patvirtinęs, kad kontaktiniai duomenys teisingi arba įrašęs pakeistus kontaktinius duomenis, iš keičiamų duomenų sąrašo pasirinkęs Vadovas, galės išregistruoti buvusio vadovo duomenis ir įrašyti naujo vadovo duomenis. Jeigu kitai kadencijai išrenkamas tas pats vadovas, reikės pasirinkti laukelį Pratęsti. Keičiant duomenis apie vadovą, turi būti pridėtas PDF arba ADOC formatu suformuotas visuotinio akcininkų susirinkimo arba kito vadovą išrinkusio organo protokolas dėl vadovo atšaukimo ir naujo vadovo išrinkimo arba vadovo išrinkimo kitai kadencijai kartu su protokolo priedais.
+
+Įkėlus dokumentą,  sistema leis jį pasirašyti ir pasirašyti prašymo keisti duomenis formą JAR-1-E. Dokumentams pasirašyti reikia spustelti šalia nepasirašyto dokumento esančią aktyvią nuorodą Pasirašyti. Pasirašius formą JAR-1-E, paslaugą reikia įdėti į krepšelį ir atlikti tiesioginį apmokėjimą  savitarnos svetainėje per elektroninę bankininkystę. Apmokėjus krepšelį, prašymas keisti duomenis pateikiamas Juridinių asmenų registro tvarkytojui ir jo būsena tampa Vykdomas.
+
+Juridinių asmenų registro tvarkytojui neradus kliūčių įregistruoti, pakeisti duomenys įregistruojami ne vėliau kaip per 3 darbo dienas.
+
+Už duomenų apie naują vadovą įregistravimą mokamas 8,30 euro atlyginimas. Kontaktiniai duomenys keičiami neatlygintinai. Atsiskaitomąsias sąskaitas rasite čia.
+
+## Kokia tvarka užsakoma ir išduodama Jungtinė pažyma (Pažyma, patvirtinanti jungtinius kompetentingų institucijų tvarkomus duomenis apie viešųjų pirkimų procedūroje dalyvaujantį tiekėją)? Ar gali prašymą pateikti įgaliotas asmuo?
+
+#### URL: https://info.registrucentras.lt/node/446
+
+Jungtinė pažyma rengiama vadovaujantis Lietuvos Respublikos Vyriausybės 2008 m. gruodžio 3 d. Nr. 1286 nutarimu "Dėl Kompetentingų institucijų tvarkomų jungtinių duomenų apie viešųjų pirkimų procedūroje dalyvaujantį tiekėją pažymos išdavimo taisyklių  patvirtinimo". 
+
+Asmuo, norintis gauti Jungtinę pažymą, patvirtinančią jungtinius kompetentingų institucijų tvarkomus duomenis apie viešųjų pirkimų procedūroje dalyvaujantį tiekėją, turi pateikti Registrų centrui nustatytos formos prašymą vienu iš dviejų būdų:
+
+1. Pateikiant nustatytos formos prašymą  asmeniškai arba siunčiant paštu bet kuriam Registrų centro klientų aptarnavimo padaliniui (galite iš anksto užsiregistruoti vizitui). Siunčiant prašymą paštu pridedama vadovo asmens dokumento kopija. Ši kopija notaro netvirtinama.
+   
+Tik šiuo būdu užsakyta Jungtinė pažyma bus spausdinama popieriniu būdu ir pasirašoma Juridinių asmenų registro tvarkytojo fiziniu parašu.
+
+Pažymėtina, kad nustatytos formos prašymą išduoti Jungtinę pažymą gali pateikti juridinio asmens vadovas arba jo įgaliotas asmuo, tačiau įgaliotiniui turi būti suteikta teisė pasirašyti ir sutikimą dėl įgaliotojo ypatingų duomenų tvarkymo ir teikimo. Buhalterio, kaip fizinio asmens, įgaliojimas pasirašyti sutikimą dėl ypatingų duomenų tvarkymo ir teikimo turi būti patvirtintas notaro. Taip yra todėl, kad Jungtinėje pažymoje nurodomi ypatingi vadovo ir buhalterio (jei išduodama Jungtinė pažyma apie juridinį asmenį) ar fizinio asmens (jei išduodama Jungtinė pažyma apie fizinį asmenį) duomenys, tvarkomi Informatikos ir ryšių departamento prie Vidaus reikalų ministerijos.
+
+Įgaliojimo patvirtinti notariškai nereikia, jei įgaliotinis yra įgaliotas tik pateikti prašymą ir atsiimti Jungtinę pažymą apie viešųjų pirkimų procedūroje dalyvaujantį tiekėją,  prašymą pasirašo vadovas ir buhalteris ir toks įgaliojimas yra įregistruotas Įgaliojimų registre.
+
+2. Elektroniniu būdu per Registrų centro klientų savitarnos sistemą, jeigu juridinio asmens vadovas ir buhalteris (kai pažymoje turi būti ir buhalterio duomenys) turi kvalifikuotą elektroninį parašą.  Įgaliotas asmuo negali teikti prašymo elektroniniu būdu. Parengta pažyma nespausdinama popieriuje ir nesiunčiama, o  elektroniniu parašu pasirašytą Jungtinę pažymą vadovas ar fizinis asmuo turės surasti savitarnos sistemoje ir ją atsispausdinti. Pažyma sugeneruojama PDF formatu. Jeigu reikalinga pažyma ADOC formatu, prašymą reikia teikti popieriniu būdu, pasirinkti atsiėmimo būdą elektroniniu paštu ir nurodyti pažymos formatą.
+   
+Apibendrintą Jungtinės pažymos užsakymo ir atsiėmimo tvarką rasite šioje nuorodoje.
+
+Teikiant prašymą elektroniniu būdu per Registrų centro klientų savitarnos sistemą,  juridinio asmens vadovas, jei prašoma išduoti Jungtinę pažymą juridiniam asmeniui, ar fizinis asmuo, jei prašoma išduoti Jungtinę pažymą fiziniam asmeniui, turi kvalifikuotu sertifikatu patvirtintu elektroniniu parašu prisijungti prie savitarnos sistemos.
+
+Šiuo metu galima naudotis:
+
+- Registrų centro išduotu kvalifikuotu elektroniniu parašu (daugiau apie Registrų centro išduodamą elektroninį parašą sužinosite svetainėje www.elektroninis.lt);
+  
+- mobiliojo ryšio operatorių - Bitė, Telia, Tele2 ir Teledema - išduotais kvalifikuotais sertifikatais (mobiliuoju parašu);
+  
+- Asmens dokumentų išrašymo centro prie Vidaus reikalų ministerijos išduota asmens tapatybės kortele, kurioje įrašyti asmens atpažinimo elektroninėje erdvėje ir kvalifikuoto parašo sertifikatai.
+
+Kvalifikuotu sertifikatu patvirtintu elektroniniu parašu prisijungęs prie Registrų centro klientų savitarnos sistemos, juridinio asmens vadovas ar fizinis asmuo turi pasirinkti skiltį Juridinių asmenų registras ir kairėje lango pusėje esančiame meniu spausti nuorodas: Jungtinės pažymos. 
+
+Teikiant prašymą išduoti pažymą apie juridinį asmenį, jo vadovą ir buhalterį, sistemoje reikia pasirinkti pažymos tipą -  Viešųjų pirkimų procedūroje dalyvaujantį tiekėją – juridinį asmenį, jo vadovą ir buhalterį ir spausti mygtuką Pildyti prašymą.
+
+Teikiant prašymą išduoti pažymą apie juridinį asmenį ir jo vadovą, sistemoje reikia pasirinkti pažymos tipą - Viešųjų pirkimų procedūroje dalyvaujantį tiekėją – juridinį asmenį ir jo vadovą. Atsivėrus duomenų langui, reikia nurodyti pažymos egzempliorių skaičių.  Jeigu teikiamas prašymas pasirenkant pažymos tipą - Viešųjų pirkimų procedūroje dalyvaujantį tiekėją – juridinį asmenį ir jo vadovą, spustelėjęs šalia prašymo esančią nuorodą - Tęsti, vadovas turės įsidėti prekę į krepšelį ir apmokėti paslaugą tiesiogiai per savitarną, per pasirinkto banko el. bankininkystę. Atlikus apmokėjimą užsakymas taps Vykdomas.
+
+Kai užsakoma pažyma su buhalterio duomenimis, prašyme vadovas, prisijungęs elektroninio parašo pagalba prie Registrų centro klientų savitarnos sistemos, turi įrašyti buhalterio vardą, pavardę, asmens kodą, pasirašyti prašymą ir atsijungti nuo sistemos, pasirinkęs funkciją Baigti darbą. Nurodytas buhalteris turi savo elektroniniu parašu (nesvarbu, iš kurio kompiuterio) prisijungti prie Registrų centro klientų savitarnos sistemos (kaip fizinis asmuo), vertikaliajame meniu pasirinkti - Juridinių asmenų registras  ir kairėje pusėje esančiame meniu pasirinkti - Mano dokumentai. Suradęs ir kvalifikuotu elektroniniu prašu pasirašęs Prašymą išduoti jungtinę pažymą, buhalteris turi atsijungti nuo sistemos, pasirinkęs funkciją Baigti darbą. Tuomet juridinio asmens vadovas, prisijungęs prie savitarnos sistemos, turi pasirinkti - Juridinių asmenų registras ir kairėje lango pusėje esančiame meniu spausti nuorodas: Jungtinės pažymos užsakymas, Prašymų išduoti jungtinę pažymą peržiūra. Spustelėjęs šalia prašymo esančią nuorodą - Tęsti, vadovas turės įsidėti prekę į krepšelį ir apmokėti paslaugą tiesiogiai per savitarną, per pasirinkto banko el. bankininkystę. Atlikus apmokėjimą, užsakymas taps Vykdomas.
+
+Teikiant prašymą išduoti pažymą apie fizinį asmenį, atsivėrus duomenų langui, reikia nurodyti pažymos egzempliorių skaičių bei pasirinkti dokumento pristatymo būdą. Galimas tik vienas pažymos pristatymo būdas - elektroniniu būdu (Jungtinė pažyma sugeneruojama savitarnos sistemoje). Spustelėjęs šalia prašymo esančią nuorodą - Tęsti, fizinis asmuo  turės įsidėti prekę į krepšelį ir apmokėti paslaugą tiesiogiai per savitarną, per pasirinkto banko el. bankininkystę. Atlikus apmokėjimą užsakymas taps Vykdomas.
+
+Dėmesio! Duomenys apie tiekėjo atsiskaitymą su Valstybinio socialinio draudimo fondo valdyba gaunami automatiškai – interaktyviai. Jeigu juridinis ar fizinis asmuo turi įsiskolinimų, jam bus išduota pažyma, kad jis yra skolingas, nenurodant įsiskolinimo sumos, kuri gali būti ir keli euro centai. Todėl rekomenduojame juridiniams ir fiziniams asmenims apie savo atsiskaitymą pasitikrinti Valstybinio socialinio draudimo fondo valdybos interneto svetainėje.
+
+Kai savitarnos sistemoje užsakyta Jungtinė pažyma bus parengta (prašymo būsena taps Įvykdytas), elektroniniu parašu pasirašytą dokumentą surasite savitarnos sistemoje. Kvalifikuotu sertifikatu patvirtintu elektroniniu parašu prisijungęs prie Registrų centro klientų savitarnos sistemos, juridinio asmens vadovas ar fizinis asmuo, užsakęs Jungtinę pažymą,  turi pasirinkti skiltį Juridinių asmenų registras ir kairėje lango pusėje esančiame meniu spausti nuorodas: Jungtinės pažymos, Jungtinių pažymą sąrašas. Pasirenkamas veiksmas Peržiūrėti. Atsidariusiame lange Gauti rezultatai spaudžiama Parsisiųsti. Suradę parengtą Jungtinę pažymą, ją galėsite parsisiųsti, išsaugoti kompiuterio laikmenoje ir atsispausdinti.
+
+Dėmesio! Dokumentas savitarnos sistemoje saugomas 30 kalendorinių dienų. Po šio termino Jungtinės pažymos rasti negalima.
+
+Registrų centras neturi galimybės išduoti juridiniam asmeniui Jungtinę pažymą, kurioje būtų nurodyti duomenys pagal Viešųjų pirkimų įstatymo 33 straipsnio 1 dalies 3 punkto reikalavimus, t. y. ar juridinio asmens dalyvis, turintis balsų daugumą dalyvių susirinkime, neturi neišnykusio ar nepanaikinto teistumo už nusikalstamą bankrotą.
+
+Pažymas apie fizinio asmens teistumą išduoda Informatikos ir ryšių departamentas prie Vidaus reikalų ministerijos, taip pat šie duomenys nurodomi Registrų centro išduodamoje Jungtinėje pažymoje apie fizinį asmenį. Įstatymai nenumato juridinio asmens baudžiamosios atsakomybės už nusikalstamą bankrotą.
+
+Jungtinės pažymos galiojimo terminas nenustatomas. Jungtinėje pažymoje nurodoma jos atspausdinimo data ir visų institucijų, teikiančių informaciją, informacijos pateikimo datos. Viešųjų pirkimų organizatorius ar institucija, kuriai teikiama Jungtinė pažyma ar Juridinių asmenų registro išrašas, gali nustatyti datą, iki kurios išduota pažyma būtų tinkama pateikti.
+
+Informaciją apie  atlyginimo dydžius  rasite nuorodoje.
+
+## Kokiu būdu galima pakeisti akcinės bendrovės ar uždarosios akcinės bendrovės įstatinio kapitalo ir akcijų nominalios vertės išraišką iš litų į eurus?
+
+#### URL: https://info.registrucentras.lt/node/8962
+
+ Norint pakeisti akcinės bendrovės ar uždarosios akcinės bendrovės įstatinio kapitalo ir akcijų nominalios vertės išraišką iš litų į eurus, turi būti pakeisti ir įregistruoti nauji bendrovės įstatai. Prašymą įregistruoti dėl įstatinio kapitalo ir akcijų nominalios vertės valiutos išraiškos keitimo pasikeitusius įstatus galima pateikti šiais būdais:
+
+ *  teikiant dokumentus ir duomenis Registrų centro klientų aptarnavimo padalinyje.
+   
+ *  elektroniniu būdu per Registrų centro klientų savitarną (tik uždarosioms akcinėms bendrovėms).
+
+Teikiant dokumentus ir duomenis tiesiogiai Registrų centro klientų aptarnavimo padalinyje, dokumentų ir duomenų teikėjas Juridinių asmenų registro tvarkytojui notaro voke pateikia:
+
+1. Prašymą forma JAR-1 su notaro tvirtinamuoju įrašu;
+   
+3. Pakeistus įstatus;
+   
+5. Visuotinio akcininkų susirinkimo, priėmusio sprendimą dėl naujų įstatų patvirtinimo, protokolą (vienintelio akcininko sprendimą);
+   
+7. Dokumentus teikiančio asmens tapatybę patvirtinantį dokumentą. Jei dokumentus teikia ne vadovas, o įgaliotas asmuo, kartu su dokumentais Registro tvarkytojui turi būti pateikiami atstovo įgaliojimus patvirtinantys dokumentai.
+Jeigu dokumentai siunčiami paštu, pridedama vadovo asmens dokumento kopija.
+
+Už  įstatų  įregistravimą  yra  mokamas 19,80 Eur atlyginimas. Atsiskaitomąsias sąskaitas rasite čia.
+
+Prašymas įregistruoti pakeistus uždarosios akcinės bendrovės įstatus elektroniniu būdu teikiamas, prisijungus prie Registrų centro klientų savitarnos sistemos kvalifikuotu sertifikatu patvirtintu elektroniniu parašu. Prašymą gali teikti bendrovės vadovas ar jo įgaliotas asmuo, kuriam nustatyta tvarka suteiktas įgaliojimas. Horizontaliame meniu reikia pasirinkti Juridinių asmenų registras, kairėje sistemos lango pusėje esančiame meniu reikės pasirinkti laukelius: Juridinio asmens, filialo ir duomenų registravimas> Juridinio asmens, filialo  duomenų registravimas, patvirtinus, kad kontaktiniai duomenys teisingi arba įrašius pakeistus kontaktinius duomenis > Kapitalo duomenys> Keičiama tik įstatinio kapitalo išraiška eurais.
+
+Keičiant uždarosios akcinės bendrovės įstatus elektroniniu būdu per Registrų centro klientų savitarnos sistemą, įstatai bus sugeneruoti pagal Ūkio ministro patvirtintus pavyzdinius įstatus, todėl reikia užpildyti visus privalomus laukus. Sistemoje veiklos tikslai įrašomi tik į tam skirtą lauką, todėl reikės išregistruoti pagal EVRK įregistruotas veiklos sritis ir rūšis. Pasirinkus funkciją Redaguoti, iš klasifikatoriaus reikia pasirinkti veiklą, kurią bendrovė vykdo ar ketina vykdyti. Nepriklausomai nuo to, kokie veiklos tikslai bus įrašyti, sistema visada įstatuose sugeneruos sakinį: Bendrovė gali užsiimti bet kokia kita veikla, kuri neprieštarauja Lietuvos Respublikos teisės aktams.
+
+Nors ir pažymėtas laukas  Keičiama tik įstatinio kapitalo išraiška eurais, galima keisti ir kitas įstatų nuostatas bei už atskirą atlyginimą pagal poreikį keisti kitus duomenis (pav., kontaktinius duomenis). Atlikus sistemos nurodytus ir kitus veiksmus ir įrašius privalomus duomenis, sistema sugeneruos naujus įstatus ir prašymo formą JAR-1-E. Reikia atkreipti dėmesį, kad Steigimo dokumento patvirtinimo data yra įrašoma vienintelio akcininko  sprendimo dėl naujų įstatų patvirtinimo priėmimo data ar visuotinio akcininkų susirinkimo protokolo data. Siūlome prieš pasirašant įstatus, juos atidaryti ir įdėmiai perskaityti. Įstatus prieš pasirašymą būtų pravartu atsispausdinti. Jeigu būtų reikalingi kitų duomenų pakeitimai, yra galimybė pasirinkti funkciją Keisti prašymo duomenis ir įrašyti reikiamus pakeitimus. Atkreipiame dėmesį, kad yra galimybė atlikti tik tuos duomenų pakeitimus, kuriuos keisti leidžia sistema (pvz., įrašyti trūkstamas veiklas ar panaikinti per klaidą pasirinktas veiklas). Svarbu pažymėti, kad teikiant prašymą keisti įstatus elektroniniu būdu, būtina įkelti PDF arba ADOC formate išsaugotą vienintelio akcininko sprendimą dėl naujų įstatų patvirtinimo ar visuotinio akcininkų susirinkimo protokolą.
+
+Dokumentą galima įkelti, spustelėjus šalia nuorodos DOKUMENTO ĮKĖLIMAS esantį ženkliuką (+), kuris virs (-) ir  išsiskleis duomenų laukai. Tuomet reikės užpildyti privalomus laukus: pasirinkti dokumento tipą (pasirenkamas iš klasifikatoriaus tiksliai toks dokumentas, kuris įkeltas - vienintelio akcininko sprendimas, visuotinio akcininkų susirinkimo protokolas ar kt.) ir nurodyti jo datą (data sutaps su Steigimo dokumento patvirtinimo data), spustelti nuorodą Browse ir pasirinkti įkeliamą kompiuterio laikmenoje išsaugotą PDF arba ADOC formate sugeneruotą dokumentą.  Suradus dokumentą, jis įkeliamas spustelėjus nuorodą Įkelti.
+
+Norint įkelti PDF formatu sugeneruotą dokumentą, reikia prisijungti prie  Registrų centro klientų savitarnos sistemos  ir pasirinkti skiltį Juridinių asmenų registras bei kairėje pusėje esančiame meniu pasirinkti  Juridinio asmens, filialo ir duomenų registravimas> Juridinio asmens, filialo  duomenų registravimo sąrašas . Suradus teikiamą prašymą, reikia spustelti šalia prašymo esančią nuorodą Tęsti.
+
+Įkėlus dokumentą  ir pasirašius įstatus, sistema leis pasirašyti dokumentą (jeigu įkeliamas dokumentas nepasirašytas elektroniniu parašu), taip pat prašymo keisti duomenis formą JAR-1-E. Dokumentams pasirašyti reikia spustelti šalia nepasirašyto dokumento esančią aktyvią nuorodą Pasirašyti.
  
-## DĖL 2023 METAIS GYVENTOJŲ GAUTŲ PALŪKANŲ APMOKESTINIMO IR DEKLARAVIMO
+Pasirašius įstatus ir formą JAR-1-E, paslaugą reikia įdėti į krepšelį ir atlikti tiesioginį apmokėjimą  savitarnos svetainėje per elektroninę bankininkystę. Apmokėjus krepšelį, prašymas keisti duomenis ir dokumentus pateikiamas Juridinių asmenų registro tvarkytojui. Už  įstatų  įregistravimą  elektroniniu būdu yra  mokamas 17,54 Eur atlyginimas. 
 
-#### URL: https://www.vmi.lt/evmi/mokesciu-zinynas#d%C4%97l-2023-metais-gyventoj%C5%B3-gaut%C5%B3-pal%C5%ABkan%C5%B3-apmokestinimo-ir-deklaravimo
+Juridinių asmenų registro tvarkytojui neradus kliūčių įregistruoti, steigimo dokumentas įregistruojamas ne vėliau kaip per 3 darbo dienas.
 
-Paaiškiname, kokia tvarka apmokestinamos ir deklaruojamos 2023 metais gyventojų gautos palūkanos:
+Prašymo būklę, įrašę prašymo numerį, galite peržiūrėti čia. Kai įstatai bus įregistruoti, prašymo būsena taps Įvykdytas. Jeigu Juridinių asmenų registro tvarkytojas nustatys trūkumus, prašymo būsena taps Atidėtas dėl trūkumų ir prisijungus prie sistemos bus galimybė atlikti reikiamus pakeitimus.
 
-1. Kai palūkanos gautos už suteiktas paskolas.
+Atkreipiame dėmesį, kad visuotinio akcininkų susirinkimo arba vienintelio akcininko sprendimas pakeisti bendrovės įstatus laikomas negaliojančiu, jeigu pakeisti bendrovės įstatai nebuvo pateikti Juridinių asmenų registro tvarkytojui per 6 mėnesius nuo visuotinio akcininkų susirinkimo arba vienintelio akcininko sprendimo padidinti įstatinį kapitalą, dienos.
 
-Pagal GPMĮ[1] nuostatas apskaičiuojant ir deklaruojant 2023 metais gautas palūkanas už suteiktas paskolas įmonėms ir/ar gyventojams, šios pajamos apmokestinamos taikant GPMĮ 6 straipsnyje nustatytą 15 proc. pajamų mokesčio tarifą, o metinei pajamų ne iš darbo santykių arba jų esmę atitinkančių santykių[2] daliai, viršijančiai 120 VDU[3] dydžio sumą, taikomą apdraustųjų asmenų einamųjų metų VSD[4] įmokų bazei skaičiuoti, taikomas 20 proc. pajamų mokesčio tarifas. GPMĮ šioms pajamoms nenustato jokių lengvatų, apmokestinama nuo pirmo euro.
+## Kokia tvarka pateikiami prašymai dėl Juridinių asmenų registro išrašo išdavimo? Kokie duomenys nurodomi atskirų tipų Juridinių asmenų registro išrašuose?
 
-Tuo atveju, kai nuolatinis Lietuvos gyventojas (toliau – nuolatinis gyventojas) palūkanas už suteiktą paskolą gauna iš kito nuolatinio gyventojo, pagal mokesčio mokėjimo tvarką pajamos priskiriamos A klasės pajamoms ir todėl pajamų mokestį apskaičiuoti, išskaičiuoti ir sumokėti į valstybės biudžetą privalo palūkanas išmokantis asmuo. Vadovaujantis GPMĮ 24 straipsniu, palūkanas išmokėjęs nuolatinis gyventojas, kaip mokestį išskaičiuojantis asmuo, privalo deklaruoti išmokėtas palūkanų sumas, išskaičiuotą ir sumokėtą pajamų mokestį pateikdamas Mėnesinės pajamų mokesčio nuo A klasės pajamų deklaracijos GPM313 formą ir Metinės gyventojams išmokėtų išmokų, priskiriamų A ir B klasės pajamoms, deklaracijos GPM312 formą.
+#### URL: https://info.registrucentras.lt/node/584
 
-Nuolatinio gyventojo iš kitų šaltinių (pvz., iš Lietuvos įmonių ir iš užsienio) gautos palūkanos už suteiktą paskolą pagal pajamų mokesčio mokėjimo tvarką priskiriamos B klasės pajamoms ir todėl pajamų mokestį apskaičiuoti ir sumokėti privalo pats pajamų gavęs gyventojas, pateikdamas Pavyzdinę pajamų mokesčio deklaracijos GPM311 formą. Palūkanos deklaruojamos šios deklaracijos GPM311 priede GPM311E. Palūkanas išmokėjęs asmuo (Lietuvos įmonė), vadovaudamasis GPMĮ 24 straipsniu, privalo pateikti Metinės gyventojams išmokėtų išmokų, priskiriamų A ir B klasės pajamoms, deklaracijos GPM312 formą.
+Juridinių asmenų registro nuostatai nustato, kad Registro duomenys, informacija ir dokumentai yra vieši ir juos gali užsisakyti bet kuris asmuo. 
 
-Nenuolatinio Lietuvos gyventojo (toliau – nenuolatinis gyventojas) gautos palūkanos už suteiktą paskolą pagal mokesčio mokėjimo tvarką priskiriamos A klasės pajamoms, todėl pajamų mokestį apskaičiuoti, išskaičiuoti ir sumokėti į valstybės biudžetą privalo palūkanas išmokantis asmuo. Vadovaujantis GPMĮ 24 straipsniu, palūkanas išmokėjęs asmuo, kaip mokestį išskaičiuojantis asmuo, privalo deklaruoti išmokėtas palūkanų sumas, išskaičiuotą ir sumokėtą pajamų mokestį pateikdamas Mėnesinės pajamų mokesčio nuo A klasės pajamų deklaracijos GPM313 formą bei Metinės gyventojams išmokėtų išmokų, priskiriamų A ir B klasės pajamoms, deklaracijos GPM312 formą.
+Juridinių asmenų registro išrašuose pateikiami duomenys nurodyti Juridinių asmenų registro tvarkymo taisyklėse.  Gali būti parengiami trumpasis, pagrindinių duomenų, išplėstinis, išplėstinis su istorija išrašai, taip pat elektroninis sertifikuotas išrašas - prieigos raktas (kodas) ESI. Juridinių asmenų registro išrašų pavyzdžius rasite pagal nuorodą.
 
-2. Kai palūkanos gautos už vartojimo kreditą, suteiktą per tarpusavio skolinimo platformą, ar už lėšas, suteiktas per sutelktinio finansavimo platformą.
+Registro teikiami rašytinės formos registro duomenų ir informacijos išrašai turi turėti žymą "Išrašas tikras", o dokumentų kopijos – žymą "Kopija tikra", išskyrus atvejus, kai tokios žymos asmuo, kuris kreipiasi, nereikalauja. Registro teikiami elektroninės formos registro duomenų ir informacijos išrašai ir dokumentų kopijos netvirtinami žymomis "Išrašas tikras" ("Kopija tikra"), išskyrus atvejus, kai tokios žymos asmuo, kuris kreipiasi, reikalauja. Juridinių asmenų registro tvarkytojo išduodami registro duomenų ir informacijos išrašai, dokumentų kopijos turi prima facie galią. Apie tai, kad juridinių asmenų registro tvarkytojo išduodami registro duomenų ir informacijos išrašai, dokumentų kopijos turi prima facie galią, juridinių asmenų registro tvarkytojas nurodo skelbdamas ir teikdamas šiuos duomenų ir informacijos išrašus ir dokumentų kopijas.
 
-Pagal GPMĮ 17 straipsnio 1 dalies 20-2 punkto nuostatas 2023 metais gautų palūkanų už vartojimo kreditą, suteiktą per tarpusavio skolinimo platformą Lietuvos Respublikos vartojimo kredito įstatyme ar atitinkamame Europos ekonominės erdvės valstybės įstatyme nustatyta tvarka, taip pat palūkanų už lėšas, suteiktas per sutelktinio finansavimo platformą 2020 m. spalio 7 d. Europos Parlamento ir Tarybos reglamente (ES) 2020/1503 dėl Europos sutelktinio finansavimo paslaugų verslui teikėjų, kuriuo iš dalies keičiamas Reglamentas (ES) 2017/1129 ir Direktyva (ES) 2019/1937, ar atitinkamame Europos ekonominės erdvės valstybės įstatyme nustatyta tvarka, suma, neviršijanti 500 eurų per mokestinį laikotarpį.
+Tikrumo žymą sudaro žodžiai "Kopija tikra" ("Išrašas tikras"), dokumento kopijos, nuorašo ar išrašo tikrumą tvirtinančio asmens pareigų pavadinimas, parašas, vardas (vardo raidė) ir pavardė, data, antspaudas.
 
-Tokių pagal mokesčio mokėjimo tvarką B klasės neapmokestinamosioms pajamoms priskiriamų palūkanų nuolatiniam gyventojui Pavyzdinėje pajamų mokesčio deklaracijos GPM311 formoje deklaruoti neprivalu.
+Juridinių asmenų registro duomenys yra teikiami atlygintinai, išskyrus teisės aktų numatytus atvejus. Jeigu prašymas teikiamas juridinio asmens vardu, jį turi pasirašyti juridinio asmens vadovas ar jo įgaliotas asmuo. Jeigu prašymą teikia įgaliotinis, kartu turi būti pateiktas įgaliojimas.
 
-Kai bendra 2023 metais gautų palūkanų suma viršija 500 Eur sumą, pajamų mokesčiu neapmokestinama 500 Eur, o šį dydį viršijanti suma apmokestinama taikant GPMĮ 6 straipsnyje nustatytą 15 proc. pajamų mokesčio tarifą, o metinei pajamų ne iš darbo santykių arba jų esmę atitinkančių santykių[5] daliai, viršijančiai 120 VDU dydžio sumą, taikomą apdraustųjų asmenų einamųjų metų VSD įmokų bazei skaičiuoti, taikomas 20 proc. pajamų mokesčio tarifas.
+Juridinių asmenų registro išrašai yra rengiami valstybine kalba, išskyrus Juridinių asmenų registro pagrindinių duomenų išrašą, kurį galima užsisakyti anglų kalba.
 
-Tokiu atveju, vadovaujantis GPMĮ 27 straipsniu, pajamų mokestį apskaičiuoti ir sumokėti privalo pats pajamų gavęs nuolatinis gyventojas, pateikdamas Pavyzdinę pajamų mokesčio deklaracijos GPM311 formą. Palūkanos deklaruojamos šios deklaracijos GPM311 formos priede GPM311E.
+Juridinių asmenų registro išrašus galima užsisakyti:
 
-Nenuolatinio gyventojo gautos tokios palūkanos pagal mokesčio mokėjimo tvarką priskiriamos A klasės pajamoms, todėl pajamų mokestį apskaičiuoti, išskaičiuoti ir sumokėti į valstybės biudžetą privalo palūkanas išmokantis asmuo. Vadovaujantis GPMĮ 24 straipsniu, palūkanas išmokėjęs asmuo, kaip mokestį išskaičiuojantis asmuo, privalo deklaruoti išmokėtas palūkanų sumas, išskaičiuotą ir sumokėtą pajamų mokestį pateikdamas Mėnesinės pajamų mokesčio nuo A klasės pajamų deklaracijos GPM313 formą ir Metinės gyventojams išmokėtų išmokų, priskiriamų A ir B klasės pajamoms, deklaracijos GPM312 formą. Nenuolatinis gyventojas GPMĮ 17 straipsnio 1 dalies 20-2 punkte nustatyta pajamų mokesčio lengvata gali pasinaudoti mokestiniam laikotarpiui pasibaigus pateikdamas Nenuolatinio Lietuvos gyventojo metinės pajamų mokesčio deklaracijos GPM314 formą.
+pateikiant nustatytos formos prašymą paštu (siunčiant prašymą paštu, kartu pridedama vadovo asmens dokumento kopija. Ši kopija notaro netvirtinama);
 
-3. Kai palūkanos gautos už ne nuosavybės vertybinius popierius ir už kredito įstaigose laikomus indėlius.
+elektroniniu parašu pasirašytą nustatytos formos prašymą siunčiant elektroniniu paštu info@registrucentras.lt;
 
-3.1. Pagal GPMĮ 17 straipsnio nuostatas pajamų mokesčiu neapmokestinamos palūkanos, gautos už:
+nustatytos formos prašymą pateikiant Registrų centro padaliniuose (iš anksto registruotis galite čia);
 
-- iki 2013 gruodžio 31 d. įsigytus vienetų (tiek Lietuvos, tiek užsienio valstybių) ne nuosavybės vertybinius popierius[6], jeigu šie ne nuosavybės vertybiniai popieriai pradėti išpirkti ne anksčiau kaip po 366 dienų nuo jų išleidimo dienos (GPMĮ 17 str. 1 d. 20-1 p.);
+nuotoliniu būdu, pasinaudojus elektronine Registrų centro klientų savitarnos sistema, kur galima užsakyti tiek elektroninį, tiek popierinį išrašą;
 
-- iki 2013 m. gruodžio 31 d. įsigytus EEE[7] valstybių vyriausybių, taip pat EEE valstybių politinių ar teritorijos administracinių padalinių vertybinius popierius (GPMĮ 17 str. 1 d. 21 p.);
+per E. pristatymo dėžutę - prašymas pasirašomas elektroniniu parašu.
 
-- pagal iki 2013 m. gruodžio 31 d. sudarytas sutartis dėl EEE valstybėse už jų bankuose ar kitose kredito įstaigose laikomus indėlius (GPMĮ 17 str. 1 d. 22 p.).
+Prisijungus prie Registrų centro savitarnos sistemos, reikia horizontaliajame meniu pasirinkti Juridinių asmenų registras, vertikaliajame meniu - Popieriniai išrašai. Toliau reikia užpildyti privalomus laukus ir pasirinkti išrašo tipą. Reikia atkreipti dėmesį, kad būtų įrašytas teisingas elektroninio pašto adresas. Užsakant  Pagrindinių duomenų išrašą, galima pasirinkti ir kalbą. Užpildžius reikiamus laukus ir apmokėjus krepšelį per elektroninę bankininkystę, reikia pateikti prašymą Juridinių asmenų registro tvarkytojui.
 
-Tokių pagal mokesčio mokėjimo tvarką B klasės neapmokestinamosioms pajamoms priskiriamų palūkanų nuolatiniam Lietuvos gyventojui Pavyzdinėje pajamų mokesčio deklaracijos GPM311 formoje deklaruoti neprivalu.
+Parengtą išrašą atsiimti reikės užsakyme nurodytame Registrų centro klientų aptarnavimo padalinyje  arba jis bus išsiųstas paštu užsakovo nurodytu adresu.
 
-3.2. Kai 3.1. punkte išvardyti ne nuosavybės vertybiniai popieriai įsigyti ir/ar indėlių sutartys sudarytos nuo 2014-01-01, nuolatinio Lietuvos gyventojo gautos palūkanos pajamų mokesčiu neapmokestinamos, kai bendra per mokestinį laikotarpį gauta palūkanų suma už ne nuosavybės vertybinius popierius ir už indėlius neviršija 500 Eur (GPMĮ 17 str. 1 d. 20 p.).
+Užsakytas išrašas parengiamas ne vėliau kaip per 5 darbo dienas nuo atlyginimo už išrašo parengimą sumokėjimo. Jeigu juridinis asmuo yra pateikęs prašymą dėl duomenų ar dokumentų keitimo, išrašas nerengiamas, kol šie duomenys neįregistruojami Juridinių asmenų registre.
 
-Pvz., Gyventojas 2023 metais (nuo 2023-01-01 iki 2023-12-31) gavo: 50 Eur palūkanų už Lietuvos banke „X“ laikomą indėlį (indėlio sutartis sudaryta 2022-01-06), 320 Eur palūkanų už Lenkijos Vyriausybės obligacijas (obligacijos įsigytos 2022-03-10) ir 130 Eur palūkanų už UAB „Y“ obligacijas (obligacijos įsigytos 2021-02-02; vienetas – gyventojo darbdavys; mokamos palūkanos nėra didesnės nei kitiems tų pačių obligacijų turėtojams mokamos palūkanos). Viso 2023 metais gyventojas gavo 500 Eur palūkanų. Kadangi ši suma neviršija įstatyme nustatyto dydžio, ne nuosavybės vertybiniai popieriai įsigyti ir indėlio sutartis sudaryta nuo 2014-01-01, visa gautų pajamų suma gyventojų pajamų mokesčiu neapmokestinama.
+Elektroninę Juridinių asmenų registro išrašo kopiją galima užsisakyti internetu, pasinaudojus Registrų centro klientų elektroninės savitarnos sistema, reikia horizontaliajame meniu pasirinkti Juridinių asmenų registras, vertikaliajame meniu -
+Paieška ir e. išrašai.  Elektroninė išrašo kopija yra parengiama netrukus po apmokėjimo, ją galima išsisaugoti kompiuterio laikmenoje bei atsispausdinti, tačiau ji nėra oficialus dokumentas, teiktinas tretiesiems asmenims.
 
-Tokių pagal mokesčio mokėjimo tvarką B klasės neapmokestinamosioms pajamoms priskiriamų palūkanų sumos, neviršijančios 500 Eur per 2023 metus, nuolatiniam gyventojui Pavyzdinėje pajamų mokesčio deklaracijos GPM311 formoje deklaruoti neprivalu.
+Juridinių asmenų registro išrašai teikiami atlygintinai.  Atsiskaitomąsias sąskaitas rasite čia. Registro išrašo galiojimo terminas nenustatomas, išraše nurodoma tiksli jo atspausdinimo data.
 
-Kai bendra 2023 metais gautų palūkanų suma už ne nuosavybės vertybinius popierius ir už indėlius viršija 500 Eur sumą, tai pajamų mokesčiu neapmokestinama 500 Eur, o šį dydį viršijanti suma apmokestinama taikant GPMĮ 6 straipsnyje nustatytą 15 proc. pajamų mokesčio tarifą, o metinei pajamų ne iš darbo santykių arba jų esmę atitinkančių santykių[8] daliai, viršijančiai 120 VDU dydžio sumą, taikomą apdraustųjų asmenų einamųjų metų VSD įmokų bazei skaičiuoti, taikomas 20 proc. pajamų mokesčio tarifas.
+## Kokia tvarka juridinio asmens pavadinimas laikinai įrašomas į Juridinių asmenų registrą?
 
-Tokiu atveju gyventojui privalu pateikti Pavyzdinės pajamų mokesčio deklaracijos GPM311 formą ir gautas palūkanas deklaruoti šios deklaracijos GPM311 formos priede GPM311E.
+#### URL: https://info.registrucentras.lt/node/651
 
-Pažymėtina, kad nenuolatinis gyventojas GPMĮ 17 straipsnio 1 dalies 20 punkte nustatyta pajamų mokesčio lengvata palūkanoms už ne nuosavybės vertybinius popierius ir už kredito įstaigose laikomus indėlius gali pasinaudoti mokestiniam laikotarpiui pasibaigus, pateikdamas Nenuolatinio Lietuvos gyventojo metinę pajamų mokesčio deklaracijos GPM314 formą. Nenuolatinių gyventojų gautos palūkanos už Vyriausybės ne nuosavybės vertybinius popierius nėra pajamų mokesčio objektas (GPMĮ 5 str. 4 d. 1 punktas).
+Prašymą laikinai įrašyti pavadinimą į Juridinių asmenų registrą galima pateikti bet kuriame Registrų centro klientų aptarnavimo padalinyje (registruotis vizitui galite čia) pateikus užpildytą prašymo formą JAR-5. 
 
-Visos šiame rašte išdėstytos GPMĮ 17 straipsnyje nustatytos mokesčio lengvatos netaikomos, jeigu atitinkamos pajamos gautos iš užsienio vienetų, įregistruotų ar kitaip organizuotų tikslinėse teritorijose.Tikslinių teritorijų sąrašas patvirtintas Lietuvos Respublikos finansų ministro 2001 m. gruodžio 22 d. įsakymu Nr. 344 „Dėl tikslinių teritorijų sąrašo patvirtinimo“.
+Prašymo formoje galima įrašyti tik vieną pavadinimą. 
+
+Prašymą laikinai įrašyti pavadinimą į Juridinių asmenų registrą taip pat galima pateikti ir elektroniniu būdu, pasinaudojus Registrų centro klientų aptarnavimo savitarnos sistema. Kvalifikuotu sertifikatu patvirtintu elektroniniu parašu prisijungus prie klientų savitarnos, reikia pasirinkti skiltį Juridinių asmenų registras ir kairėje meniu pusėje reikia pasirinkti nuorodas:  Juridinio asmens, filialo ir duomenų registravimas>Laikino pavadinimo įrašymas. Užpildžius reikiamus duomenų laukus bei išsaugojus įrašytą informaciją, prašymą reikia pasirašyti kvalifikuotu sertifikatu patvirtintu elektroniniu parašu bei, neatsijungus nuo klientų savitarnos sistemos, per nurodytų bankų elektroninės bankininkystės sistemą apmokėti krepšelį.
+
+Teikiant elektroniniu būdu prašymą laikinai įrašyti juridinio asmens pavadinimą į  Juridinių asmenų registrą, sistema atlieką patikrą dėl dažniausiai juridinių asmenų pavadinimuose pasitaikančių klaidų, tokių kaip: pavadinimo įrašymas vien tik didžiosiomis raidėmis, skaitmens įrašymas žodžio viduryje ir pan., ir apie tai informuoja prašymo teikėją. Gavus tokį pranešimą, klientui paliekama galimybė pačiam nuspręsti dėl nustatytos klaidos ištaisymo (sistemoje pateikiamas klausimas "Ar norėtumėte pakoreguoti pavadinimą?" ir pasirinkimas "Koreguoti pavadinimą" arba "Nekoreguoti ir tęsti"). Jei prašymo teikėjas pasirenka nekoreguoti pavadinimo, procesas tęsiamas ir Juridinių asmenų registro tvarkytojui gali būti pateikiamas prašymas dėl laikino pavadinimo įrašymo. Tai yra informacinio pobūdžio pranešimas, kadangi Civilinio kodekso 2.40 straipsnio 2 dalyje nustatyta, kad juridinio asmens pavadinimas turi būti sudarytas laikantis lietuvių bendrinės kalbos normų.
+
+Sprendimą dėl pavadinimo laikino įrašymo į Registrą priima į Juridinių asmenų registro tvarkytojas.
+
+Už laikiną pavadinimo įrašymą mokamas 6,75 Eur atlyginimas, už tapatumo nustatymą - 8,04 Eur atlyginimas. Atsiskaitomąsias sąskaitas rasite čia.
+
+Registro tvarkytojas, gavęs prašymą laikinai įrašyti pavadinimą į Registrą, patikrina, ar pavadinimas nėra tapatus:
+
+- įregistruotų juridinių asmenų pavadinimams;
+
+- laikinai įrašytiems į Registrą pavadinimams;
+
+- nacionaliniams, Bendrijos bei išplėstiems į Lietuvą tarptautiniams prekių ženklams.
+
+Nustačius, kad pavadinimas atitinka nustatytus reikalavimus, jis ne vėliau kaip per vieną darbo dieną yra laikinai įrašomas į Juridinių asmenų registrą.
+
+Kad pamatyti pažymą apie pavadinimo laikiną įrašymą į Juridinių asmenų registrą, reikia prisijungti prie Registrų centro savitarnos sistemos, horizontaliajame meniu pasirinkti Juridinių asmenų registras, vertikaliajame meniu - Juridinio asmens, filialo ir duomenų registravimas, Laikinų pavadinimų sąrašas ir suradus reikiamą prašymą atsidaryti dokumentą.
+
+Preliminariai pasitikrinti pavadinimo tapatumą galite čia:
+
+- Registrų centro svetainėje, ar pavadinimas nėra tapatus su kitų juridinių asmenų, filialų ar atstovybių pavadinimais arba laikinai įtrauktais į Registrą pavadinimais.
+
+- Valstybinio patentų biuro tinklalapyje, ar pavadinimas nėra tapatus nacionaliniams, Bendrijos ir išplėstiems į Lietuvą tarptautiniams prekių ženklams.
+
+Registro tvarkytojui priėmus sprendimą dėl pavadinimo laikino įrašymo (neįrašymo) į Registrą, sugeneruojama Juridinių asmenų registro tvarkytojo patvirtinta nustatytos formos pažyma arba nurodoma sprendimo atmesti prašymą priežastis. Priėmus sprendimą neįrašyti laikino juridinio asmens pavadinimo, gali būti teikiamas naujas prašymas įrašyti kitą pavadinimą. Teikiant prašymą Registrų centro savitarnos sistemoje, reikia paslaugą apmokėti iš naujo, o pinigus už laikiną pavadinimo įrašymą galima susigrąžinti. Atlyginimas už tapatumo nustatymą  negrąžinamas. 
+
+Norėdami susigrąžinti piniginę įmoką, turėtumėte Registrų centrui (Lvivo g. 25-101, 09320 Vilnius) pateikti prašymą grąžinti nepanaudotą įmoką (prašymo formą rasite čia). Prašyme būtina nurodyti pinigų susigrąžinimo priežastį, pateikto prašymo (užsakymo, krepšelio) numerį bei nurodyti banką ir atsiskaitomosios sąskaitos, į kurią pageidaujama gauti grąžinamus pinigus, numerį. Pasirašytą prašymą galima pateikti tiesiogiai, atvykus į bet kurį Registrų centro klientų aptarnavimo padalinį, paštu arba nuskenuotą prašymą galite siųsti elektroniniu paštu: info@registrucentras.lt.  
+
+Kaip nurodyta Civilinio kodekso 2.42 straipsnio 2 dalyje, juridinis asmuo, kurio teisė į pavadinimą yra pažeista dėl to, kad kitas asmuo neteisėtai naudoja pirmojo pavadinimą, arba dėl to, kad kitas asmuo turi ar naudoja pavadinimą, kuris neatitinka šio kodekso 2.39 straipsnio reikalavimų, turi teisę kreiptis į teismą ir reikalauti, kad teismas įpareigotų juridinį asmenį nutraukti neteisėtus veiksmus arba pakeisti pavadinimą ir atlyginti tais veiksmais padarytą turtinę ir neturtinę žalą, o jeigu pažeista šio straipsnio 1 dalis, – taip pat reikalauti, kad asmuo perduotų viską, ką gavo prisidengęs ar naudodamas pavadinimą be jo savininko sutikimo. 
  
-## 2023 M. LAIKOTARPIU GYVENTOJŲ GAUTŲ PAJAMŲ IŠ FINANSINIŲ PRIEMONIŲ PARDAVIMO AR KITOKIO PERLEIDIMO NUOSAVYBĖN AR IŠVESTINIŲ FINANSINIŲ PRIEMONIŲ REALIZAVIMO APMOKESTINIMO IR DEKLARAVIMO YPATUMAI
+Laikinai įrašytas pavadinimas Juridinių asmenų registre saugomas 6 mėnesius nuo įrašymo į Registrą dienos. Teisės aktai nenumato galimybės pratęsti laikinai į Juridinių asmenų registrą įtraukto pavadinimo laikinos apsaugos terminą arba atšaukti į Registrą laikinai įrašytą pavadinimą, taip pat nenumato pirmenybės teikusiam prašymą asmeniui įrašyti pavadinimą. Tas pats pavadinimas gali būti laikinai įrašytas į Juridinių asmenų registrą ne anksčiau, kaip kitą dieną po 6 mėnesių termino pabaigos, kai jis pašalinamas iš sistemos.
 
-#### URL: https://www.vmi.lt/evmi/mokesciu-zinynas#2023-m--laikotarpiu-gyventoj%C5%B3-gaut%C5%B3-pajam%C5%B3-i%C5%A1-finansini%C5%B3-priemoni%C5%B3-pardavimo-ar-kitokio-perleidimo-nuosavyb%C4%97n-ar-i%C5%A1vestini%C5%B3-finansini%C5%B3-priemoni%C5%B3-realizavimo-apmokestinimo-ir-deklaravimo-ypatumai
+## Kokia tvarka registruojamas uždarosios akcinės bendrovės įstatinio kapitalo padidinimas?
 
-Atsižvelgdami į Mokesčių administravimo įstatymo[1] 19 straipsnyje nurodytą VMI[2] keliamą uždavinį padėti mokesčių mokėtojams įgyvendinti savo teises ir atlikti pareigas, primename kokia tvarka apmokestinamos ir deklaruojamos nuolatinių Lietuvos gyventojų (toliau — gyventojas) 2023 m. laikotarpiu gautos finansinių priemonių pardavimo ar kitokio perleidimo nuosavybėn ar išvestinių finansinių priemonių realizavimo (toliau — FP pardavimo / perleidimo ar IFP realizavimo) pajamos.
+#### URL: https://info.registrucentras.lt/node/840
 
-1. Pajamų mokesčio lengvata
+Įstatinis kapitalas didinamas Akcinių bendrovių įstatymo nustatyta tvarka.
 
-FP pardavimo / perleidimo ar IFP realizavimo pajamoms, atitinkančioms Gyventojų pajamų mokesčio įstatymo[3] 17 str. 1 d. 30 punkte aprašytas sąlygas, taikoma pajamų mokesčio lengvata. Šiame punkte nurodoma, jog pajamų iš FP pardavimo / perleidimo ar IFP realizavimo ir jų įsigijimo kainos bei kitų Gyventojų pajamų mokesčio įstatymo 19 straipsnyje nurodytų su FP pardavimu / perleidimu ar IFP realizavimu susijusių išlaidų skirtumas, per mokestinį laikotarpį neviršijantis 500 EUR, pajamų mokesčiu neapmokestinamas. Minėta įstatymo nuostata teisės pasinaudoti lengvata nesieja su FP ar IFP išlaikymo nuosavybėje terminu. Todėl aplinkybė, kada gyventojas įsigijo parduotas / perleistas FP ar realizuotas IFP, taikant šią lengvatą reikšmės neturi.
+Pranešimas apie įstatinio kapitalo didinimą ir dokumentas, patvirtinantis sprendimą padidinti įstatinį kapitalą, per 10 dienų nuo sprendimo priėmimo turi būti pateiktas Juridinių asmenų registro tvarkytojui bet kuriame Registrų centro  klientų  aptarnavimo padalinyje (registruotis vizitui galite čia), paštu (siunčiant prašymo formą paštu, kartu pridedama vadovo asmens dokumento kopija. Ši kopija notaro netvirtinama) arba elektroniniu būdu per Registrų centro klientų savitarnos sistemą. Teikiant pranešimą elektroniniu būdu, bendrovės vadovas arba jo įgaliotas asmuo, kvalifikuotu sertifikatu patvirtintu elektroniniu parašu prisijungęs prie Registrų centro klientų savitarnos sistemos, pasirinkęs skiltį Juridinių asmenų registras ir kairėje meniu pusėje spustelėjęs nuorodas - Juridinio asmens, filialo ir duomenų registravimas, Juridinio asmens, filialo duomenų registravimas, patvirtinus, kad kontaktiniai duomenys teisingi arba įrašius pakeistus kontaktinius duomenis, turi nurodyti keičiamus duomenis - Kapitalo duomenys. Skiltyje Akcijos ir kapitalas reikia pažymėti - Sprendimas dėl įstatinio kapitalo didinimo. Registruojant šią žymą, įstatinio kapitalo dydis nekeičiamas (paliekami sistemoje įkelti dydžiai). 
 
-Ši pajamų mokesčio lengvata netaikoma, jeigu:
+Išsaugojus pakeitimus, savitarnos sistema sugeneruos prašymo formą JAR-1-E ir paprašys pridėti PDF arba ADOC formate suformuotą  sprendimą dėl įstatinio kapitalo didinimo. 
 
-- pajamos gautos už tikslinėse teritorijose[4] įsteigtų vienetų išleistas FP;
-- pajamos gautos iš tikslinės teritorijos;
-- akcijos parduotos ar kitaip perleistos nuosavybėn tam vienetui, kuris jas išleido;
-- vertybiniai popieriai laikomi parduotais pagal Gyventojų pajamų mokesčio įstatymo 11 straipsnį, t. y. vieneto (bet kokios teisinės formos) likvidavimo atveju[5];
-- akcijos gautos Gyventojų pajamų mokesčio įstatymo 2 str. 14 d. 1 punkte aprašytu atveju. Pajamų mokesčio lengvata netaikoma parduodant akcijas, kurios gautos arba turimų akcijų nominali vertė padidinta, didinant bendrovės įstatinį kapitalą iš bendrovės lėšų. Taikant šią nuostatą, akcijų nominalios vertės padidinimo atveju lengvata netaikoma akcijų pardavimo pajamoms, proporcingai tenkančioms akcijų nominalios vertės padidinimo iš bendrovės lėšų sumai.
+Už žymos apie įstatinio kapitalo didinimą įregistravimą mokamas 4,15 Eur atlyginimas. Atsiskaitomąsias sąskaitas rasite čia.
 
-2. Apmokestinamųjų pajamų apskaičiavimo tvarka
+Dėmesio! Jeigu įstatinio kapitalo ir  akcijų nominalios vertės išraiška dar nėra pakeista iš litų į eurus, būtina pasirinkti žymą ties nuoroda Keičiama tik įstatinio kapitalo išraiška eurais.
 
-Apskaičiuojant apmokestinamąsias FP pardavimo / perleidimo ar IFP realizavimo pajamas, atsižvelgiama į:
+Pateikus akcininkų sprendimą dėl įstatinio kapitalo didinimo, įstatinis kapitalas bus padidintas, tik įregistravus įstatus su pakeistu įstatiniu kapitalu. 
 
-- gautų FP pardavimo / perleidimo ir IFP realizavimo pajamų sumą
-- parduotų / perleistų FP ir realizuotų IFP įsigijimo kainą, įskaitant sumokėtus teisės aktuose nustatytus privalomus mokėjimus, susijusius su tų FP pardavimu / perleidimu ar IFP realizavimu;
-- šio rašto 1 punkte aprašytos lengvatos sąlygų (ne)tenkinimą, t. y. gyventojas turi įvertinti, ar jo gautoms pajamoms gali būti taikoma 500 EUR lengvata.
+Jeigu sprendimas didinti įstatinį kapitalą iš bendrovės lėšų priimamas praėjus 6 mėnesiams nuo finansinių metų pabaigos, elektroniniu būdu nustatyta tvarka turi būti pateiktas  tarpinių finansinių ataskaitų rinkinys.
 
-Jeigu gyventojas per 2023 m. mokestinį laikotarpį gavo pajamų iš FP pardavimo / perleidimo ar IFP realizavimo, kurioms taikoma Gyventojų pajamų mokesčio įstatymo 17 str. 1 d. 30 punkte numatyta pajamų mokesčio lengvata (500 EUR neapmokestinamasis dydis), tai apmokestinamosios pajamos apskaičiuojamos iš pardavimo pajamų atimant įsigijimo kainą, įskaitant teisės aktuose nustatytus privalomus mokėjimus, ir 500 EUR neapmokestinamąjį dydį. Atsižvelgiant į tai 
+Visuotinio akcininkų susirinkimo sprendimas padidinti įstatinį kapitalą laikomas negaliojančiu, jeigu pakeisti bendrovės įstatai nebuvo pateikti JAR tvarkytojui per 6 mėnesius nuo visuotinio akcininkų susirinkimo, priėmusio sprendimą padidinti įstatinį kapitalą, dienos.
 
-- jeigu gautas pardavimo pajamų ir įsigijimo kainos skirtumas yra lygus 500 EUR ar mažesnis, prievolė mokėti pajamų mokestį gyventojui neatsiranda;
-- jeigu gautas pardavimo pajamų ir įsigijimo kainos skirtumas viršija 500 EUR, iš jo atimamas 500 EUR neapmokestinamas dydis ir gautas rezultatas apmokestinamas taikant Gyventojų pajamų mokesčio įstatymo 6 straipsnyje nustatytą pajamų mokesčio tarifą.
+Dokumentus dėl įstatų įregistravimo galima pateikti šiais būdais: tiesiogiai teikiant dokumentus ir duomenis Registrų centro klientų aptarnavimo padalinyje, paštu ir elektroniniu būdu per Registrų centro klientų savitarną.
 
-Pavyzdys
+Kai dokumentai teikiami tiesiogiai Registrų centro klientų aptarnavimo padaliniuose, dokumentų ir duomenų teikėjas notaro voke turi pateikti:
 
-Gyventojas antrinėje rinkoje už 15 000 EUR pirko AB „X“ akcijų, kurias 2023 metais pardavė už 20 000 EUR. Šių akcijų įsigijimo kaina lygi 15 000 EUR, o pardavimo pajamos — 20 000 EUR, taigi pardavimo pajamų ir įsigijimo kainos skirtumas lygus 5 000 EUR sumai. Iš 5 000 EUR sumos atimamas 500 EUR neapmokestinamas dydis (tenkinamos lengvatos taikymo sąlygos) ir gauta 4 500 EUR suma apmokestinama pajamų mokesčiu.
+- prašymą forma JAR-1 su notaro tvirtinamuoju įrašu;
 
-Jeigu gyventojas per 2023 m. mokestinį laikotarpį gavo šiame rašte aptariamos rūšies pajamų, kurioms netaikoma Gyventojų pajamų mokesčio įstatymo 17 str. 1 d. 30 punkte nustatyta pajamų mokesčio lengvata, tai 500 EUR neapmokestinamas dydis neatimamas ir apmokestinamosios pajamos apskaičiuojamos iš gautų pajamų atėmus tik įsigijimo kainą bei kitas Gyventojų pajamų mokesčio įstatymo 19 straipsnyje nurodytas išlaidas.
+- pakeistus įstatus;
 
-Pajamos iš FP pardavimo / perleidimo ar IFP realizavimo apmokestinamos taikant 15 proc. pajamų mokesčio tarifą. Atkreipiame dėmesį, kad jeigu gyventojo gauta pajamų iš FP pardavimo / perleidimo ar IFP realizavimo suma, kartu su kitomis Gyventojų pajamų mokesčio įstatymo 6 str. 12 dalyje nurodytomis pajamomis, per 2023 m. laikotarpį viršija 120 VDU dydžio sumą[6], šią sumą viršijanti pajamų dalis apmokestinama taikant 20 proc. pajamų mokesčio tarifą.
+- Akcinių bendrovių įstatymo 45-451 nustatytais atvejais - turto vertinimo ataskaitą arba pažymą, jeigu už akcijas sumokama nepiniginiu įnašu;
 
-Kai parduodamos / perleidžiamos FP ar realizuojamos IFP, kurios yra sutuoktiniams bendrosios jungtinės nuosavybės teise priklausantis turtas, laikoma, kad pajamas sutuoktiniai gavo lygiomis dalimis, išskyrus atvejus, kai kitokią pajamų paskirstymo tvarką nustato vedybų sutartis. Atitinkamai, šio rašto 1 punkte aptarta mokesčio lengvata taikoma kiekvieno sutuoktinio gautoms pajamoms atskirai, pagal kiekvienam iš jų tenkančią pajamų dalį.
+- sprendimą dėl įstatinio kapitalo didinimo;
 
-3. Deklaravimas
+- dokumentus ir duomenis teikiančio  asmens tapatybę patvirtinantį dokumentą. Jei dokumentus teikia ne juridinio asmens vadovas, o atstovas, kartu su dokumentais Registro tvarkytojui turi buti pateikiami atstovo įgaliojimus patvirtinantys dokumentai.
 
-Šiame rašte aptariamos rūšies pajamos pagal mokesčio mokėjimo tvarką priskiriamos B klasės pajamoms. Todėl apskaičiuoti ir sumokėti pajamų mokestį, taip pat deklaruoti šias pajamas privalo pats jų gavęs gyventojas.
+Kai uždarosios akcinės bendrovės akcijos apmokamos piniginiu įnašu, prašymą įregistruoti naujus įstatus galima teikti elektroniniu būdu per Registrų centro klientų savitarnos sistemą. Teikiant prašymą įregistruoti naujus įstatus per  Registrų centro klientų savitarnos sistemą, horizontaliame meniu reikėtų pasirinkti Juridinių asmenų registras, o vertikaliame meniu reiktų pasirinkti nuorodas: Juridinio asmens, filialo ir duomenų registravimas, Juridinio asmens, filialo duomenų registravimas, patvirtinus, kad kontaktiniai duomenys teisingi arba įrašius pakeistus kontaktinius duomenis, pasirinkti Kapitalo duomenys> Akcijos ir kapitalas bei pasirinkti nuorodą Išregistruoti sprendimą dėl įstatinio kapitalo didinimo,  atitinkamuose duomenų laukuose įrašyti keičiamus duomenis ir spustelėti Tęsti. Tuomet sistema sugeneruos naujus įstatus ir prašymą JAR-1-E. Bendrovės įstatai bus sugeneruoti automatiškai, vadovaujantis Ūkio ministro (šiuo metu - Ekonomikos ir inovacijų ministerija) įsakymu patvirtintais uždarosios akcinės bendrovės pavyzdiniais įstatais. Įstatus elektroniniu parašu turės pasirašyti prašymą keisti duomenis ir dokumentus teikiantis asmuo. Pridedami dokumentai (šiuo atveju - protokolas ar vienintelio akcininko sprendimas) turi būti išsaugoti PDF arba ADOC formate. Reikalavimus protokolui bei jo priedams nustato Civilinio kodekso 2.90 str.
 
-Per 2023 m. mokestinį laikotarpį išmokas už FP pardavimą / perleidimą ar IFP realizavimą gyventojams išmokėjęs Lietuvos vienetas, užsienio vienetas per nuolatinę buveinę ar nenuolatinis Lietuvos gyventojas per nuolatinę bazę privalo jas deklaruoti iki 2024 m. vasario 15 dienos, pateikdamas GPM312 formą[7] VMI.
+Kai prašymas teikiamas popieriniu būdu, už pakeistų įstatų įregistravimą mokamas 19,80 euro atlyginimas, elektroniniu būdu - 17,54 euro atlyginimas.
 
-Gyventojas gautas FP pardavimo / perleidimo ar IFP realizavimo pajamas turi deklaruoti, pateikdamas GPM311 formą[8] VMI. GPM311 formą už 2023 m. mokestinį laikotarpį privalu pateikti iki 2024 m. gegužės 2 dienos[9]. Šioje deklaracijoje apskaičiuotą mokėtiną pajamų mokesčio sumą privalu sumokėti iki deklaracijos pateikimo termino pabaigos.
+Juridinių asmenų registro tvarkytojui neradus kliūčių įregistruoti, pakeisti duomenys ir dokumentai įregistruojami ne vėliau kaip per 3 darbo dienas.
 
-FP pardavimo / perleidimo ar IFP realizavimo pajamų deklaruoti neprivalu, jeigu joms taikoma šio rašto 1 punkte aprašyta mokesčio lengvata ir jų suma per mokestinį laikotarpį neviršija 500 EUR. Jeigu gautų pajamų suma viršija 500 EUR, turi būti deklaruojamos visos šios rūšies pajamos (tiek tos, kurios priskiriamos neapmokestinamosioms pajamoms, tiek tos, kurios apmokestinamos pajamų mokesčiu). Šiame rašte aptariamos rūšies pajamos, kurioms netaikoma šio rašto 1 punkte aprašyta pajamų mokesčio lengvata, deklaruojamos nuo pirmo EUR.
+## Kokia tvarka keičiamas juridinio asmens pavadinimas?
 
-Gyventojas GPM311 formą turi užpildyti laikydamasis centrinio mokesčių administratoriaus patvirtintų Taisyklių[10]. Taisyklių 59 punktas numato, kad apmokestinamosios FP pardavimo / perleidimo ar IFP realizavimo pajamos deklaruojamos tokia tvarka:
+#### URL: https://info.registrucentras.lt/node/724
 
-- 11 pajamų rūšies kodu deklaruojamos pajamos, kurioms taikoma GPMĮ 17 str. 1 d. 30 punkte numatyta pajamų mokesčio lengvata;
-- 12 pajamų rūšies kodu deklaruojamos pajamos, kurioms netaikoma GPMĮ 17 str. 1 d. 30 punkte numatyta pajamų mokesčio lengvata.
+Civilinio kodekso 2.43 straipsnio 1 dalis nustato, kad  juridinis asmuo, prieš pakeisdamas pavadinimą, privalo apie tai paskelbti viešai vieną kartą arba pranešti visiems juridinio asmens kreditoriams raštu. Skelbimui taikomos ir Civilinio kodekso 1.65 straipsnio nuostatos.
 
-4. Nenuolatinio Lietuvos gyventojo gautos FP pardavimo / perleidimo ar IFP realizavimo pajamos
+Pavadinimas gali būti laikinai įrašytas į Juridinių asmenų registrą.
 
-Vadovaujantis Gyventojų pajamų mokesčio įstatymo 5 str. 4 dalimi, nenuolatinio Lietuvos gyventojo pajamos iš FP pardavimo / perleidimo ar IFP realizavimo nėra pajamų mokesčio objektas Lietuvoje. Todėl šios rūšies pajamų gavęs nenuolatinis Lietuvos gyventojas neturi jų deklaruoti ir apmokestinti pajamų mokesčiu Lietuvoje.
+Notaras netikrina pavadinimo tapatumo bei atitikimo teisės aktų reikalavimams, todėl  tik laikinai įtraukus pavadinimą į Juridinių asmenų registrą galima garantuoti, kad Juridinių asmenų registro tvarkytojas pripažins jį tinkamu. Norint pakeisti juridinio asmens pavadinimą, turi būti pakeisti ir įregistruoti 
 
-## DĖL GYVENTOJŲ PAREIGOS PERSKAIČIUOTI 2023 M. METINĮ NEAPMOKESTINAMĄJĮ PAJAMŲ DYDĮ IR PAJAMŲ MOKESTĮ
+Juridinių asmenų registre steigimo dokumentai (įstatai, nuostatai, statutas ar kita).
 
-#### URL: https://www.vmi.lt/evmi/mokesciu-zinynas#d%C4%97l-gyventoj%C5%B3-pareigos-perskai%C4%8Diuoti-2023-m--metin%C4%AF-neapmokestinam%C4%85j%C4%AF-pajam%C5%B3-dyd%C4%AF-ir-pajam%C5%B3-mokest%C4%AF
+Pateikti prašymą įregistruoti pakeistą juridinio asmens steigimo dokumentą dėl pavadinimo keitimo galima šiais būdais:
 
-VMI prie FM[1] primena, kad nuolatiniams Lietuvos gyventojams[2] pareiga deklaruoti 2023 m. metines pajamas ir sumokėti GPM[3] atsiranda ne tik dėl gautų pajamų, nuo kurių pajamų mokestį turi sumokėti jie patys (t. y. nuo pajamų, pagal mokesčio sumokėjimo tvarką priskiriamų B klasės pajamoms), bet ir dėl šių GPMĮ[4] 27 straipsnyje nustatytų priežasčių: 
+tiesiogiai teikiant dokumentus ir duomenis Registrų centro klientų aptarnavimo padalinyje;
 
-— sumažėjusio metinio NPD[5],
+elektroniniu būdu per Registrų centro klientų savitarną.
 
-- pajamoms viršijus 101 094 eurų (60 VDU[6]) arba 202 188 eurų (120 VDU) sumą, nes nuo viršijančios pajamų dalies mokestis turi būti sumokamas, taikant progresinį GPM tarifą.
+Teikiant dokumentus ir duomenis tiesiogiai Registrų centro klientų aptarnavimo padalinyje, dokumentų ir duomenų teikėjas Juridinių asmenų registro tvarkytojui pateikia:
 
-Dėl metinio NPD perskaičiavimo.
+1. prašymą forma JAR-1 su tvirtinamuoju notaro įrašu. Notaro tvirtinimas nereikalingas Juridinių asmenų registro nuostatuose nurodytais atvejais;
 
-1. Kokiais atvejais privaloma perskaičiuoti metinį NPD?
+2. pakeistą steigimo dokumentą;
 
-Gyventojai, kuriems darbo užmokesčio gavimo vietoje per kalendorinius metus pritaikytų NPD suma yra didesnė už taikytiną GPMĮ 20 straipsnyje nustatyta tvarka apskaičiuotą metinį NPD, privalo deklaruoti metines pajamas ir perskaičiuoti metinį NPD. Nuo skirtumo, apskaičiuoto iš per metus pritaikytos NPD sumos atėmus sumažėjusį taikytiną metinį NPD, gyventojas turi sumokėti GPM.
+3. sprendimą pakeisti juridinio asmens duomenis ir patvirtinti steigimo dokumentą;
 
-2. Kodėl sumažėja metinis NPD?
+4. dokumentus teikiančio asmens tapatybę patvirtinantį dokumentą. Jei dokumentus teikia įgaliotas asmuo, kartu su dokumentais Registro tvarkytojui turi būti pateikiami atstovo įgaliojimus patvirtinantys dokumentai, jeigu įgaliojimas neįregistruotas Įgaliojimų posistemėje.
 
-Kalendoriniais metais įmonėje (įstaigoje) mėnesio NPD yra taikomas, atsižvelgiant tik į darbo užmokesčio (su priedais bei priemokomis) bei ligos išmokos už dvi pirmąsias ligos dienas sumą, o metinis NPD — atsižvelgiant į metinę visų[7] apmokestinamųjų pajamų sumą.
+Keisti pavadinimą elektroniniu būdu yra galimybė uždarosioms akcinėms bendrovėms, individualioms įmonėms, viešosioms įstaigoms, asociacijoms, mažosioms bendrijoms bei labdaros ir paramos fondams. Steigimo dokumentai (įstatai, nuostatai) sugeneruojami sistemoje pagal patvirtintus pavyzdinius atitinkamos teisinės formos steigimo dokumentus.
 
-Metinis NPD sumažėja dėl iš dviejų ar kelių darbdavių gauto darbo užmokesčio, dėl kintamo darbo užmokesčio, gautų vienkartinių priedų bei premijų, autorinių atlyginimų, tantjemų, pajamų iš įregistruotos individualios veiklos, dividendų, nuomos ir kitokių apmokestinamųjų pajamų gavimo. Metinio NPD sumažėjimą lemia ir gautos ligos išmokos, nes darbdavys mėnesio NPD pritaiko, atsižvelgęs į jo paties išmokamą mėnesio darbo užmokesčio ir ligos išmokos už pirmąsias dvi ligos dienas sumą, į kurią Sodros mokamos ligos išmokos neįskaičiuojamos.
+Prašymas įregistruoti pakeistą pavadinimą ir įstatus elektroniniu būdu yra teikiamas, kvalifikuotu sertifikatu patvirtintu elektroniniu parašu prisijungus prie Registrų centro klientų savitarnos sistemos. Prašymą gali teikti vadovas ar jo įgaliotas asmuo, kuriam nustatyta tvarka suteiktas įgaliojimas. Horizontaliame meniu reikia pasirinkti Juridinių asmenų registras, kairėje sistemos lango pusėje esančiame meniu reikės pasirinkti laukelius: Juridinio asmens, filialo ir duomenų registravimas, Juridinio asmens, filialo duomenų registravimas. Patvirtinus, kad kontaktiniai duomenys teisingi arba įrašius pakeistus kontaktinius duomenis, reikia pasirinkti Pagrindiniai ir kiti duomenys. Įrašius pavadinimą, jeigu jis nebuvo laikinai įrašytas į Juridinių asmenų registrą, kitus keičiamus ar sistemos prašomus duomenis, sistema sugeneruos prašymą JAR-1-E ir steigimo dokumentą. Papildomai į sistemą reikia įkelti PDF arba ADOC formate išsaugotą juridinio asmens atitinkamo organo sprendimą pakeisti juridinio asmens pavadinimą ir patvirtinti steigimo dokumentą. Jeigu pagal juridinio asmens steigimo dokumentą viešieji pranešimai skelbiami ne Registrų centro elektroniniame informaciniame leidinyje, turi būti pridėtas papildomas dokumentas - vadovo  laisvos formos paaiškinimas, kaip įgyvendintos Civilinio kodekso 2.43 straipsnio 1 dalies nuostatos dėl viešo paskelbimo ar pranešimo visiems kreditoriams. Kai viešieji pranešimai pagal juridinio asmens steigimo dokumentą skelbiami Registrų centro elektroniniame informaciniame leidinyje, Juridinių asmenų registro tvarkytojas patikrina, ar toks skelbimas buvo patalpintas leidinyje. Sistemoje pasirašius visus dokumentus, reikės apmokėti krepšelį, neišėjus iš savitarnos sistemos. Prašymo būklė taps Vykdomas. Atkreipiame dėmesį, kad steigimo dokumento sudarymo data įrašoma sprendimo dėl naujo steigimo dokumento patvirtinimo data. 
 
-Pažymime, kad už metinio NPD perskaičiavimą yra atsakingas pats gyventojas.
+Už steigimo dokumento įregistravimą mokamas 19,80 euro atlyginimas, kai prašymas teikiamas elektroniniu būdu - 17,54 euro atlyginimas. Jeigu pavadinimas nebuvo laikinai įrašytas į Juridinių asmenų registrą, papildomai mokamas atlyginimas už pavadinimo tapatumo tikrinimą.
 
-3. Kaip apskaičiuojami 2023 m. metiniai NPD?
+Juridinių asmenų registro tvarkytojui neradus kliūčių įregistruoti, pakeisti duomenys ir dokumentai įregistruojami ne vėliau kaip per 3 darbo dienas nuo prašymo pateikimo ir atlyginimo už registravimą sumokėjimo.
 
-3.1. Gyventojams, kurių metinių apmokestinamųjų pajamų (toliau — GMP) bendra suma neviršija 10 080 eurų (t. y. dvylikos MMA[8] dydžių sumos, galiojusios 2023 m. sausio 1 d.), metinis NPD yra 7 500 eurų.
+Daugiau informacijos, kas žinotina keičiant duomenis elektroniniu būdu, rasite Registrų centro tinklalapyje pagal nuorodą.
 
-3.2. Gyventojams, kurių GMP yra didesnės nei 10 080 eurų, bet neviršija 23 112 eurų, metinis NPD apskaičiuojamas pagal šią formulę: Metinis NPD = 7 500 − 0,42 × (GMP — 10 080 eurų).
+## Kokie dokumentai pateikiami Juridinių asmenų registro tvarkytojui registruoti juridinio asmens teisinį statusą "Likviduojamas"?
 
-3.3. Gyventojams, kurių GMP yra didesnės nei 23 112 eurai, bet mažesnės nei 34 370,67[9] eurai, metinis NPD apskaičiuojamas pagal šią formulę: Metinis NPD = 4 800 − 0,18 × (GMP — 7 704 eurų (642 x 12)).
+#### URL: https://info.registrucentras.lt/node/439
 
-3.4. Gyventojams, kuriems nustatytas 30–55 procentų darbingumo lygis, vidutinis ar lengvas neįgalumo lygis, senatvės pensijos amžių sukakusiems gyventojams, kuriems nustatytas vidutinių ar nedidelių specialiųjų poreikių lygis, taikomas 935 eurų mėnesio NPD. Tokiems gyventojams, teisę į didesnį NPD turėjusiems visus 2023 m., taikomas metinis NPD yra 11 220 eurų ( 935 Eur x 12 mėn.), neatsižvelgiant į metinių apmokestinamųjų pajamų sumą (GMP).
+Likviduoti juridinį asmenį sprendimą priima atitinkamą teisinę formą reglamentuojančiame įstatyme nurodytas organas (pav.: individualioje įmonėje - jos savininkas, akcinėje bendrovėje ar uždarojoje akcinėje bendrovėje - visuotinis akcininkų susirinkimas ar vienintelis akcininkas). Priėmus sprendimą likviduoti juridinį asmenį ir paskyrus likvidatorių (likvidatoriumi gali būti tik fizinis asmuo), likvidatorius turi apie likvidavimą pranešti Civilinio kodekso 2.112 straipsnio nustatyta tvarka.
 
-3.5. Gyventojams, kuriems nustatytas 0-25 procentų darbingumo lygis, sunkus neįgalumo lygis, senatvės pensijos amžių sukakusiems gyventojams, kuriems nustatytas didelių specialiųjų poreikių lygis, taikomas 1 005 eurų mėnesio NPD. Tokiems gyventojams, teisę į didesnį NPD turėjusiems visus 2023 m., taikomas metinis NPD yra 12 060 eurų (1 005 Eur x 12 mėn.), neatsižvelgiant į metinių apmokestinamųjų pajamų sumą (GMP).
+Likvidatorius ne vėliau kaip pirmąją sprendimo likviduoti juridinį asmenį viešo paskelbimo dieną Registrų centrui pateikia dokumentus įregistruoti teisinį statusą "Likviduojamas":
 
-4. Kas gali susigrąžinti GPM?
+1. Prašymą įregistruoti teisinį statusą  forma JAR-1, formas: JAR-TST-1, JAR-LK1.
 
-Pasinaudoję metinio NPD lengvata, susigrąžinti GPM dalį gali gyventojai, dirbę ne visus 2023 metus, taip pat tie, kuriems NPD nebuvo taikytas, išmokant kiekvieno mėnesio darbo užmokestį, arba kurie darbdaviams nebuvo pateikę prašymo taikyti NPD. Susigrąžinti nuo darbo užmokesčio išskaičiuoto GPM dalį taip pat gali riboto darbingumo asmenys, kuriems dėl nustatyto riboto darbingumo, neįgalumo ar nustatytų specialiųjų poreikių 2023 m. nebuvo pritaikyti didesni (935 ar 1 005 eurų) mėnesio NPD.
+2. Sprendimą likviduoti juridinį asmenį.
 
-5. Kaip perskaičiuojamas metinis NPD ir GPM?
+3. Dokumentus teikiančio asmens tapatybę patvirtinantį dokumentą. Jeigu likvidatorius veikia per atstovą, kartu su dokumentais Registro tvarkytojui turi būti pateikiami atstovo įgaliojimus patvirtinantys dokumentai.
 
-Metinis NPD ir GPM perskaičiuojami nuolatinio Lietuvos gyventojo pateiktoje metinėje pajamų mokesčio deklaracijoje[10].
+Už įregistravimą, teikiant prašymą popieriniu būdu, mokamas 16,90 Eur atlyginimas. Informaciją apie atsiskaitomąsias sąskaitas rasite čia.
 
-Patogiausia ir paprasčiausia užpildyti bei pateikti deklaraciją elektroniniu būdu per VMI Elektroninio deklaravimo informacinę sistemą (https://deklaravimas.vmi.lt/), pasinaudojus vedliu. Metinių pajamų, taikytino metinio NPD, mokėtino ar grąžintino GPM sumos vedliu užpildomoje deklaracijoje yra apskaičiuojamos automatiškai.
+Elektroniniu būdu per Registrų centro klientų savitarnos sistemą pateikti prašymą įregistruoti teisinį statusą Likviduojamas galima, jeigu sistemoje yra įregistruotas įgaliotas asmuo, kuris turi teisę teikti duomenis ir pasirašyti dokumentus ir kurio duomenys įregistruoti sistemoje. 
 
-Tik su darbo santykiais ar jų esmę atitinkančiais santykiais susijusių pajamų (arba jų ir neapmokestinamųjų pajamų) gavę gyventojai taikytino metinio NPD, mokėtino ar grąžintino GPM sumas gali apskaičiuoti savarankiškai, pasinaudoję VMI interneto svetainėje skelbiama metinio NPD skaičiuokle: https://www.vmi.lt/evmi/metinio-neapmokestinamojo-pajamu-dydzio-skaicuokle.
+Įgaliotas asmuo elektroniniu parašu prisijungęs prie Registrų centro klientų savitarnos sistemos, spustelėjęs nuorodą Juridinių asmenų registras ir kairėje meniu pusėje pasirinkęs laukelius: Juridinio asmens, filialo ir duomenų registravimas, Juridinio asmens, filialo  duomenų registravimas, patvirtinus, kad kontaktiniai duomenys teisingi arba įrašius pakeistus kontaktinius duomenis turės pasirinkti keičiamus duomenis - Teisinio statuso įregistravimas. Pasirinkus statusą Likviduojamas reikės nurodyti, kas priėmė sprendimą likviduoti (institucija, juridinio asmens organas, dalyvis) bei sprendimo priėmimo datą. Išsaugojus duomenis ir spustelėjus Tęsti, sistema sugrąžins į skiltį Keičiami duomenys, kur spustelėjus nuorodą Organai reikės išregistruoti juridinio asmens vadovą, kolegialų valdymo organą bei jo narius. Išsaugojus duomenis ir spustelėjus Tęsti, sistema sugrąžins į skiltį Keičiami duomenys, kur spustelėjus nuorodą Likvidatorius, reikia įrašyti duomenis apie likvidatorių. Atlikus išvardytas procedūras ir spustelėjus Tęsti, savitarnos sistema sugeneruos prašymą keisti duomenis (JAR-1-E), kurį reikės pasirašyti kvalifikuotu elektroniniu parašu. Svarbu pažymėti, kad prie prašymo būtina pridėti dokumentą, patvirtinantį sprendimą likviduoti juridinį asmenį. Įkeliamas dokumentas turi būti išsaugotas PDF arba ADOC formate. Dokumentai pasirašomi paspaudus nuorodą Pasirašyti.
 
-6. Dėl prievolės perskaičiuoti GPM, taikant progresinius GPM tarifus.
+Atlyginimas už teisinio statuso įregistravimą elektroniniu būdu - 9,12 euro. Krepšelis turi būti apmokėtas neišėjus iš savitarnos sistemos.
 
-2023 m. pajamoms viršijus tam tikrus dydžius, taikomas progresinis GPM tarifas. Tokiais atvejais perskaičiuoti GPM ir papildomai sumokėti deklaracijoje apskaičiuotą GPM sumą pareiga tenka pačiam gyventojui net ir tais atvejais, kai gautos pajamos pagal mokesčio sumokėjimo tvarką yra priskiriamos gyventojo A klasės pajamoms, nuo kurių GPM dalį jau yra išskaičiavęs mokestį išskaičiuojantis asmuo.
+Juridinių asmenų registro tvarkytojui peržiūrėjus pateiktus duomenis ir dokumentus ir nenustačius trūkumų, bus įregistruotas teisinis statusas ir prašymo būsena bus pakeista į Įvykdytas. Apie pasikeitusią prašymo būseną duomenų bei dokumentų teikėjas elektroniniu paštu gaus žinutę Juridinių asmenų registre įrašytu elektroniniu paštu.
 
-Taikant progresinius mokesčio tarifus, perskaičiuoti ir sumokėti GPM privaloma, kai:
+Prašymus ir kitus dokumentus Juridinių asmenų registro tvarkytojui  pateikti galima ir Registrų centro elektroninio pristatymo dėžutės adresu (per E. pristatymą), jei kiekvienas dokumentas pasirašytas atitinkamų asmenų (prašymai, likvidavimo aktas – likvidatoriaus, protokolas – susirinkimo pirmininko ir sekretoriaus, vienintelio akcininko sprendimas - vienintelio akcininko ir t.t.) kvalifikuotais elektroniniais parašais. Elektroniniu paštu teikiami dokumentai nepriimami, neregistruojami ir nenagrinėjami.
 
-1. 2023 m. gautų šių pajamų bendra suma yra didesnė nei 60 VDU suma — 101 094 eurų:
+## Kokius veiksmus reikia atlikti, norint įregistruoti uždarąją akcinę bendrovę (UAB)?
 
-— su darbo santykiais ar jų esmę atitinkančiais santykiais susijusių pajamų (neįskaitant apskaičiuotų už 2018 m. ar ankstesnius metus);
+#### URL: https://info.registrucentras.lt/node/675
 
-— tantjemų ar atlygio už veiklą stebėtojų taryboje ar valdyboje, paskolų komitete;
+Uždaroji akcinė bendrovė steigiama ir veikia Akcinių bendrovių įstatymo nustatyta tvarka. Uždarosios akcinės bendrovės įstatinis kapitalas turi būti ne mažesnis kaip vienas tūkstantis eurų.
 
-— iš darbdavio gautų autorinių atlyginimų;
+Norint įsteigti uždarąją akcinę bendrovę, galima vadovautis nuorodoje nurodyta veiksmų seka.
 
-— mažosios bendrijos vadovo (ne nario) pagal civilinę paslaugų sutartį už vadovavimą mažajai bendrijai.
+Uždarąją akcinę bendrovę taip pat galima įsteigti elektroniniu būdu per Registrų centro klientų savitarną.
 
-Nuo 101 094 Eur viršijančios tokių pajamų sumos, taikant 32 proc. GPM tarifą, gyventojas privalo sumokėti pajamų mokesčio deklaracijoje apskaičiuotą GPM sumą.
+Papildomą informaciją apie uždarosios akcinės bendrovės steigimą elektroniniu būdu rasite Registrų centro tinklalapyje šioje nuorodoje.
 
-1 pavyzdys.
+Juridinių asmenų registro tvarkytojui neradus kliūčių įregistruoti, juridinis asmuo įregistruojamas ne vėliau kaip per 3 darbo dienas nuo dokumentų gavimo ir atlyginimo už registravimą sumokėjimo. Steigiant uždarąją akcinę bendrovę elektroniniu būdu, Registro tvarkytojas, gavęs patvirtinimą, kad atlyginimas už registravimą sumokėtas ir neradęs kliūčių įregistruoti ne vėliau kaip per 1 darbo dieną, įregistruoja juridinį asmenį. 
 
-2023 m. gyventojas iš Lietuvos įmonių gavo:
+Už uždarosios akcinės bendrovės įregistravimą, teikiant dokumentus popieriniu būdu, yra mokamas 30,83 euro atlyginimas, elektroniniu būdu - 14,02 euro atlyginimas.
 
-40 000 Eur darbo užmokestį;
+Yra sudaryta galimybė elektroniniu būdu steigti uždarąją akcinę bendrovę Europos sąjungos piliečiamas, kurie turi šiose šalyse išduotą elektroninį parašą.
 
-100 000 Eur tantjemų.
+## Kaip surasti ir atsispausdinti juridinio asmens steigimo dokumentą (įstatus, nuostatus ar kt.), jeigu juridinis asmuo įsteigtas ar jo steigimo dokumentas pakeistas elektroniniu būdu per Registrų centro savitarnos sistemą?
 
-Iš viso: 140 000 Eur.
+#### URL: https://info.registrucentras.lt/node/649
 
-Išmokas išmokėjusios įmonės išskaičiavo 28 000 Eur GPM (20 proc.).
+Tuo atveju, kai juridinis asmuo buvo įsteigtas elektroniniu būdu ar per savitarnos sistemą buvo pakeistas jo steigimo dokumentas (steigimo dokumentu vadinami įstatai, nuostatai, statutas), Registrų centro savitarnos sistemoje išsaugotus steigimo dokumentus ir kitus dokumentus gali parsisiųsti ir atsispausdinti asmuo, pateikęs prašymą įregistruoti juridinį asmenį (steigėjas, prisijungęs kaip fizinis asmuo), vadovas ar kitas turintis teisę teikti duomenis ir pasirašyti dokumentus elektroniniu būdu asmuo (pavyzdžiui, mažosios bendrijos atstovas arba vienintelis narys, kai valdymo organas yra narių susirinkimas). 
 
-GPM apskaičiuojamas taip:
+Nurodytas asmuo, kvalifikuotu elektroniniu parašu prisijungęs prie savitarnos sistemos, horizontaliame meniu turi pasirinkti Juridinių asmenų registras,  o vertikaliame meniu - Juridinio asmens, filialo ir duomenų registravimas, Juridinių asmenų, filialų registravimo  peržiūra. Atsivėrusiame lauke matysite visus juridinio asmens steigimo metu pateiktus dokumentus (steigimo sutartį, įstatus ir kt.).  Spustelėjus aktyvią nuorodą Parsisiųsti atidaromas reikiamas dokumentas, kurį galima neatlygintinai atsispausdinti. Atspausdintas dokumentas nebus patvirtintas žyma Kopija tikra.
 
-Nuo 101 094 Eur sumos (60 VDU) — 20 218,80 Eur (20 proc.),
+Jeigu per savitarnos sistemą buvo pakeistas juridinio asmens steigimo dokumentas, prisijungus prie savitarnos sistemos, horizontaliame meniu reikia pasirinkti Juridinių asmenų registras,  o vertikaliame meniu - Juridinio asmens, filialo ir duomenų registravimas, Juridinio asmens, filialo duomenų registravimo sąrašas. Suradus pateiktą prašymą keisti juridinio asmens duomenis ir dokumentus, reikia spustelti šalia prašymo esantį laukelį Peržiūrėti ir surasti juridinio asmens steigimo dokumentus. Spustelėjus aktyvią nuorodą Parsisiųsti atidaromas reikiamas dokumentas, kurį galima atsispausdinti. Atspausdintas dokumentas nebus patvirtintas žyma Kopija tikra.
 
-nuo 38 906 Eur (140 000 − 101 094) sumos — 12 449,92 Eur (32 proc.). Nuo 38 906 Eur pajamų sumos buvo išskaičiuotas 7 781,20 Eur (20 proc.) GPM. Gyventojas turi deklaruoti metines pajamas ir sumokėti metinėje pajamų mokesčio deklaracijoje apskaičiuotą 4 668,72 Eur (12 449,92 − 7 781,20) GPM sumą.
+Norėdami patikrinti, kokius dokumentus Juridinių asmenų registrui yra pateikęs Jus dominantis juridinis asmuo, galite pasinaudoti paslauga Neatlygintina paieška Juridinių asmenų registre. Spustelėjus šią nuorodą ir atsiradusiame paieškos laukelyje įvedus juridinio asmens pavadinimą ir (arba) kodą, paieškos sistema suras juridinį asmenį, tuomet paspaudus lentelėje esančią raudonos spalvos ikoną "D", bus matomos elektroninės dokumentų kopijos, kurias galima užsisakyti – spustelėjus ties pasirinktais dokumentais ir įdėjus juos į pirkinių krepšelį. Tokio dokumento kopija bus  be žymos Kopija tikra. 
 
-6.2. Gautų šių pajamų suma yra didesnė nei 120 VDU suma — 202 188 eurų:
+## Kur reikia kreiptis norint gauti įmonės metinių finansinių ataskaitų rinkinį? Koks atlyginimo už paslaugą dydis ir per kiek dienų užsakymas būtų įvykdytas?
 
-- autorinių atlyginimų (gautų ne iš darbdavio);
+#### URL: https://info.registrucentras.lt/node/713
 
-- honorarų;
+Vėliausiai juridinio asmens pateiktų finansinių ataskaitų ir kitų kartu su jomis pateiktų dokumentų kopijas galima įsigyti per elektroninę Registrų centro klientų savitarnos sistemą. Tokių dokumentų kopijos neturi žymos "Kopija tikra" ir nebūtų laikomos oficialiu dokumentu.
 
-- turto pardavimo ar kitokio perleidimo nuosavybėn;
+Norėdami patikrinti, kokius dokumentus Juridinių asmenų registrui yra pateikęs Jus dominantis juridinis asmuo, Jūs galite pasinaudoti paslauga Neatlygintina paieška Juridinių asmenų registre. Spustelkite šią nuorodą ir atsiradusiame paieškos laukelyje įveskite juridinio asmens pavadinimą ir (arba) kodą. Paieškos sistemai suradus juridinį asmenį, paspauskite aktyvų raudonos spalvos ženklelį D.
 
-— turto nuomos;
+Norint gauti ankstesnių metų finansinių ataskaitų kopijas  ir (arba) dokumentus su žyma "Kopija tikra", reiktų pateikti nustatytos formos Prašymą suteikti Juridinių asmenų registro duomenis į bet kurį Registrų centro klientų aptarnavimo padalinį, atvykus asmeniškai (iš anksto registruotis galite čia), siųsti prašymą paštu, taip pat elektroniniu parašu pasirašytą prašymą siųsti el. paštu info@registrucentras.lt ar per E. Pristatymo dėžutę.  
+ 
+Užsakytas dokumentas parengiamas ne vėliau kaip per 5 darbo dienas nuo prašymo pateikimo ir apmokėjimo už paslaugą dienos.
 
-— mažosios bendrijos vadovo (nario) pagal civilinę paslaugų sutartį už vadovavimą mažajai bendrijai;
+Dokumentų kopijos teikiamos atlygintinai. 
 
-— kitų pajamų ne iš darbo santykių (išskyrus paminėtas 6.1 p., taip pat pajamas iš paskirstytojo pelno, individualios veiklos pajamas, ligos, motinystės, tėvystės, vaiko priežiūros ir ilgalaikio darbo išmokas).
+## Kokie dokumentai pateikiami Registro tvarkytojui suteikti paramos gavėjo statusą? Ar yra galimybė pateikti prašymą elektroniniu būdu?
 
-2 pavyzdys.
+#### URL: https://info.registrucentras.lt/node/433
 
-2023 m. gyventojas gavo:
+Paramos gavėjo statusas gali būti suteiktas Labdaros ir paramos įstatyme išvardytiems viešiesiems juridiniams asmenims.
 
-80 000 Eur — už išnuomotą turtą;
+Kad būtų suteiktas paramos gavėjo statusas, bet kuriame Registrų centro klientų aptarnavimo padalinyje (iš anksto registruotis galite čia) reikia pateikti:
 
-60 000 Eur — už parduotą žemę, neišlaikytą nuosavybėje 10 metų (pajamos perskaičiuotos, atėmus įsigijimo išlaidas);
+1. Prašymą forma JAR-PGS.
 
-55 000 Eur — autorinį atlyginimą ne iš darbdavio;
+2. Prašymą teikiančio asmens tapatybę patvirtinantį dokumentą. Jeigu prašymą teikia ne vadovas, o įgaliotas asmuo, kartu su dokumentais Registro tvarkytojui turi būti pateikiami atstovo įgaliojimus patvirtinantys dokumentai.
 
-25 000 Eur — gyvybės draudimo išmokų, nepriskirtų neapmokestinamosioms pajamoms.
+3. Dokumentų teikėjo asmens dokumentą. Jeigu prašymas siunčiamas paštu, pridedama asmens dokumento paprasta kopija.
 
-Iš viso: 220 000 Eur.
+Už paramos gavėjo statuso suteikimą mokamas 4,15 Eur atlyginimas. Atsiskaitomąsias sąskaitas rasite čia.
 
-GPM apskaičiuojamas taip:
+Prašymą suteikti paramos gavėjo statusą galima pateikti ir elektroniniu būdu, prisijungus prie Registrų centro klientų savitarnos sistemos. Vadovas ar  įgaliotas asmuo, kuriam nustatyta tvarka suteiktas įgaliojimas,  elektroniniu parašu prisijungęs prie Registrų centro klientų savitarnos sistemos, spustelėjęs nuorodą Juridinių asmenų registras ir kairėje meniu pusėje pasirinkęs laukelius: Juridinio asmens, filialo ir duomenų registravimas, Juridinio asmens, filialo duomenų registravimas, patvirtinus, kad kontaktiniai duomenys teisingi arba įrašius pakeistus kontaktinius duomenis, turės pasirinkti keičiamus duomenis - Paramos gavėjo statusas, pažymėti langelį Paramos gavėjas, Tęsti (žaliame lauke matys įrašą Informacija išsaugota).   Atlikus išvardytas procedūras ir spustelėjus Tęsti, savitarnos sistema sugeneruos prašymą keisti duomenis (JAR-1-E), kurį reikės pasirašyti kvalifikuotu elektroniniu parašu. Dokumentas pasirašomas paspaudus nuorodą Pasirašyti. Kai dokumentas bus  pasirašytas, paslaugą reikia įdėti į krepšelį ir atlikti apmokėjimo procedūrą per elektroninę bankininkystę, neišėjus iš savitarnos sistemos. 
 
-Nuo 202 188 Eur (120 VDU) sumos — 30 328,20 Eur (15 proc.),
+Svarbu! Registro tvarkytojas panaikina juridinio asmens paramos gavėjo statusą, jeigu:
 
-nuo 17 812 Eur (220 000 − 202 188) sumos — 3 562,40 Eur (20 proc.).
+1. gauna bent vienos iš Juridinių asmenų registro nuostatuose nurodytų kontrolės institucijų pažymą Labdaros ir paramos įstatymo 13 straipsnio 5 dalyje nustatytais atvejais;
 
-Gyventojas turi deklaruoti metines pajamas ir sumokėti metinėje pajamų mokesčio deklaracijoje apskaičiuotą GPM.
+2. su prašymu panaikinti jam paramos gavėjo statusą kreipiasi pats juridinis asmuo;
 
-Iki š. m. gegužės 2 d. gyventojai turi pateikti mokesčių administratoriui 2023 m. mokestinio laikotarpio pajamų mokesčio deklaracijas ir sumokėti jose apskaičiuotą GPM.
+3. juridiniam asmeniui įregistruojamas teisinis statusas "Inicijuojamas likvidavimas", "Likviduojamas", "Bankrutuojantis", "Bankrutavęs", taip pat išregistravus pertvarkyto juridinio asmens teisinį statusą "Pertvarkomas" iš Registro;
 
-Asmenys, nuolatiniais Lietuvos gyventojais tapę dėl per dvejus vienas paskui kitą einančius kalendorinius metus Lietuvoje išbūtų 280 dienų skaičiaus ir vienais iš jų — ne mažiau nei 90 dienų, tų kalendorinių metų, kuriais jie atvyko į Lietuvą, pajamų mokesčio deklaracijas privalo pateikti iki kitų po atvykimo metų gruodžio 31 dienos (2023 m. atvykusieji į Lietuvą — iki 2024 m. gruodžio 31 dienos).
+4. paramos gavėjas labdaros ir paramos fondas, asociacija ar viešoji įstaiga, nepateikę metinių finansinių ataskaitų rinkinio ir metinio pranešimo ar veiklos ataskaitos, arba labdaros ir paramos fondas ar asociacija, nepateikę metinės ataskaitos per Civilinio kodekso 2.66 straipsnio 4 dalyje nurodytą terminą, šių dokumentų nepateikė per 2 mėnesius nuo tada, kai buvo įspėti apie šį pažeidimą. Registro tvarkytojas įspėjimą apie pažeidimą išsiunčia Registre nurodytu elektroninio pašto adresu korespondencijai arba registruotu paštu labdaros ir paramos fondo, asociacijos ar viešosios įstaigos buveinės adresu, jeigu labdaros ir paramos fondas, asociacija ar viešoji įstaiga elektroninio pašto adreso korespondencijai nėra pateikusi Registro tvarkytojui.
 
-## DĖL GYVENTOJŲ PAJAMŲ MOKESČIO PERMOKOS GRĄŽINIMO
+Išsamiai paramos gavėjo statuso suteikimo ir jo panaikinimo tvarka reglamentuota Juridinių asmenų registro nuostatų dešimtajame skirsnyje.
 
-#### URL: https://www.vmi.lt/evmi/mokesciu-zinynas#d%C4%97l-gyventoj%C5%B3-pajam%C5%B3-mokes%C4%8Dio-permokos-gr%C4%85%C5%BEinimo
+## Kur galima pasitikrinti, ar juridinio asmens pavadinimas nėra tapatus su kitų juridinių asmenų pavadinimais?
 
-Valstybinė mokesčių inspekcija prie Lietuvos Respublikos finansų ministerijos[1] primena, kad nuolatiniai Lietuvos gyventojai[2], pageidaujantys pasinaudoti pajamų mokesčio lengvatomis ir susigrąžinti dalį pajamų mokesčio, išskaičiuoto (sumokėto) nuo 2023 m. mokestinio laikotarpio pajamų, arba sumažinti mokėtiną pajamų mokestį, turi deklaruoti metines pajamas.
+#### URL: https://info.registrucentras.lt/node/461
 
-Kas gali susigrąžinti pajamų mokesčio permoką?
+Informuojame, kad pasitikrinti, ar pavadinimas nėra tapatus su kitų juridinių asmenų, filialų ar atstovybių pavadinimais arba laikinai įrašytais į Registrą pavadinimais galite čia. Tikrinant pavadinimo tapatumą, teisinė forma nevertinama, todėl nebūtų registruojama mažoji bendrija ar kitas juridinis asmuo tokiu pačiu simboliniu pavadinimu, kokiu yra įregistruota uždaroji akcinė bendrovė. Pav., nebūtų registruojama MB "Rytas", jeigu jau yra įregistruota UAB "Rytas".
 
-Pasinaudoti pajamų mokesčio lengvatomis ir susigrąžinti išskaičiuoto (sumokėto) pajamų mokesčio dalį gali gyventojai, kurie 2023 metais:
+Patikrinti, ar pavadinimas nėra tapatus nacionaliniams, Bendrijos ir išplėstiems į Lietuvą tarptautiniams prekių ženklams, galite pasitikrinti pasinaudoję viešąja paslauga Valstybinio patentų biuro tinklalapyje.
 
-1. gavo su darbo santykiais ar jų esmę atitinkančiais santykiais susijusių pajamų[3], bet nepasinaudojo metiniu NPD[4].
+## Kokia tvarka išduodami įgaliojimai teikti duomenis bei pasirašyti dokumentus Juridinių asmenų registrui (JAR), Juridinių asmenų dalyvių informacinei sistemai (JADIS), taip pat JADIS Naudos gavėjų posistemei (JANGIS)?
 
-Pritaikius GPMĮ[5] 20 straipsnyje nustatyta tvarka apskaičiuotą metinį NPD, jį atitinkanti su darbo santykiais susijusių pajamų suma yra neapmokestinama pajamų mokesčiu. Jeigu šia mokesčio lengvata gyventojai 2023 m. nepasinaudojo, t. y. jei darbdavys, išmokėdamas darbo užmokestį, NPD nepritaikė arba per metus pritaikė mažiau nei 12 mėnesių NPD, tai gyventojui gali susidaryti pajamų mokesčio permoka.
+#### URL: https://info.registrucentras.lt/node/480
 
-Pasinaudoti teise į visą priklausantį metinį NPD ir susigrąžinti pajamų mokesčio permoką gali gyventojai, dirbę ne visus 2023 metus, taip pat tie, kuriems NPD buvo pritaikytas ne visas, arba kurie darbdaviams nebuvo pateikę prašymo taikyti NPD.
+Įgaliojimai teikti duomenis Juridinių asmenų registro tvarkytojui (JAR) ir pasirašyti dokumentus, taip pat teikti duomenis ir dokumentus į Juridinių asmenų dalyvių informacinę sistemą (JADIS) ir šios sistemos posistemę JANGIS išduodami nuorodoje nurodyta tvarka. Nuorodoje rasite ir Įgaliojimo formą, taip pat įgaliojimo panaikinimo formą.
 
-Susigrąžinti nuo darbo užmokesčio išskaičiuoto pajamų mokesčio dalį taip pat gali riboto darbingumo asmenys, kuriems dėl nustatyto riboto darbingumo, neįgalumo ar specialiųjų poreikių 2023 m. nebuvo pritaikyti didesni (935 eurų ar 1 005 eurų) mėnesio NPD.
+Įgaliojimas teikiamas Įgaliojimų teikti duomenis, dokumentus ir gauti paslaugas Registrų centre išdavimo ir panaikinimo taisyklėse nustatyta tvarka.
 
-Jeigu gyventojų 2023 m. metinės pajamos nesiekia 34 370,67 eurų[6], tai dėl nepritaikyto metinio NPD arba pritaikytos ne visos jo sumos susidariusią pajamų mokesčio permoką gyventojai gali susigrąžinti deklaruodami metines pajamas.
+Norėdamas suteikti Įgaliojimą elektroniniu būdu vadovas, prisijungęs kvalifikuotu sertifikatu patvirtinto elektroninio parašo pagalba  prie Registrų centro klientų savitarnos sistemos, turi horizontaliajame meniu pasirinkti skiltį Juridinių asmenų registras ir spustelti šias kairėje pusėje pateiktas nuorodas: Įgaliojimai, Naujas įgaliojimas.
 
-Tik su darbo santykiais ar jų esmę atitinkančiais santykiais susijusių pajamų (arba jų ir priskiriamų neapmokestinamosioms pajamoms) gavę gyventojai taikytino metinio NPD, mokėtino ar grąžintino GPM sumas gali apskaičiuoti savarankiškai, pasinaudoję Valstybinės mokesčių inspekcijos[7] interneto svetainėje skelbiama metinio NPD skaičiuokle: https://www.vmi.lt/evmi/metinio-neapmokestinamojo-pajamu-dydzio-skaicuokle.
+Įgaliojimas sugeneruojamas ir suteikiamas, sistemos nurodytuose duomenų laukuose įrašius reikiamus duomenis, spustelėjus Tęsti, kvalifikuotu sertifikatu patvirtintu elektroniniu parašu pasirašius teikiamą įgaliojimą bei spustelėjus nuorodą Suteikti įgaliojimą. Atlikus nurodytus veiksmus, savitarnos sistemoje iš karto gausite pranešimą - Įgaliojimas suteiktas. Pamiršus spustelti nuorodą Suteikti įgaliojimą, įgaliojimas yra nesuteikiamas, duomenys sistemoje nesaugomi ir juos reikia teikti iš naujo. 
 
-Svarbu ir tai, kad, taikant mėnesio NPD, atsižvelgiama tik į darbo užmokesčio (su priedais bei priemokomis) sumą, o, apskaičiuojant metinį NPD, — į bendrą metinių pajamų sumą[8], todėl, gavus ir kitų apmokestinamųjų pajamų, metinis NPD sumažėja ar visai netaikomas. Sumažėjus metiniam NPD, gyventojui atsiranda pareiga deklaruoti metines pajamas, perskaičiuoti metinį NPD ir sumokėti pajamų mokestį. Riboto darbingumo asmenims, teisę į didesnius NPD (935 eurų ar 1 005 eurų) turėjusiems visus 2023 metus, metinis NPD (11 220 eurų ar 12 060 eurų) yra taikomas, neatsižvelgiant į metinių pajamų sumą;
+Popierine forma užpildytą ir pasirašytą Įgaliojimą Registrų centrui gali pateikti įgaliotojas arba Įgaliojime nurodytas įgaliotinis. Turi būti užpildyti visi Įgaliojimo formoje nurodyti laukai ir pažymėtos viena, kelios arba visos šioje formoje nurodytos paslaugos (teisės). Įgaliojimas gali būti pateikiamas:
 
-2. per mokestinį laikotarpį patyrė GPMĮ 21 straipsnyje nurodytas išlaidas, t. y. 2023 metais mokėjo:
+Registrų centro klientų aptarnavimo padalinyje (Jūsų patogumui - iš anksto registruotis vizitui galite čia). Teikiant dokumentus Registrų centrui asmeniškai turi būti pateikiamas galiojantis Įgaliojimą teikiančio asmens tapatybę patvirtinantis dokumentas; 
 
-2.1. gyvybės draudimo įmokas pagal gyvybės draudimo sutartį, kurioje nustatyta, kad gyvybės draudimo išmoka išmokama ne tik įvykus draudžiamajam įvykiui, bet ir pasibaigus draudimo sutarties galiojimo terminui ir naudos gavėju draudimo laikotarpio pabaigoje yra:
+siunčiant Įgaliojimą paštu (kartu pateikiama Įgaliojimą teikiančio asmens tapatybę patvirtinančio asmens dokumento kopija);
 
-− pats gyventojas,
+teikiant Įgaliojimą per E. pristatymo dėžutę (tik tais atvejais, jei nesudaryta galimybė parengti ir pateikti Įgaliojimą tiesiogiai elektroniniu būdu per Registrų centro savitarnos sistemą);
 
-− gyventojo sutuoktinis,
+siunčiant kvalifikuotu sertifikatu patvirtintu elektroniniu parašu pasirašytą Įgaliojimą (pridedama ir Įgaliojimą teikiančio asmens tapatybę patvirtinančio asmens dokumento kopija) elektroniniu paštu info@registrucentras.lt (tik tais atvejais, jei nesudaryta galimybė parengti ir pateikti Įgaliojimą tiesiogiai elektroniniu būdu per Registrų centro savitarnos sistemą).
 
-− gyventojo nepilnamečiai vaikai (įvaikiai, globotiniai, kuriems nustatyta nuolatinė globa (rūpyba) šeimoje),
+Už įgaliojimo įregistravimą mokamas 7,26 euro atlyginimas. Atsiskaitomąsias sąskaitas rasite čia.
 
-− iki 18 metų ir vyresni neįgalieji vaikai (įvaikiai, globotiniai, kuriems nustatyta nuolatinė globa (rūpyba) šeimoje, pilnamečiai asmenys, kuriems iki pilnametystės buvo nustatyta nuolatinė globa (rūpyba) šeimoje), kuriems nustatytas specialusis nuolatinės slaugos poreikis,
+Elektroniniu būdu įgaliojimas suteikiamas neatlygintinai. 
 
-− iki 18 metų ir vyresni vaikai (įvaikiai, globotiniai, kuriems nustatyta nuolatinė globa (rūpyba) šeimoje, pilnamečiai asmenys, kuriems iki pilnametystės buvo nustatyta nuolatinė globa (rūpyba) šeimoje), kuriems iki 2005 m. birželio 30 d. buvo nustatyta visiška negalia);
+Pateikto Įgaliojimo duomenys įrašomi į JAREP Įgaliojimų posistemę per 3 darbo dienas nuo gauto Įgaliojimo ir apmokėjimo už Įgaliojimo įrašymą.
+ 
+Atšaukti Įgaliojimą gali vadovas, elektroniniu parašu prisijungęs prie Registrų centro  klientų savitarnos sistemos, pasirinkęs nuorodas: Juridinių asmenų registras, Įgaliojimų sąrašas bei spustelėjęs šalia norimo atšaukti įgaliojimo esančią nuorodą Panaikinti. Savitarnos sistema iš karto sugeneruoja Įgaliojimo atšaukimo dokumentą, kurį dokumentų ir duomenų teikėjas turi pasirašyti elektroniniu parašu, spustelėti nuorodą Panaikinti įgaliojimą ir įgaliojimas bus atšauktas. 
 
-2.2. pensijų įmokas į III pakopos pensijų fondus, profesinių pensijų fondų dalyvių asociacijų ir (ar) jiems analogiškų subjektų, veikiančių Europos ekonominės erdvės[9] valstybėje, turimus pensijų fondus pagal pensijų kaupimo sutartį, kurioje naudos gavėju kaupimo laikotarpio pabaigoje yra:
+Norėdamas popierine forma panaikinti išduotą Įgaliojimą, juridinio asmens vadovas (asmenys, veikiantys juridinio asmens vardu) užpildo nustatytą Įgaliojimo panaikinimo formą. Įgaliotojas turi užpildyti visus Įgaliojimo formoje nurodytus laukus ir pažymėti paslaugų grupę (grupes), kurioje (kuriose) esančiai (esančioms) paslaugai (paslaugoms) (teisei (teisėms) išduotas Įgaliojimas naikinamas. Užpildyta ir pasirašyta Įgaliojimo panaikinimo forma gali būti pateikiama tais pačiais būdais, kaip ir teikiamas Įgaliojimas.
+ 
+Norėdamas atsisakyti išduoto Įgaliojimo, įgaliotinis pateikia prašymą, kuriame nurodo Įgaliojimą išdavusį juridinį asmenį ir paslaugas (teises), kurių atsisakoma. Užpildytas ir pasirašytas prašymas gali būti pateikiamas aukščiau nustatyta Įgaliojimo pateikimo tvarka.
+ 
+Duomenys apie Įgaliojimo pabaigą Įgaliojimų posistemėje įrašomi neatlygintinai.
 
-− pats gyventojas,
+Įgaliojimai nepratęsiami - reikia išduoti naują įgaliojimą.
 
-− gyventojo sutuoktinis,
+## Per kiek laiko ir kokius dokumentus reikia pateikti Juridinių asmenų registrui įregistruoti duomenis apie naują juridinio asmens vadovą?
 
-− iki 18 metų ir vyresni neįgalieji vaikai (įvaikiai, globotiniai, kuriems nustatyta nuolatinė globa (rūpyba) šeimoje), kuriems nustatytas specialusis nuolatinės slaugos poreikis,
+#### URL: https://info.registrucentras.lt/node/558
 
-− iki 18 metų ir vyresni vaikai (įvaikiai, globotiniai, kuriems nustatyta nuolatinė globa (rūpyba) šeimoje, pilnamečių asmenų, kuriems iki pilnametystės buvo nustatyta nuolatinė globa (rūpyba) šeimoje), kuriems iki 2005 m. birželio 30 d. buvo nustatyta visiška negalia);
+Civilinio kodekso 2.66 straipsnis nustato, kad  kai pasikeičia juridinio asmens valdymo organų duomenys, duomenų ir dokumentų teikėjas per 30 dienų nuo pakeitimų padarymo dienos privalo pateikti nustatytos formos prašymą įregistruoti pakeitimus Juridinių asmenų registre. Įstatymai gali nustatyti trumpesnį terminą pateikti dokumentus ir duomenis. Dokumentų ir duomenų pateikimo 5 dienų terminas Akcinių bendrovių įstatyme nustatytas akcinėms bendrovėms ir uždarosioms akcinėms bendrovėms, taip pat Individualių įmonių įstatyme - individualioms įmonėms bei Mažųjų bendrijų įstatyme - mažosioms bendrijoms, kurios turi vienasmenį valdymo organą. Atkreiptinas dėmesys, kad santykiuose su trečiaisiais asmenimis juridinio asmens vardu gali veikti vadovas, kurio duomenys įregistruoti  Juridinių asmenų registre, todėl duomenis apie pasikeitusį vadovą reikėtų pateikti nedelsiant.
 
-2.3. papildomas kaupiamąsias pensijų įmokas į II pakopos pensijų fondus, profesinių pensijų fondų dalyvių asociacijų ir (ar) jiems analogiškų subjektų, veikiančių EEE valstybėje ar Ekonominio bendradarbiavimo ir plėtros organizacijos (EBPO) valstybėje narėje, turimus pensijų fondus, kurios mokamos pagal Pensijų kaupimo įstatymo 8 str. 4 dalies nuostatas ir kurios yra didesnės negu 3 proc. gyventojo pajamų, nuo kurių skaičiuojamos valstybinio socialinio draudimo įmokos;
+Norint pakeisti duomenis apie juridinio asmens vadovą, dokumentų ir duomenų teikėjas Juridinių asmenų registro tvarkytojui (iš anksto registruotis galite čia) turi pateikti:
 
-2.4. už profesinį mokymą pagal formaliojo profesinio mokymo programą, kurią baigus įgyjama atitinkama kvalifikacija, formaliojo profesinio mokymo programos modulį, kurį baigus įgyjama atitinkama kompetencija (kompetencijos), ir (ar) už studijas, kurias baigus įgyjama aukštojo mokslo kvalifikacija.
+- Prašymą įregistruoti pakeitimus forma JAR-1.
 
-Jei už studijas ar profesinį mokymą sumokėta skolintomis lėšomis (tam tikslui paimta iš kredito įstaigos paskola), tai iš metinių pajamų gali būti atimta per mokestinį laikotarpį grąžinta šios paskolos dalis;
+- Vienasmenio valdymo organo duomenų formą JAR-VO-V, formą KD-1.
 
-2.5. palūkanas už vieną iki 2008-12-31 paimtą kreditą (arba jo dalį) vienam gyvenamajam būstui statyti arba jam įsigyti arba už gyvenamojo būsto finansinę nuomą (lizingą).
+- Visuotinio dalyvių susirinkimo (kolegialaus valdymo organo, jei jo kompetencijai priskirtas vadovo rinkimas) protokolą dėl vadovo atleidimo ir naujo vadovo išrinkimo kartu su protokolo priedais. Reikalavimus protokolui bei jo priedams nustato Civilinio kodekso 2.90 str.
 
-Bendra visų atimamų išlaidų (t. y. gyvybės draudimo įmokų, įmokų į II ir III pakopos pensijų fondus, palūkanų už kreditą būstui įsigyti ar statyti, sumos už profesinį mokymą ar studijas sumokėtų įmokų) suma negali viršyti 25 procentų apmokestinamųjų pajamų, kurioms taikomas 15, 20 ar 32 procentų pajamų mokesčio tarifas, sumos, apskaičiuotos iš visų mokestiniais metais gautų pajamų atėmus GPMĮ 16 straipsnio 1 dalies 1–5 punktuose nurodytas sumas. Be to, atimamų gyvybės draudimo įmokų ir/ar įmokų į III ir II pakopos pensijų fondus išlaidų suma bet kokiu atveju negali viršyti 1 500 eurų.
+- Dokumentus ir duomenis teikiančio asmens tapatybę patvirtinantį dokumentą. Jeigu dokumentai siunčiami paštu, pridedama vadovo asmens dokumento kopija.
 
-Kaip susigrąžinti pajamų mokesčio permoką?
+Jei dokumentus pateikia ne juridinio asmens vadovas, o atstovas, kartu su dokumentais Registro tvarkytojui turi būti pateikiami atstovo įgaliojimus patvirtinantys dokumentai, jeigu įgaliojimas neįregistruotas sistemoje.
 
-Pajamų mokesčio permoka apskaičiuojama gyventojo pateiktoje pajamų mokesčio deklaracijoje (GPM311 forma[10]).
+Jeigu naujuoju vadovu išrinktas užsienio valstybės pilietis, papildomai turi būti pateikta užsienio piliečio asmens dokumento kopija. Juridinių asmenų registro nuostatų nustatyta tvarka užsienio fizinio asmens vardas, pavardė, gyvenamoji vieta pateikiami transliteruoti į lotynų kalbos rašmenis. Jeigu užsienio fizinio asmens tapatybę patvirtinančiame dokumente nėra lotynų kalbos rašmenimis įrašytų jo vardo ir pavardės, pateikiamas asmens dokumento vertimas, kuriame asmens vardas ir pavardė pateikiami transliteruoti į lotynų kalbos rašmenis.
 
-Pajamų mokesčio deklaracijoje turi būti nurodomos visos per 2023 m. mokestinį laikotarpį gyventojo gautos pajamos, išskyrus nurodytas Nedeklaruojamų neapmokestinamųjų pajamų sąraše[11].
+Naujasis vadovas prašymą įregistruoti gali pateikti ir per E. pristatymo dėžutę. Šiuo atveju kiekvienas dokumentas turi būti pasirašytas kvalifikuotu sertifikatu patvirtintu elektroniniu pasirašančiojo asmens parašu (vadovas pasirašo formas JAR-1 ir KD-1, posėdžio pirmininkas ir sekretorius bei dalyviai pasirašo protokolą). Informuojame, kad elektroniniu paštu Juridinių asmenų registrui skirti dokumentai nepriimami. 
 
-Patogiausia ir paprasčiausia pajamų mokesčio deklaraciją užpildyti ir pateikti elektroniniu būdu per VMI Elektroninio deklaravimo informacinę sistemą (adresu https://deklaravimas.vmi.lt/) pasinaudojus vedliu, parengtu pagal klausimų − atsakymų principą.
+Juridinio asmens prašymas dėl duomenų apie vadovą pakeitimo taip pat gali būti pateiktas elektroniniu būdu per Registrų centro klientų savitarnos sistemą, jeigu duomenis teikia vadovo įgaliotas asmuo, kuriam išduotas ir įregistruotas įgaliojimas  pasirašyti ir teikti dokumentus dėl juridinio asmens duomenų ir (arba) dokumentų pakeitimų registravimo, todėl racionalu būtų tokį įgaliojimą išduoti prieš pasikeičiant vadovui.
 
-2023 m. mokestinio laikotarpio deklaracijas reikia pateikti iki 2024 m. gegužės 2 dienos. Iki šio termino pabaigos pasirinktą paramos gavėją ar politinę organizaciją paremti ketinantys gyventojai, pasinaudodami vedliu, turi užpildyti ir elektroniniu būdu pateikti Prašymą pervesti pajamų mokesčio dalį paramos gavėjams ir (arba) politinėms organizacijoms (FR0512 formos 05 versija[12]).
+Įgaliotas asmuo kvalifikuotu sertifikatu patvirtinto  elektroninio parašo pagalba prisijungęs prie Registrų centro klientų savitarnos sistemos, spustelėjęs nuorodą Juridinių asmenų registras  ir kairėje meniu pusėje pasirinkęs laukelius Juridinio asmens, filialo ir duomenų registravimas, Juridinio asmens, filialo duomenų registravimas, patvirtinus, kad kontaktiniai duomenys teisingi arba įrašius pakeistus kontaktinius duomenis, turės pasirinkti Vadovas ir įrašyti naujo vadovo duomenis ir išregistruoti buvusį vadovą. Keičiant duomenis apie vadovą elektroniniu būdu, turi būti pridėtas PDF arba ADOC formate suformuotas juridinio asmens organo sprendimas (protokolas)  dėl vadovo atleidimo ir naujo vadovo išrinkimo kartu su protokolo priedais.
 
-Pajamų mokesčio permoka, apskaičiuota gyventojo iki 2024 m. gegužės 2 d. pateiktoje pajamų mokesčio deklaracijoje, grąžinama iki 2024 m. liepos 31 d., o pagal pateiktą nuo 2024 m. gegužės 3 d., − per 90 dienų po jos gavimo VMI dienos.
+Atlyginimas už duomenų apie vadovą įregistravimą - 8,30 euro. Atsiskaitomąsias sąskaitas rasite čia.
 
-Gyventojas, nepasinaudojęs mokesčio lengvatomis 2023 m. ar ankstesniais metais, gali jomis pasinaudoti, pateikdamas ar patikslindamas 2022 m., 2021 m., 2020 m. ar 2019 m. mokestinio laikotarpio pajamų mokesčio deklaraciją.
+## Kur reikia kreiptis dėl įmonės registravimo pažymėjimo dublikato išdavimo?
 
-## DĖL PARAMOS GAVĖJAMS IR POLITINĖMS ORGANIZACIJOMS 2024 M. SKIRIAMOS PAJAMŲ MOKESČIO DALIES
+#### URL: https://info.registrucentras.lt/node/519
 
-#### URL: https://www.vmi.lt/evmi/mokesciu-zinynas#d%C4%97l-paramos-gav%C4%97jams-ir-politin%C4%97ms-organizacijoms-2024-m--skiriamos-pajam%C5%B3-mokes%C4%8Dio-dalies
+Juridinio asmens registravimo pažymėjimai nuo 2010 m. sausio 1 d., pasikeitus Civilinio kodekso 2.65 str., neišduodami, o nuo  2012 m. spalio 7 d., įsigaliojus Juridinių asmenų registro nuostatų pakeitimams, juridinių asmenų, jų filialų ir atstovybių, užsienio juridinių asmenų ir kitų organizacijų filialų ir atstovybių registravimo pažymėjimai ir jų dublikatai pripažinti netekusiais galios. Juridinis asmuo, pateikęs prašymą ir sumokėjęs nustatytą atlyginimą, gali gauti Juridinių asmenų registro išrašą.
 
-Valstybinė mokesčių inspekcija prie Lietuvos Respublikos finansų ministerijos primena, kad nuolatiniai Lietuvos gyventojai[1] 2024 metais gali paremti pasirinktą labiausiai remtiną visuomenei naudingą sritį, konkretų meno kūrėją ir (ar) pasirinktą politinę organizaciją, paskirdami jiems dalį pajamų mokesčio, apskaičiuoto nuo savo 2023 m. gautų pajamų.
+## Kodėl ties grafa "Teisinis statusas" yra nurodoma - teisinis statusas neįregistruotas?
 
-Nauja tai, kad 2024 m. (už 2023 m.) gyventojai gali paskirti pajamų mokesčio dalį:
+#### URL: https://info.registrucentras.lt/node/689
 
-— politinėms organizacijoms, t. y. ne tik politinėms partijoms, bet ir politiniams komitetams. Lietuvos Respublikos politinių organizacijų įstatyme politinis komitetas apibrėžiamas taip: „Politinis komitetas — pagal šį įstatymą įsteigtas pavadinimą turintis viešasis juridinis asmuo, kurio tikslas — tenkinti savo narių politinius interesus, padėti reikšti jų politinę valią, siekti dalyvauti įgyvendinant Europos Sąjungos valdžią ir (arba) savivaldos teisę dalyvaujant rinkimuose į Europos Parlamentą, savivaldybių tarybų ir (arba) merų rinkimuose.“;
+Įrašas "Teisinis statusas neįregistruotas" nereiškia, kad juridinis asmuo nėra įregistruotas, tai reiškia, kad juridinis asmuo nėra likviduojamas, reorganizuojamas, jam neiškelta bankroto byla ar kita. Jeigu teisinis statusas yra įregistruotas, grafoje "Teisinis statusas" yra atitinkamas įrašas: "Likviduojamas", "Likviduojamas dėl bankroto", "Reorganizuojamas", "Bankrutuojantis" ar kita pagal Juridinių asmenų registro nuostatų 18.19 papunktį.
 
-— Užsienyje esančių lietuvių bendruomenių, kitų lietuviškų įstaigų ar organizacijų, kurios gali būti paramos gavėjais pagal Lietuvos Respublikos labdaros ir paramos įstatymą, sąraše[2] nurodytai užsienio valstybėje įsteigtai lietuvių bendruomenei ar kitai lietuviškai įstaigai ar organizacijai.
+## Kokius dokumentus reikia pateikti Juridinių asmenų registro tvarkytojui, pasikeitus vieninteliam akcinės bendrovės akcininkui?
 
-Gyventojai 2024 m. gali paskirti pajamų mokesčio sumas, atitinkančias tokias nuo 2023  m. gautų pajamų apskaičiuoto mokesčio dalis:
+#### URL: https://info.registrucentras.lt/content/13675
 
-- iki 1,2 procentų — paramos gavėjams, laikomiems tokiais pagal Lietuvos Respublikos labdaros ir paramos įstatymą[3]:
+Kai visas akcinės bendrovės akcijas įsigyja vienas asmuo, akcinės bendrovės vadovas ne vėliau kaip per 5 dienas nuo pranešimo apie akcijų įgijimą gavimo dienos Juridinių asmenų registro tvarkytojui (registruotis vizitui galite čia) pateikia:
 
-— Lietuvos Respublikoje įregistruotiems labdaros ir paramos fondams, biudžetinėms įstaigoms, asociacijoms, visuomeninėms organizacijoms, viešosioms įstaigoms, religinėms bendruomenėms, bendrijoms ir centrams, tarptautinių visuomeninių organizacijų skyriams (padaliniams), kitiems juridiniams asmenims (išskyrus profesines sąjungas ir profesinių sąjungų susivienijimus), kurių veiklą reglamentuoja specialūs įstatymai ir kurių veiklos tikslas nėra pelno siekimas, o gautas pelnas negali būti skiriamas jų steigėjams, dalininkams ar nariams,
+1. Prašymą įregistruoti pakeistus duomenis forma JAR-1.
 
-— ir (ar) Užsienyje esančių lietuvių bendruomenių, kitų lietuviškų įstaigų ar organizacijų, kurios gali būti paramos gavėjais pagal Lietuvos Respublikos labdaros ir paramos įstatymą, sąraše nurodytai užsienio valstybėje įsteigtai lietuvių bendruomenei ar kitai lietuviškai įstaigai ar organizacijai,
+2. Formą JAR-AJ (jei akcininkas juridinis asmuo) arba JAR-AF (jei akcininkas fizinis asmuo).
 
-- ir (ar) meno kūrėjams, paramos gavėjais įregistruotiems Lietuvos Respublikos kultūros ministerijos tvarkomoje Meno kūrėjo ir meno kūrėjų organizacijų informacinėje sistemoje;
+3. Dokumentus ir duomenis teikiančio asmens tapatybę patvirtinantį dokumentą. Jeigu dokumentus teikia ne vadovas, o įgaliotas asmuo, Registro tvarkytojui turi būti pateikiami ir atstovo įgaliojimus patvirtinantys dokumentai, jeigu įgaliojimas neįregistruotas sistemoje. Kai dokumentai siunčiami paštu, pridedama vadovo asmens tapatybę patvirtinančio dokumento kopija.
+ 
+Dokumentus galima pateikti ir per E. pristatymo dėžutę. Formą JAR-1 vadovas turi pasirašyti elektroniniu parašu.
+ 
+Atsižvelgiant į teisės aktais nustatytą pareigą JAR tvarkytojui patikrinti teikiamų duomenų tikrumą ir dokumentų atitiktį įstatymų reikalavimams ir teismų formuojamą praktiką dėl šios pareigos tinkamo įgyvendinimo, įvertinus ABĮ nuostatas, susijusias su akcijų savininko pasikeitimo fiksavimu,  duomenų teikėjas, teikdamas prašymą JAR tvarkytojui dėl vienintelio akcinės bendrovės akcininko duomenų įregistravimo JAR, kartu turi pateikti dokumentą, patvirtinantį ir nurodantį JAR duomenų pasikeitimo pagrindą. Tokiu dokumentu gali būti:
 
-- iki 0,6 procento — politinėms organizacijoms (politinėms partijoms ir politiniams komitetams), kurios yra įstatymų nustatyta tvarka įregistruotos Juridinių asmenų registre, atitinka įstatymų reikalavimus dėl politinės organizacijos narių skaičiaus ir kurioms nėra pradėta pertvarkymo arba likvidavimo procedūra;
+- akcijų įgijimą patvirtinantis dokumentas (akcijų pirkimo-pardavimo sutartis, mainų sutartis, dovanojimo sutartis ar kitas dokumentas, kurio pagrindu perleidžiama ar patvirtinama nuosavybės teisė į akcijas) ar jo išrašas;
 
-- iki 0,6 procento — profesinėms sąjungoms ir (ar) jų susivienijimams, įregistruotiems paramos gavėjais.
+- išrašas iš akcijas įgijusio akcininko asmeninės vertybinių popierių sąskaitos (duomenų teikėjas šį išrašą turi gauti iš finansinių priemonių asmenines sąskaitas tvarkančio juridinio asmens).
+ 
+Teikiant duomenis apie užsienio fizinį asmenį turi būti teikiama jo asmens dokumento kopija arba pažymėjimas, patvirtinantis Europos Sąjungos valstybės narės piliečio teisę laikinai ar nuolat gyventi Lietuvos Respublikoje, o teikiant duomenis apie užsienio juridinį asmenį teikiamas registro, kuriame kaupiami ir saugomi duomenys apie tą juridinį asmenį, išrašas ar kitas dokumentas, patvirtinantis, kad juridinis asmuo įregistruotas, jeigu pagal užsienio valstybės teisės aktus išrašas neišduodamas. Užsienio fizinio asmens dokumento kopija notaro netvirtinama.
 
-Kaip paskirti pajamų mokesčio dalį pasirinktiems gavėjams?
+Užsienio fizinio asmens vardas, pavardė, gyvenamoji vieta ir užsienio juridinio asmens pavadinimas, teisinė forma, buveinės adresas ir registras pateikiami transliteruoti į lotynų kalbos rašmenis. Jeigu užsienio fizinio asmens dokumente nėra lotynų kalbos rašmenimis įrašytų jo vardo ir pavardės, turi būti teikiamas asmens dokumento vertimas, kuriame asmens vardas ir pavardė pateikiami transliteruoti į lotynų kalbos rašmenis.
+ 
+Kai vienintelis akcinės bendrovės akcininkas visas ar dalį akcijų perleidžia keliems asmenims, akcinės bendrovės vadovas ar jo įgaliotas asmuo Juridinių asmenų registro tvarkytojui pateikia  laisvos formos pranešimą. Kai pranešimas siunčiamas paštu, pridedama vadovo asmens tapatybę patvirtinančio dokumento kopija. Pranešimą galima pateikti ir per E. pristatymo dėžutę, šiuo atveju pranešimą vadovas turi pasirašyti elektroniniu parašu.
 
-Prisijungus prie Valstybinės mokesčių inspekcijos Elektroninio deklaravimo informacinės sistemos (EDS), tiesiogiai portale (realiu laiku), pasinaudojus vedliu, užpildomas ir pateikiamas Prašymas pervesti pajamų mokesčio dalį paramos gavėjams ir (arba) politinėms organizacijoms (FR0512 formos 05 versija[4]).
+Atlyginimas už vienintelio akcininko duomenų įregistravimą - 8,30 euro.
 
-Užpildant Prašymą vedliu, pasirenkamas paramos gavėjas ir (ar) politinė organizacija, gavėją identifikuojantys duomenys, skiriama pajamų mokesčio dalis (procentais), laikotarpis, už kurį ji skiriama, pageidaujant ― ir pajamų mokesčio dalies paskirtis.
+Duomenys apie uždarosios akcinės bendrovės akcininkus ir jų pasikeitimą, nepriklausomai nuo jų skaičiaus, teikiami per Juridinių asmenų dalyvių informacinę sistemą (JADIS).
 
-Primename, kad paštu atsiųsti ar kitaip pateikti popieriniai Prašymai nenagrinėjami.
+## Kokia yra viešų pranešimų skelbimo Registrų centro elektroniniame leidinyje tvarka?
 
-Kur galima pasitikslinti, ar pasirinktas asmuo yra įgijęs paramos gavėjo statusą, susirasti jo identifikacinį numerį?
+#### URL: https://info.registrucentras.lt/node/843
 
-Prašymo užpildymo metu gyventojui VMI EDS paieškoje pasirinkus gavėją, kartu pateikiama informacija, ar asmuo turi paramos gavėjo statusą. Be to, juridinių asmenų, įregistruotų paramos gavėjais, ir politinių organizacijų duomenys yra skelbiami VMI prie FM interneto svetainėje adresu https://www.vmi.lt/evmi/web/guest/paramos-gaveju-ir-politiniu-organizaciju-duomenys. Čia taip pat pateikiamas meno kūrėjų, įregistruotų paramos gavėjais, sąrašas.
+Viešų pranešimų skelbimo elektroniniame leidinyje tvarka yra nustatyta Lietuvos Respublikos Vyriausybės 2010-07-21 nutarimu Nr. 1056.
 
-Kaip apskaičiuojama pervestina pajamų mokesčio dalis?
+Pateikti pranešimą, kuris bus skelbiamas Registrų centro elektroniniame leidinyje "Juridinių asmenų vieši pranešimai", galima prisijungus prie Registrų centro klientų savitarnos sistemos, naudojantis kvalifikuotu elektroniniu parašu arba elektronine bankininkyste. Prisijungus prie klientų savitarnos sistemos, reikia pasirinkti skiltį Juridinių asmenų registras ir kairėje esančiame meniu spausti nuorodą Vieši pranešimai. Atsivėrus pranešimo rengimo langui, reikės pasirinkti pranešimo kategoriją ir laukelyje Tekstas įrašyti skelbiamą informaciją ir paspaudus Išsaugoti ir Tęsti galėsite paslaugą įsidėti į krepšelį bei atlikti apmokėjimą. Už viešo pranešimo paskelbimą elektroniniu būdu mokamas 7,83 euro atlyginimas už 1000 simbolių.
 
-Pajamų mokesčio dalis apskaičiuojama nuo pajamų mokesčio, mokėtino pagal gyventojo pateiktą metinę pajamų mokesčio deklaraciją, sumos, pridėjus pajamų mokesčio sumą, sumokėtą įsigyjant verslo liudijimą, o jeigu metinės pajamų mokesčio deklaracijos pateikti gyventojas neprivalo, tai ― nuo mokestį išskaičiuojančio asmens išskaičiuotos pajamų mokesčio sumos.
+Prašymą paskelbti juridinių asmenų viešus pranešimus elektroniniame leidinyje "Juridinių asmenų vieši pranešimai" taip pat galima pateikti bet kuriame Registrų centro klientų aptarnavimo padalinyje (registruotis vizitui galite čia).
 
-Ar galima paremti kelis paramos gavėjus?
+Kartu su prašymu pateikiamas rašytinis skelbimo tekstas, taip pat šis tekstas persiunčiamas užsakymo vykdytojo elektroniniu paštu.
 
-Prašyme galima nurodyti:
+Teikiamame viešame pranešime turi būti nurodyti viešą pranešimą teikiančio asmens duomenys (fizinio asmens vardas, pavardė, gimimo data; juridinio asmens, užsienio juridinio asmens filialo ir atstovybės pavadinimas, teisinė forma (užsienio juridinio asmens filialui ir atstovybei netaikoma), kodas, buveinė, viešo pranešimo turinys. Už viešo pranešimo paskelbimą elektroniniame leidinyje (A4 formato puslapis), viešą pranešimą pateikus  Registrų centro klientų aptarnavimo padaliniui, mokamas 7,83 euro atlyginimas.
 
-- skiriant iki 1,2 procento pajamų mokesčio dalį — daugiau nei vieną paramos gavėju esantį juridinį asmenį (išskyrus profesines sąjungas ir profesinių sąjungų susivienijimus), užsienio valstybėje įsteigtą lietuvių bendruomenę ar kitą lietuvišką įstaigą ar organizaciją ir (ar) meno kūrėją (meno kūrėjus). Bendra jiems skiriama pajamų mokesčio dalis neturi būti didesnė nei 1,2 procento;
+Pranešimas paskelbiamas kitą kalendorinę dieną  po to, kai pateikiamas prašymas ir sumokamas nustatyto dydžio atlyginimas. Kai prašymas pateikiamas šeštadienį, sekmadienį ar šventinę dieną, pranešimas paskelbiamas antrą darbo dieną po prašymo pateikimo. 
 
-- skiriant iki 0,6 procento pajamų mokesčio dalį — daugiau nei vieną politinę organizaciją, tačiau bendra politinėms organizacijoms skiriama pajamų mokesčio dalis neturi būti didesnė nei 0,6 procento;
+## Kokius veiksmus reikia atlikti, norint įsteigti asociaciją?
 
-- skiriant iki 0,6 procento pajamų mokesčio dalį — daugiau nei vieną profesinę sąjungą ir (ar) profesinių sąjungų susivienijimą, tačiau bendra jiems skiriama pajamų mokesčio dalis neturi būti didesnė nei 0,6 procento.
+#### URL: https://info.registrucentras.lt/node/898
 
-Ar galima paskirti pajamų mokesčio dalį keleriems ateinantiems metams?
+Asociacija steigiama ir veikia Lietuvos Respublikos asociacijų įstatymo nustatyta tvarka.
 
-Galima paskirti pajamų mokesčio dalį ne tik nuo 2023 m., bet ir nuo 2024 m. - 2026 m. gautinų pajamų, tačiau yra svarbu atsižvelgti į tai, kad nuo 2024 m. ir vėlesnio mokestinio laikotarpio pajamų iki 1,2 procento pajamų mokesčio dalį 2025 m. ir vėlesniais metais galima bus paskirti tik nevyriausybinėms organizacijoms[5] (t. y. kurioms yra būtina Juridinių asmenų registro žyma „nevyriausybinė organizacija“) ir užsienio valstybėje įsteigtai lietuvių bendruomenei ar kitai lietuviškai įstaigai ar organizacijai, jeigu ji priskirtina nevyriausybinei organizacijai, ir (ar) meno kūrėjams, įregistruotiems paramos gavėjais.
+Norėdami įsteigti asociaciją, galite vadovautis nuorodoje nurodyta veiksmų eiga. Steigti asociaciją gali ne mažiau kaip 3 asmenys.
 
-Iki kada reikia pateikti Prašymą?
+Informuojame, kad asociaciją taip pat galima įsteigti elektroniniu būdu per Registrų centro klientų savitarną. Elektroniniu būdu steigiant asociaciją, visi asociacijos steigėjai privalo turėti kvalifikuotus elektroninius parašus. Informaciją, kas žinotina steigiant juridinį asmenį elektroniniu būdu, galima rasti Registrų centro tinklalapyje šioje nuorodoje. 
 
-Prašymą pervesti pajamų mokesčio dalį nuo 2023 m. mokestinio laikotarpio pajamų būtina pateikti ne vėliau kaip iki š. m. gegužės 2 dienos.
+Už asociacijos įregistravimą mokamas 25,65 euro atlyginimas, dokumentus teikiant elektroniniu būdu - 11,99 euro atlyginimas. Atsiskaitomąsias sąskaitas rasite čia.
 
-Svarbu: Metines pajamas deklaruoti privalantys gyventojai iki š. m. gegužės 2 d. turi pateikti ir 2023 m. mokestinio laikotarpio metinę pajamų mokesčio deklaraciją (GPM311 forma[6]). Jos nepateikus arba ją pateikus pavėluotai, paskirta pajamų mokesčio dalis nepervedama.
+## Kokia tvarka išduodamas elektroninis sertifikuotas išrašas (ESI)?
 
-Ką daryti, apsisprendus pakeisti ankstesnių metų Prašyme nurodytą pajamų mokesčio dalies gavėją?
+#### URL: https://info.registrucentras.lt/content/958
 
-Pakeitus sprendimą dėl remiamo asmens, reikia elektroniniu būdu pateikti patikslintą Prašymą, jame nurodžius naujojo paramos gavėjo ir (ar) politinės organizacijos identifikavimo duomenis, taip pat laikotarpį, nuo kurį gautų pajamų prašoma pervesti skiriamą pajamų mokesčio dalį.
+Naujai įregistruotam juridiniam asmeniui, filialui ar atstovybei ESI išduodamas neatlygintinai be atskiro prašymo. Kai registruojama uždaroji akcinė bendrovė, kurioje visų akcijų savininkas yra vienas asmuo, neatlygintinai ESI gali būti išduodamas po to, kai vienintelio akcininko duomenys pateikiami į Juridinių asmenų dalyvių informacinę sistemą (JADIS) ir įregistruojami Juridinių asmenų registre. Tokį pageidavimą turi išreikšti asmuo, teikiantis prašymą įregistruoti uždarąją akcinę bendrovę - šiuo atveju tik įregistravus bendrovę ESI nebūtų išduodamas.
 
-Prašymą galima patikslinti iki kalendorinių metų, einančių po tų metų, už kuriuos nuo gautų pajamų prašoma pervesti (pradėti pervesti) pajamų mokesčio dalį, birželio 30 dienos. Pavyzdžiui, siekiant šiais metais paremti kitą gavėją, iki 2023 m. gegužės 2 d. ar ankstesniais metais pateiktą Prašymą galima patikslinti iki š. m. birželio 30 dienos.
+Elektroninis sertifikuotas Juridinių asmenų registro išrašas (ESI) yra oficialus dokumentas, kuris galioja tik elektroninėje erdvėje. Kaip reglamentuoja Civilinio kodekso 4.262 straipsnis, į viešą registrą įrašyti duomenys laikomi teisingais ir išsamiais. ESI peržiūros sistema suteikia galimybę, nurodžius suteiktą prieigos raktą (kodą), neatlygintinai pasitikrinti juridinio asmens aktualius duomenis ir informaciją. Tretieji asmenys (valstybės institucijos, bankai ir kt.), gavę iš juridinio asmens prieigos raktą, neturi reikalauti pateikti spausdinto popieriuje registro išrašo, kadangi saugiu elektroniniu parašu pasirašytas dokumentas turi tokią pat teisinę galią, kaip ir rašytinis dokumentas.
 
-Kada paramos gavėjui ir (ar) politinei partijai bus pervestos paskirtos lėšos?
+ESI galioja iki duomenų ar informacijos pakeitimo Juridinių asmenų registre. Naujas ESI (prieigos kodas) išduodamas atlygintinai, pateikus nustatytos formos prašymą. Atlyginimas už ESI parengimą - 1,92 Eur. ESI galima užsisakyti ir per Registrų centro savitarnos sistemą, kai prašymą teikia vadovas ar jo įgaliotas asmuo.
 
-Nuo 2023 m. gyventojų gautų pajamų paskirtos pajamų mokesčio sumos bus pervestos laikotarpiu nuo š. m. liepos 1 d. iki lapkričio 15 dienos.
+## Kokių veiksmų reikia imtis, gavus pranešimą, kad yra nutrauktas elektroninio sertifikuoto Juridinių asmenų registro išrašo (ESI) galiojimas?
 
-## DĖL GYVENTOJŲ PAJAMŲ IR TURTO DEKLARAVIMO 2024 METAIS
+#### URL: https://info.registrucentras.lt/node/461
 
-#### URL: https://www.vmi.lt/evmi/mokesciu-zinynas#d%C4%97l-gyventoj%C5%B3-pajam%C5%B3-ir-turto-deklaravimo-2024-metais
+Juridinių asmenų registro elektroninis sertifikuotas išrašas (ESI) yra aktualių duomenų išrašas ir galioja iki duomenų, informacijos ar dokumentų pakeitimų įregistravimo Juridinių asmenų registre (pvz.: įregistravus naujo vadovo duomenis, pakeitus kitus registruojamus duomenis ir informaciją, įregistravus naujus ar pakeistus dokumentus).
+ 
+Juridinis asmuo, filialas ar atstovybė, norintis gauti naują ESI (prieigos raktą) turi pateikti nustatytos formos prašymą išduoti elektroninį sertifikuotą registro išrašą. Prašymą galima pateikti asmeniškai ir paštu bet kuriam Registrų centro klientų aptarnavimo padalinyje arba elektroniniu būdu per Registrų centro klientų savitarnos sistemą.
 
-Nuolatiniai Lietuvos gyventojai[1] iki 2024 m. gegužės 2 d. privalo deklaruoti 2023 m. turimą turtą ir gautas pajamas.
+Norint užsisakyti paslaugą elektroniniu būdu, juridinio asmens vadovas ar jo įgaliotas asmuo turi prisijungti prie klientų savitarnos sistemos, pasirinkti skiltį Juridinių asmenų registras ir kairėje pusėje esančiame meniu spustelti nuorodą Elektroninio sertifikuoto išrašo išdavimas. Paslaugą reikia įsidėti į krepšelį ir atlikti apmokėjimą tiesiogiai iš savitarnos sistemos per pasirinktą e-bankininkystės sistemą, nes kitaip sumokėta įmoka nebus prijungta prie  užsakymo ir jis bus laikomas neapmokėtu. Už ESI išdavimą turi būti mokamas atlyginimas - 1,92 Eur. Atsiskaitomąsias sąskaitas rasite čia.
 
-1. Kurie gyventojai iki 2024 m. gegužės 2 d. privalo deklaruoti turtą pagal Lietuvos Respublikos gyventojų turto deklaravimo įstatymą[2]?
+Jeigu juridinis asmuo, filialas ar atstovybė naudojasi ESI (prieigos raktu), rekomenduojame jį užsisakyti teikiant prašymą dėl duomenų ir (arba) dokumentų pakeitimų registravimo. Tokiu atveju ESI bus suformuotas įregistravus pakeistus duomenis ir (arba) dokumentus.
 
-Kaip ir ankstesniais metais, 2023 m. gruodžio 31 d. turimą turtą turi deklaruoti GTDĮ 2  straipsnio 1 dalyje išvardyti gyventojai:
+## Ar popieriuje atsispausdintą elektroninį sertifikuotą išrašą (ESI) galima pateikti tretiesiems asmenims kaip oficialų dokumentą?
 
-— politikai ir jų šeimų nariai;
+#### URL: https://info.registrucentras.lt/node/592
 
-- nacionaliniam saugumui užtikrinti svarbių įmonių vadovai, jų pavaduotojai ir jų šeimų nariai;
+Elektroninis sertifikuotas Juridinių asmenų registro išrašas (ESI) yra oficialus dokumentas, kuris galioja elektroninėje erdvėje. Kaip reglamentuoja Civilinio kodekso 4.262 straipsnis, į viešą registrą įrašyti duomenys laikomi teisingais ir išsamiais. ESI (prieigos raktas) išduodamas atlygintinai (1,92 Eur), išskyrus teisės aktų nustatytas išimtis. Naujai įregistruotam juridiniam asmeniui ESI išduodamas neatlygintinai.
 
-- visų biudžetinių įstaigų (muziejų, teatrų, bibliotekų, socialinių paslaugų centrų, globos namų ir pan.) vadovai, jų pavaduotojai ir jų šeimų nariai, taip pat šių įstaigų - padalinių (nesančių kitame struktūriniame padalinyje) vadovai, jų pavaduotojai ir jų šeimų nariai;
+ESI peržiūros sistema suteikia galimybę, nurodžius suteiktą prieigos raktą (kodą), neatlygintinai pasitikrinti juridinio asmens aktualius duomenis ir informaciją. Tretieji asmenys (valstybės institucijos, bankai ir kt.), gavę iš juridinio asmens prieigos raktą, neturi reikalauti pateikti spausdinto popieriuje registro išrašo, kadangi saugiu elektroniniu parašu pasirašytas dokumentas turi tokią pat teisinę galią, kaip ir rašytinis dokumentas.
 
-- viešųjų įstaigų, kurių steigėja ar dalininkė yra valstybė ar savivaldybė, vadovai, vadovų pavaduotojai. Pavyzdžiui, mokymo įstaigų, ligoninių, poliklinikų, mokymo centrų, pensionatų, socialinės globos įstaigų ir kitų įstaigų, kurių teisinė forma yra viešoji įstaiga, o steigėja ar dalininkė — valstybė ar savivaldybė, vadovai, jų pavaduotojai ir jų šeimų nariai;
+Elektroninį dokumentą galima atsispausdinti savo oficialiai neteiktinai informacijai, tuomet jis pirmiausiai turėtų būti išsaugotas PDF formatu.
 
-- akcinių bendrovių, kurių akcininkė yra valstybė ar savivaldybė (neatsižvelgiant į tai, kokia akcijų dalis priklauso valstybei (savivaldybei)), vadovai, jų pavaduotojai ir jų šeimų nariai;
+Jeigu yra reikalingas popieriuje atspausdintas ir Registro tvarkytojo spaudu ir parašu patvirtintas Juridinių asmenų registro išrašas, pasirinktą Juridinių asmenų registro išrašą galite užsisakyti ir atsiimti bet kuriame  Registrų centro klientų aptarnavimo padalinyje arba užsisakyti, pasinaudojus Registrų centro klientų elektroninės savitarnos sistema ir atsiimti bet kuriame Jūsų nurodytame Registrų centro klientų aptarnavimo padalinyje. Išrašų užsakymo tvarką rasite nuorodoje.
 
-— valstybės ir savivaldybių įmonių vadovai, jų pavaduotojai ir jų šeimų nariai;
+## Kaip pasirašyti savininko sutikimą suteikti patalpas elektroniniu būdu steigiamo juridinio asmens buveinei registruoti arba keičiant juridinio asmens buveinę?
 
-— valstybės tarnautojai ir jų šeimų nariai;
+#### URL: https://info.registrucentras.lt/node/922
 
-— teisėjai, notarai, antstoliai, prokurorai, valstybinių aukštųjų mokyklų vadovai, Respublikos Prezidento ar Seimo paskirtų valstybinių (nuolatinių) komisijų ir tarybų pirmininkai, jų pavaduotojai ir nariai, viešosios informacijos rengėjo ir (ar) skleidėjo tarybų ir (ar) valdybų nariai, vadovai, jų pavaduotojai, vyriausieji redaktoriai, jų pavaduotojai, redaktoriai, jų pavaduotojai ir kitas išvardytas pareigas 2023 m. ėję (įskaitant GTDĮ 2  straipsnio 1 dalyje nurodytas pareigas 2023 m. nustojusius eiti) gyventojai ir jų šeimos nariai.
+Steigiant juridinį asmenį elektroniniu būdu, kai numatomos patalpos juridinio asmens buveinei registruoti vienasmeniškai nepriklauso steigėjui jo nuosavybės teise, turi būti  kvalifikuotu elektroniniu parašu pasirašytas patalpų savininko (visų savininkų ar bendraturčių)  Sutikimas suteikti patalpas juridinio asmens buveinei. Prašymą įregistruoti juridinį asmenį teikiantis steigėjas turi sistemoje pridėti visus patalpų savininkus, duomenis įrašydamas atitinkamose grafose. Patalpų savininkai gali pasirašyti Sutikimą suteikti patalpas juridinio asmens buveinei, prisijungę prie Registrų centro savitarnos sistemos (nesvarbu, prie kokio kompiuterio) ir pasirinkę - Juridinių asmenų registras. Paspaudus nuorodą Mano dokumentai, bus matomas nustatytos formos Sutikimas suteikti patalpas Juridinio asmens buveinei, kurį patalpų savininkas turi pasirašyti elektroniniu parašu (kai yra keli patalpų savininkai, pasirašyti sutikimą patalpų savininkai turi ne vienu metu, bet vienas po kito).
 
-Deklaruoti turtą taip pat privalo gyventojai, pageidaujantys gauti paramą būstui įsigyti ar išsinuomoti pagal Lietuvos Respublikos paramos būstui įsigyti ar išsinuomoti įstatymą, ir jų šeimų nariai.
+Sutikimą suteikti patalpas juridinio asmens buveinei šiuo metu galima pasirašyti naudojantis:
 
-Be to, turtą deklaruoti privalo 18 metų sulaukę nuolatiniai Lietuvos gyventojai, taip pat asmenys, sulaukę 18 metų ir vyresni, kurie Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ nustatyta tvarka įgijo teisę nuolat gyventi Lietuvoje. Šie gyventojai turi deklaruoti vieną kartą tų kalendorinių metų, kuriais jie sulaukė 18 metų arba kuriais įstatymo nustatyta tvarka įgijo teisę nuolat gyventi Lietuvoje, gruodžio 31 d. Lietuvoje ir (ar) užsienio valstybėje turimą tokį turtą:
+- Registrų centro išduotu kvalifikuotu elektroniniu parašu;
 
-— nekilnojamąjį daiktą, įskaitant nebaigtą statyti statinį, kurio nuosavybės teisės nėra įregistruotos Lietuvos Respublikos nekilnojamojo turto registre;
+- mobiliojo ryšio operatorių - Bitė, Telia, Tele2 ir Teledema išduotu kvalifikuotu mobiliuoju elektroniniu parašu;
 
-— lėšas, turimas ne Lietuvos Respublikos bankuose ir kitose kredito įstaigose, jeigu jų bendra suma viršija 1 500 eurų;
+- Asmens dokumentų išrašymo centro prie Vidaus reikalų ministerijos išduota  asmens tapatybės kortele, kurioje įrašyti asmens atpažinimo elektroninėje erdvėje ir kvalifikuoto elektroninio parašo sertifikatai.
 
-— meno kūrinius, brangakmenius, juvelyrinius dirbinius, tauriuosius metalus, kurių vieneto vertė viršija 1 500 eurų;
+Sutikimas suteikti patalpas Juridinio asmens buveinei tokiu pat būdu pasirašomas ir tais atvejais, kai keičiama Juridinio asmens buveinė ir patalpos nepriklauso juridiniam asmeniui. Šiuo atveju savininkus sistemoje įrašo prašymą teikiantis dokumentų ir duomenų teikėjas.
 
-— pasiskolintas ir negrąžintas lėšas, jeigu jų bendra suma viršija 1 500 eurų;
+## Kokius veiksmus reikia atlikti, norint įsteigti individualią įmonę?
 
-— paskolintas ir nesusigrąžintas lėšas, jeigu jų bendra suma viršija 1 500 eurų;
+#### URL: https://info.registrucentras.lt/node/468
 
-— vertybinius popierius, jeigu jų bendra vertė viršija 1 500 eurų.
+Individuali įmonė steigiama ir veikia Lietuvos Respublikos individualių įmonių įstatymo nustatyta tvarka.
 
-Jeigu 18 metų sulaukęs ar teisę nuolat gyventi Lietuvoje įgijęs gyventojas tokio turto neturi, tai deklaruoti turto jam nereikia.
+Steigiant individualią įmonę per notarą, rekomenduojama vadovautis šioje nuorodoje nurodyta veiksmų seka.
 
-2. Kokioje deklaracijoje deklaruojamas turtas?
+Individualią įmonę taip pat galima įsteigti ir elektroniniu būdu per Registrų centro klientų savitarną. 
 
-Turtas deklaruojamas Metinėje gyventojo (šeimos) turto deklaracijoje (FR0001 forma)[3].
+Svarbu žinoti, kad :
 
-Gyventojai, privalantys deklaruoti turtą dėl jų pačių ir (ar) jų sutuoktinių 2023 m. eitų GTDĮ 2 str. 1 dalyje nurodytų pareigų, taip pat turtą deklaruoti privalantys 18 metų sulaukę nuolatiniai Lietuvos gyventojai ir 18 metų sulaukę bei vyresni asmenys, pagal Lietuvos Respublikos įstatymą „Dėl užsieniečių teisinės padėties“ įgiję teisę nuolat gyventi Lietuvoje, turto deklaraciją ir jos priedus turi pateikti elektroniniu būdu per Valstybinės mokesčių inspekcijos elektroninio deklaravimo sistemą[4] (http://deklaravimas.vmi.lt).
+- steigėjas turi būti veiksnus fizinis asmuo;
 
-3. Kokį turtą reikia deklaruoti?
+- steigiant įmonę elektroniniu būdu:
 
-Gyventojai, kuriems pareiga deklaruoti turtą atsirado dėl 2023 m. eitų pareigų, ir jų šeimų nariai, gyventojai, pageidaujantys gauti paramą būstui įsigyti ar išsinuomoti, ir jų šeimų nariai deklaruoja tokį 2023 m. gruodžio 31 d. Lietuvoje ir užsienio valstybėje turimą turtą:
+steigėjas privalo turėti kvalifikuotu sertifikatu patvirtintą elektroninį parašą;
 
-— nekilnojamąjį daiktą, įskaitant nebaigtą statyti statinį;
+steigiamo juridinio asmens pavadinimas gali būti laikinai įrašytas į Juridinių asmenų registrą bei jame neketinama vartoti Lietuvos vardo;
 
-— kilnojamąjį daiktą, kuriam pagal teisės aktus nustatyta privaloma teisinė registracija;
+jeigu patalpos, kuriose numatoma registruoti juridinio asmens buveinę, nėra steigėjo asmeninė nuosavybė, sutikimą suteikti patalpas juridinio asmens buveinei kvalifikuotu sertifikatu patvirtintu elektroniniu parašu turi pasirašyti visi esami patalpų savininkai (bendraturčiai).
 
-— pinigines lėšas, turimas kredito įstaigose ir ne jose, jeigu jų bendra suma viršijo 1 500 eurų;
+Individualios įmonės steigėjas, prisijungęs prie Registrų centro savitarnos sistemos bei elektroniniu parašu atlikęs autentifikavimą, turi pasirinkti skiltį Juridinių asmenų registras ir kairėje meniu pusėje spustelti nuorodas: Juridinio asmens, filialo ir duomenų registravimas > Juridinio asmens, filialo  registravimas, pasirinkti juridinio asmens teisinę formą - Individuali įmonė, spustelti Pildyti prašymą.
 
-— pasiskolintas ir negrąžintas lėšas, jeigu jų bendra suma viršijo 1 500 eurų;
+Pildant Prašymą registruoti JAR savitarnos sistema atitinkama chronologine tvarka nurodys, kokius duomenis reikia įrašyti duomenų laukuose siekiant, kad sistema galėtų sugeneruoti steigimo aktą, nuostatus ir prašymą registruoti JAR-1-E.
 
-— paskolintas ir nesusigrąžintas lėšas, jeigu jų bendra suma viršijo 1 500 eurų;
+Kai patalpų savininkas ir įmonės steigėjas pasirašys dokumentus, jų būsena pasikeis į Pasirašytas. Vėliausiai pasirašoma forma JAR-1-E - ją pasirašo prašymą pildantis steigėjas.
 
-— meno kūrinius, brangakmenius, juvelyrinius dirbinius, tauriuosius metalus, kurių vieneto vertė viršijo 1 500 eurų;
+Kai visi dokumentai pasirašyti, reikia įdėti paslaugą į krepšelį ir atlikti apmokėjimo procedūrą per elektroninę bankininkystę, neišėjus iš savitarnos sistemos. Juridinis asmuo bus įregistruotas ne vėliau kaip per 1 darbo dieną, pateikus prašymą elektroniniu būdu, ne vėliau kaip per 3 darbo dienas, pateikus prašymą popieriniu būdu, jeigu Juridinių asmenų registro tvarkytojas, tikrindamas pateiktus duomenis ir dokumentus, nenustatys trūkumų. Nustačius trūkumus, jie bus nurodyti ir nustatytas terminas trūkumams pašalinti. 
 
-— vertybinius popierius, jeigu jų bendra vertė viršijo 1 500 eurų.
+Atlyginimas už individualios įmonės įregistravimą, teikiant prašymą popieriuje - 21,12 euro, teikiant prašymą elektroniniu būdu - 13,08 euro.
 
-Nekilnojamojo ar kilnojamojo daikto vertė nurodoma pagal jo įsigijimo kainą, o jei ši kaina labai skiriasi nuo rinkos kainų, tai nurodoma jo tikroji rinkos kaina.
+## Kaip išregistruoti juridinio asmens buveinę iš savininkui priklausančių patalpų?
 
-Gyventojai, pageidaujantys gauti paramą būstui įsigyti ar išsinuomoti, ir jų šeimų nariai turto deklaracijoje privalo nurodyti ne tik turimą turtą, bet ir visas 2023 m. gautas pajamas, užpildydami turto deklaracijos priedą „Gautos pajamos“ (FR0001P forma).
+#### URL: https://info.registrucentras.lt/node/516
 
-4. Kurie gyventojai privalo deklaruoti metines pajamas pagal Lietuvos Respublikos gyventojų pajamų mokesčio įstatymą[5]?
+Patalpų, kuriose įregistruota juridinio asmens buveinė, savininkas turi teisę kreiptis į Juridinių asmenų registro tvarkytoją asmeniškai (iš anksto registruotis galite čia) arba  paštu  su prašymu išregistruoti iš Registro juridinio asmens buveinę iš jam nuosavybės teise priklausančių patalpų. Prašymą gavęs Registro tvarkytojas, išsiunčia pranešimą apie numatomą buveinės išregistravimą Registre nurodytais valdymo organų narių adresais ir Registro tvarkytojo leidžiamame elektroniniame informaciniame leidinyje paskelbia informaciją apie gautą patalpų savininko prašymą dėl buveinės išregistravimo. Pranešime apie numatomą buveinės išregistravimą taip pat pateikiama informacija apie galimą juridinio asmens likvidavimą Civilinio kodekso 2.70 straipsnyje nustatyta tvarka. Jeigu juridinis asmuo per šešis mėnesius nuo pranešimo išsiuntimo ar informacijos apie gautą patalpų savininko prašymą dėl buveinės išregistravimo paskelbimo Registro tvarkytojo leidžiamame elektroniniame informaciniame leidinyje nepakeičia buveinės, Registro tvarkytojas išregistruoja juridinio asmens buveinę ir nurodo, kad juridinio asmens buveinė išregistruota patalpų savininko prašymu.
 
-Metines pajamas iki 2024 m. gegužės 2 d. deklaruoti privalo:
-
-4.1. gyventojai, gavę B klasės pajamų, t. y. pajamų, nuo kurių pajamų mokestį[6] apskaičiuoti ir sumokėti privalo jie patys, pavyzdžiui, gavę pajamų:
-
-— už parduotą ar kitokiu būdu perleistą nuosavybėn žemę, pastatą ar kitą nekilnojamąjį daiktą, laikomą tokiu pagal prigimtį (išskyrus būstą, kai iš jo perleidimo gautoms pajamoms yra taikoma mokesčio lengvata), kai toks turtas perleistas nuosavybėn nepraėjus 10 metų nuo įsigijimo;
-
-— už parduotą ar kitokiu būdu perleistą nuosavybėn automobilį, žemės ūkio techniką ar kitą teisiškai registruojamą daiktą, kai toks turtas perleistas nuosavybėn nepraėjus 3 metams nuo įsigijimo;
-
-— paskirstytąjį pelną (dividendų) iš individualios įmonės, ūkinės bendrijos ar mažosios bendrijos;
-
-— iš individualios veiklos. Verslo liudijimą turėjęs ar individualią veiklą įregistravęs gyventojas metines pajamas deklaruoti privalo, net jei individualios veiklos pajamų negavo;
-
-— palūkanų iš juridinių asmenų ar užsienio valstybės;
-
-— apmokestinamųjų pajamų iš gyventojų ar iš užsienio valstybės;
-
-4.2. politikai, pareigūnai, valstybės tarnautojai, valstybės bei savivaldybės įmonių ir akcinių bendrovių, kurių akcininkė yra valstybė ar savivaldybė, vadovai, jų pavaduotojai, biudžetinių įstaigų vadovai, jų pavaduotojai ir jų šeimų nariai, kitas GTDĮ 2 str. 1 dalyje nurodytas pareigas 2023 m. ėję gyventojai bei jų šeimų nariai.
-
-Metines pajamas jie (įskaitant GTDĮ 2  straipsnio 1 dalyje nurodytas pareigas 2023 m. nustojusius eiti gyventojus) privalo deklaruoti, neatsižvelgiant į tai, kokias pajamas gavo;
-
-4.3. gyventojai, privalantys perskaičiuoti metinį NPD[7].
-
-Tai — gyventojai, kuriems su darbo santykiais ar jų esmę atitinkančiais santykiais susijusių pajamų gavimo vietoje pritaikytų NPD suma yra didesnė už visą jiems taikytiną GPMĮ 20 straipsnyje nustatyta tvarką apskaičiuotą metinį NPD.
-
-Metinis NPD gali sumažėti (lyginant jį su darbdavio pritaikytų NPD suma) dėl premijų ar kitokių vienkartinių išmokų gavimo, išaugusio darbo užmokesčio, gautų įvairių rūšių apmokestinamųjų pajamų, ligos išmokų ir pan.
-
-Sumažėjus metiniam NPD, gyventojui atsiranda pareiga jį perskaičiuoti, pateikti metinę pajamų mokesčio deklaraciją ir sumokėti joje apskaičiuotą GPM.
-
-Tik su darbo santykiais ar jų esmę atitinkančiais santykiais susijusių pajamų (arba jų ir neapmokestinamųjų pajamų) gavę gyventojai taikytino metinio NPD, mokėtino ar grąžintino GPM sumas gali apskaičiuoti savarankiškai, pasinaudoję Valstybinės mokesčių inspekcijos interneto svetainėje skelbiama metinio NPD skaičiuokle: https://www.vmi.lt/evmi/metinio-neapmokestinamojo-pajamu-dydzio-skaicuokle;
-
-4.4. gyventojai, privalantys perskaičiuoti ir sumokėti GPM, taikant progresinius GPM tarifus.
-
-Metinėms pajamoms viršijus tam tikrus dydžius, taikomas progresinis GPM tarifas. Tokiais atvejais perskaičiuoti GPM ir sumokėti deklaracijoje apskaičiuotą jo sumą pareiga tenka pačiam pajamas gavusiam gyventojui net ir tais atvejais, kai gautos pajamos pagal mokesčio sumokėjimo tvarką yra priskiriamos gyventojo A klasės pajamoms, nuo kurių GPM dalį jau yra išskaičiavęs mokestį išskaičiuojantis asmuo.
-
-Perskaičiuoti ir sumokėti GPM nuo 2023 m. pajamų, taikant progresinius mokesčio tarifus, privaloma, kai:
-
-4.4.1. gautų šių pajamų bendra suma yra didesnė nei 60 VDU[8] suma — 101 094 eurų:
-
-— su darbo santykiais ar jų esmę atitinkančiais santykiais susijusių pajamų (neįskaitant apskaičiuotų už 2018 m. ar ankstesnius metus);
-
-— tantjemų ar atlygio už veiklą stebėtojų taryboje ar valdyboje, paskolų komitete;
-
-— iš darbdavio gautų autorinių atlyginimų;
-
-— mažosios bendrijos vadovo (ne nario) pagal civilinę paslaugų sutartį už vadovavimą mažajai bendrijai.
-
-101 094 eurų viršijančiai tokių pajamų daliai taikomas 32 proc. GPM tarifas, todėl gyventojui tenka pareiga iki 2024 m. gegužės 2 d. sumokėti pajamų mokesčio deklaracijoje apskaičiuotą GPM;
-
-4.4.2. gautų šių pajamų suma yra didesnė nei 120 VDU suma — 202 188 eurų:
-
-— autorinių atlyginimų (gautų ne iš darbdavio);
-
-— honorarų;
-
-— turto pardavimo ar kitokio perleidimo nuosavybėn;
-
-— turto nuomos;
-
-- mažosios bendrijos vadovo (nario) pagal civilinę paslaugų sutartį už vadovavimą mažajai bendrijai;
-
-- kitų pajamų ne iš darbo santykių (išskyrus nurodytas 4.4.1 papunktyje, taip pat pajamas, kurioms taikomas tik 15 proc. GPM tarifas, t. y. individualios veiklos pajamas, pajamas iš paskirstytojo pelno, ligos, motinystės, tėvystės, vaiko priežiūros ir ilgalaikio darbo išmokas).
-
-202 188 eurų viršijančiai tokių pajamų daliai taikomas 20 proc. GPM tarifas, todėl gyventojui tenka pareiga iki 2024 m. gegužės 2 d. sumokėti pajamų mokesčio deklaracijoje apskaičiuotą GPM;
-
-5. gyventojai, pageidaujantys pasinaudoti mokesčio lengvatomis.
-
-Tai — gyventojai, pageidaujantys pasinaudoti metiniu NPD ir (arba) sumažinti apmokestinamąsias pajamas 2023 m. patirtomis GPMĮ 21 straipsnyje nurodytomis išlaidomis, pagrįstomis juridinę galią turinčiais dokumentais.
-
-Susigrąžinti GPM, pasinaudoję teise į metinį NPD, gali gyventojai, dirbę ne visus 2023 metus, taip pat tie, kuriems NPD nebuvo taikytas, išmokant kiekvieno mėnesio darbo užmokestį, arba kurie darbdaviams nebuvo pateikę prašymo taikyti NPD. Susigrąžinti nuo darbo užmokesčio išskaičiuoto GPM dalį gali riboto darbingumo asmenys, kuriems dėl nustatyto riboto darbingumo, neįgalumo ar specialiųjų poreikių 2023 m. nebuvo pritaikyti didesni (935 eurų ar 1 005 eurų) mėnesio NPD.
-
-Mokesčio lengvatos taikomos, patyrus GPMĮ 21 straipsnyje nurodytas išlaidas, t. y. sumokėjus:
-
-— gyvybės draudimo įmokas pagal gyvybės draudimo sutartį, kurioje nustatyta, kad gyvybės draudimo išmoka išmokama ne tik įvykus draudžiamajam įvykiui, bet ir pasibaigus draudimo sutarties galiojimo terminui;
-
-— pensijų kaupimo įmokas į III pakopos pensijų fondus, papildomas kaupiamąsias pensijų įmokas į II pakopos pensijų fondus;
-
-— palūkanas už vieną iki 2008-12-31 paimtą kreditą (arba jo dalį) vienam gyvenamajam būstui statyti arba jam įsigyti, arba už gyvenamojo būsto finansinę nuomą (lizingą);
-
-— už profesinį mokymą pagal formaliojo profesinio mokymo programą, kurią baigus įgyjama atitinkama kvalifikacija, formaliojo profesinio mokymo programos modulį, kurį baigus įgyjama atitinkama kompetencija (kompetencijos), ir (ar) už studijas, kurias baigus įgyjama aukštojo mokslo kvalifikacija.
-
-Kai už studijas ar profesinį mokymą sumokėta skolintomis lėšomis (kredito įstaigos paskola), tai iš metinių pajamų gali būti atimta 2023 m. grąžinta šios paskolos suma.
-
-Mokesčio lengvatomis pasinaudoti ir susigrąžinti GPM galima tik pagal pateiktą pajamų mokesčio deklaraciją, todėl gyventojai, siekiantys jomis pasinaudoti, turi deklaruoti metines pajamas.
-
-5. Kokioje deklaracijoje deklaruojamos 2023 m. gautos pajamos?
-
-Metinės pajamos deklaruojamos pajamų mokesčio deklaracijoje (GPM311 forma[9]). Patogiausia ir paprasčiausia užpildyti ir pateikti deklaraciją elektroniniu būdu per VMI EDS (https://deklaravimas.vmi.lt/), pasinaudojus vedliu.
-
-Gyventojai, pageidaujantys paremti pasirinktus paramos gavėjus ir (ar) politines organizacijas, iki 2024 m. gegužės 2 d. turi pateikti prašymus pervesti GPM dalį. GPM dalis gali būti paskirta vieninteliu būdu ― elektroniniu, prisijungus prie VMI EDS, tiesiogiai portale (realiu laiku) vedliu užpildant ir pateikiant Prašymą pervesti pajamų mokesčio dalį paramos gavėjams ir (arba) politinėms organizacijoms (FR0512 formos 05 versija[10]).
-
-## Mokesčių sumokėjimas, grąžinimas, įskaitymas
-
-#### URL: https://www.vmi.lt/evmi/mokes%C4%8Di%C5%B3-sumok%C4%97jimas-gr%C4%85%C5%BEinimas-%C4%AFskaitymas-82-87-str.-
-
-Mokesčių mokėtojo permokėtos mokesčių, administruojamų Valstybinės mokesčių inspekcijos ir muitinės, sumos pirmiausia yra įskaitomos mokesčių mokėtojo mokėtinų kitų mokesčių, administruojamų atitinkamai Valstybinės mokesčių inspekcijos ir muitinės, mokestinei nepriemokai padengti atitinkamo centrinio mokesčių administratoriaus nustatyta tvarka.
-
-Muitinės administruojamų mokesčių permokos įskaitymo kitų mokesčių nepriemokai padengti, taip pat kitų mokesčių permokos įskaitymo Muitinės administruojamų mokesčių nepriemokai padengti tvarka, nustatyta Valstybinės mokesčių inspekcijos prie Lietuvos Respublikos finansų ministerijos bei Muitinės departamento prie Lietuvos Respublikos finansų ministerijos bendru 2004 m. lapkričio 23 d. įsakymu Nr. VA-182/1B-1042 „Dėl Mokesčių permokos (skirtumo) įskaitymo mokestinei nepriemokai ir kitoms nesumokėtoms sumoms ar skoloms valstybei padengti tvarkos aprašo patvirtinimo“ (2020 m. gruodžio 23 d. įsakymo Nr. VA-90 / 1B-1054 redakcija).
-
-Mokestį išskaičiuojančio asmens iš mokesčių mokėtojo išskaičiuota ir sumokėta per didelė gyventojų pajamų mokesčio suma arba klaidingai išskaičiuotas ir sumokėtas pajamų mokestis gali būti įskaitomas to mokesčių mokėtojo mokestinėms prievolėms ir Administracinių nusižengimų kodekso baudos pasibaigusio termino mokėjimo prievolei padengti.
-
-Gyventojų pajamų mokesčio permoka, priklausanti grąžinti mokesčių mokėtojui pagal jo Deklaraciją, kuri skirta ankstesnių metų, 2018 metų ir vėlesnių mokestinių laikotarpių nuolatinių Lietuvos gyventojų pajamoms ir pajamų mokesčiui deklaruoti, grąžinama nustatyta tvarka, t. y. ne vėliau kaip iki atitinkamų metų liepos 31 dienos, o jei Deklaracija pateikiama, pasibaigus atitinkamos Deklaracijos pateikimo terminui, – ne vėliau kaip per 90 dienų po prašymo grąžinti mokesčio permoką gavimo dienos, jei atitinkamo mokesčio įstatyme nenumatyta kitaip.
-
-Jeigu mokesčių mokėtojas, pageidaujantis susigrąžinti gyventojų pajamų mokestį, VMI pateikia Prašymo grąžinti (įskaityti) permoką (skirtumą) ar nepagrįstai išieškotas sumas formą  FR0781, kai yra užbaigta Deklaracijos vertinimo procedūra, tai išnagrinėtos deklaruotos grąžintinos prievolės permoka grąžinama ne vėliau kaip per 30 kalendorinių dienų terminą po Prašymo pateikimo dienos.
-
-Mokesčių mokėtojo permokėtos valstybinio socialinio draudimo įmokų ir privalomojo sveikatos draudimo įmokų sumos yra įskaitomos mokesčių mokėtojo mokėtinų kitų mokesčių, administruojamų Valstybinės mokesčių inspekcijos, mokestinei nepriemokai padengti, o mokesčių mokėtojo permokėtos kitų mokesčių, administruojamų Valstybinės mokesčių inspekcijos, sumos – mokesčių mokėtojo mokėtinų valstybinio socialinio draudimo įmokų, delspinigių, baudų, palūkanų skolai padengti, Valstybinio socialinio draudimo fondo administravimo įstaigų administruojamai žalai, atsiradusiai dėl draudėjo kaltės, atlyginti ir privalomojo sveikatos draudimo įmokų mokestinei nepriemokai padengti.
-
-Valstybinio socialinio draudimo įmokų permoka (susidariusi už laikotarpius iki 2015 m. gruodžio 31 d. imtinai) ar klaidingai į VMI biudžeto pajamų surenkamąsias sąskaitas sumokėta valstybinio socialinio draudimo įmoka (sumokėta iki 2015 m. gruodžio 31 d. imtinai) be mokesčių mokėtojo Prašymo (FR0781) negali būti įskaitomos kitos mokesčių mokėtojo mokėjimo prievolės.
-
-Jei mokesčių mokėtojas pageidauja, kad permokėtos mokesčių sumos būtų įskaitytos mokesčiams, kurių mokėjimo terminas nepasibaigęs, jis pateikia atitinkamą prašymą centrinių mokesčių administratorių  nustatyta tvarka.
-
-Jei atitinkamo mokesčio įstatyme nenustatyta kitaip, VMI privalo grąžinti mokesčių mokėtojui mokesčio permoką tokia tvarka:
-
-1. mokesčio permoka grąžinama per 30 dienų po rašytinio prašymo grąžinti mokesčio permoką gavimo dienos. Tais atvejais, kai VMI paprašo mokesčių mokėtoją pateikti papildomus dokumentus, 30 dienų terminas skaičiuojamas nuo kitos dienos po pareikalautų dokumentų gavimo dienos. Gyventojų pajamų mokesčio permoka, priklausanti grąžinti mokesčių mokėtojui pagal jo metinę gyventojų pajamų mokesčio deklaraciją, grąžinama mokesčių mokėtojo prašymu ne vėliau kaip iki atitinkamų metų liepos 31 d., o jei prašymas pateikiamas pasibaigus atitinkamos metinės deklaracijos pateikimo terminui, — ne vėliau kaip per 90 dienų po prašymo grąžinti mokesčio permoką gavimo dienos. Šiame punkte nustatyti terminai netaikomi, jei yra 2 punkte nurodytos aplinkybės;
-
-2. tais atvejais, kai dėl mokesčio permokos grąžinimo atliekamas mokesčių mokėtojo mokestinis patikrinimas arba su mokesčio permokos grąžinimu susiję klausimai yra sudedamoji mokesčių administratoriaus atliekamo to mokesčių mokėtojo patikrinimo dalis, mokesčio permokos grąžinimas sustabdomas iki mokesčių administratoriaus sprendimo, pagal kurį mokesčių mokėtojui naujai apskaičiuojamas ir nurodomas sumokėti mokestis ir (arba) su juo susijusios sumos (jei pažeidimų nenustatyta, — pažymos apie tai), įteikimo mokesčių mokėtojui dienos, tačiau tai nestabdo nustatytų palūkanų skaičiavimo mokesčių mokėtojo naudai.
-
-Mokesčio permokos, kurios apskaičiuotos ar perskaičiuotos iki 2020 m. sausio 1d., gali būti grąžintos (įskaitytos), jeigu jos susidarė ne ankščiau kaip per einamuosius ir prieš juos einančius penkerius kalendorinius metus, – skaičiuojama atgal nuo įskaitymo dienos, o kai yra mokesčių mokėtojo prašymas, – skaičiuojama atgal nuo šio prašymo pateikimo dienos.
-
-Nuo 2020 m. sausio 1 d. neįskaityta mokesčių mokėtojo VMI mokesčių apskaitoje turima permoka (skirtumas) gali būti grąžinta (įskaityta) (visa ar jos dalis), jeigu ji susidarė nuo mokesčio apskaičiavimo ir (ar) perskaičiavimo ar per didelės bei klaidingai sumokėtos mokesčio sumos, kuriai grąžinti (įskaityti) taikomi MAĮ 68 straipsnyje nurodyti mokesčio apskaičiavimo ir (ar) senaties terminai, skaičiuojant pagal MAĮ 87 straipsnio 13 dalyje nustatytą tvarką.
-
-Mokesčių mokėtojas turi teisę į palūkanas:
-
-Už suteiktą mokestinę paskolą mokamos palūkanos, kurių dydį, kuris visais atvejais negali būti mažesnis už nulį, ir apskaičiavimo tvarką nustato finansų ministras, atsižvelgdamas į praėjusio kalendorinio ketvirčio paskutinės darbo dienos Vyriausybės vertybinio popieriaus, kurio išpirkimo laikotarpis artimiausias 12 mėnesių laikotarpiui, pelningumą antrinės vertybinių popierių apyvartos, kaip ji apibrėžta Lietuvos Respublikos vertybinių popierių įstatyme (toliau – antrinė vertybinių popierių apyvarta), rinkoje. Jeigu kitas palūkanų dydis nenustatytas, taikomas paskutinis finansų ministro nustatytas palūkanų dydis. Mokesčių mokėtojui laiku nesumokėjus įmokų pagal mokestinės paskolos sutartimi patvirtintą mokėjimo grafiką, skaičiuojamos padidintos palūkanos, o nesumokėjus palūkanų pagal mokestinės paskolos sutartį – palūkanų delspinigiai. Padidintos palūkanos ir palūkanų delspinigiai skaičiuojami iki tos dienos, kol atitinkamos sumos yra sumokamos (įskaitomos). Padidintų palūkanų ir palūkanų delspinigių dydis yra lygus delspinigių už laiku nesumokėtą mokestį dydžiui.
-
-Mokesčių administratorius, per  MAĮ 87 str. 7 dalyje nustatytą terminą negrąžinęs mokesčio permokos sumos, mokesčių mokėtojo naudai skaičiuoja palūkanas,  kurių dydis lygus nustatytoms palūkanoms, mokamoms pagal mokestinės paskolos sutartis, iki ši mokesčio permoka bus mokesčių mokėtojui grąžinta. Mokesčių mokėtojo naudai palūkanos neskaičiuojamos, kai vykdoma abipusio susitarimo procedūra, numatyta Lietuvos Respublikos sudarytose ir taikomose dvigubo apmokestinimo išvengimo sutartyse arba Konvencijoje 90/436/EEB dėl dvigubo apmokestinimo išvengimo koreguojant asocijuotų įmonių pelną. Šiuo atveju palūkanos neskaičiuojamos laikotarpiu nuo kreipimosi dėl abipusio susitarimo procedūros iki šios procedūros pabaigos, tačiau jeigu pasibaigus abipusio susitarimo procedūrai mokesčių mokėtojo prievolė sumažėja, jam proporcingai grąžinamos, visos, jei tokių buvo, sumokėtos ar išieškotos baudų, delspinigių ar palūkanų pagal mokestinės paskolos sutartį sumos.
-
-Neįskaitytas mokesčių ir kitų įmokų permokos (skirtumo) likutis grąžinamas į Prašyme nurodytą mokesčių mokėtojo ar kito asmens kredito įstaigoje atidarytą sąskaitą, išskyrus atvejus, kai:
-
-1. pervedama į VSDFV biudžeto pajamų surenkamąją sąskaitą mokesčių mokėtojo turimai VSDFV administruojamų įmokų mokestinei nepriemokai padengti, vadovaujantis VMI ir VSDFV įskaitymo tvarka;
-
-2. pervedama į valstybės biudžetą mokesčių mokėtojo skola valstybei, vadovaujantis VMI ir Muitinės įskaitymo tvarka;
-
-3. vadovaujantis MAĮ 102 straipsnio nustatyta tvarka, duotas nurodymas iš Prašymą teikiančio asmens kredito įstaigoje esančios sąskaitos (sąskaitų) nutraukti piniginių lėšų išmokėjimą ir pervedimą ar, vadovaujantis MAĮ 106 straipsnio 1 dalies 1 punktu, vykdomas mokestinės ar baudos už AN nepriemokos priverstinis išieškojimas iš kredito įstaigoje esančioje sąskaitoje (sąskaitose) piniginių lėšų arba, vadovaujantis Instrukcijos 22.2 papunkčio nustatyta tvarka, gautas antstolio pranešimas pervesti pinigines lėšas į antstolio nurodytą sąskaitą, arba fiziniam asmeniui teisme pradėta bankroto procedūra. Visais šiais atvejais permoka (skirtumas) grąžinama į Prašymą pateikusio mokesčių mokėtojo ar antstolio nurodytą sąskaitą;
-
-4. Prašymas grąžinti permoką (skirtumą) pateiktas tiesiogiai VMI valstybės tarnautojui ar darbuotojui ir nėra pateikta asmens tapatybę patvirtinančio dokumento (paso ar asmens tapatybės kortelės, ar jų kopijų).
-
-Jeigu asmuo, pageidaujantis grąžinti mokesčio ar baudos už AN permoką (skirtumą) į kito asmens sąskaitą, Prašymą VMI valstybės tarnautojui ar darbuotojui įteikia tiesiogiai, tokiu atveju asmuo turi pateikti asmens tapatybę patvirtinantį dokumentą (pasą ar asmens tapatybės kortelę), kurį VMI valstybės tarnautojas ar darbuotojas privalo patikrinti, ir asmens tapatybę patvirtinančio dokumento kopiją, kaip papildomą dokumentą, prisegti prie Prašymo.
-
-Jei Prašymas pateikiamas per Mano VMI, tai papildomų dokumentų, patvirtinančių Prašymą pateikusio asmens tapatybę, pateikti nereikia, išskyrus atvejus, kai VMI valstybės tarnautojas ar darbuotojas, nagrinėjantis Prašymą, to pareikalauja šių Taisyklių 16 punkte nustatyta tvarka.
-
-Kai likviduojamam juridiniam asmeniui, kuris uždarė sąskaitas kredito įstaigoje, nustatoma mokesčio ar kitos įmokos permoka (skirtumas), permokėtoji suma gali būti grąžinta į juridinio asmens likvidatoriaus kredito įstaigoje atidarytą sąskaitą arba neribotos turtinės atsakomybės asmens savininko asmeninę kredito įstaigoje atidarytą sąskaitą. Prašymo 25 laukelyje reikia nurodyti juridinio asmens likvidatoriaus/neribotos turtinės atsakomybės asmens savininko identifikacinį numerį (kodą), Prašymo 26 laukelyje – likvidatoriaus pavadinimą/neribotos turtinės atsakomybės asmens savininko vardą, pavardę, Prašymo 27 laukelyje – gavėjui pervedamą sumą, Prašymo 29 laukelyje – juridinio asmens likvidatoriaus/neribotos turtinės atsakomybės juridinio asmens savininko kredito įstaigoje atidarytos sąskaitos numerį, Prašymo 30 laukelyje – kredito įstaigos SWIFT (BIC) kodą, Prašymo 31 laukelyje – kredito įstaigos pavadinimą.
-
-Užpildytą rašytinį Prašymą turi pasirašyti:
-
-- mokesčių mokėtojas arba Prašymą pateikusio mokesčių mokėtojo atstovas (vadovas ir vyriausiasis buhalteris (buhalteris), įgaliotas ar asmeniui atstovaujantis (pagal atstovavimo sutartį) asmuo arba neribotos civilinės atsakomybės juridinio asmens savininkas ir turi nurodyti savo vardą, pavardę;
-
-- likviduojamo juridinio asmens Prašymą turi pasirašyti juridinio asmens likvidatorius, o mokesčių mokėtojų, kuriems iškeltos bankroto bylos (arba bankroto procedūros vykdomos ne teismo tvarka), Prašymą pasirašo teismo (ar kreditorių) paskirtas administratorius ar jo įgaliotas asmuo ir nurodo savo vardą, pavardę.
-
-Elektroniniu būdu teikiamas Prašymas tvirtinamas, kai pasirašo Mano VMI naudotojas, kuriam suteikta teisė patvirtinti savo ar atstovaujamo asmens (mokesčių mokėtojo) dokumentus kvalifikuotu elektroniniu parašu arba kitu būdu, užtikrinančiu Prašymą pateikusio mokesčių mokėtojo tapatybę. 
-
-Jei Prašymas buvo pateiktas tiesiogiai, tai pateiktas klaidingas Prašymas / paslauga turi būti atšaukta (jei Prašymas dar nebuvo įvykdytas). Mokesčių mokėtojas per Mano VMI turi pateikti prašymą atsisakyti paslaugos ir po to pateikti naują Prašymą.
-
-Jei mokesčių mokėtojas pateikia Prašymą raštu ir nustato, kad pateikė ne visą informaciją ar ją pateikė klaidingai, turi pateikti laisvos formos prašymą panaikinti anksčiau pateiktą Prašymą (jei Prašymas dar nebuvo įvykdytas) ir pateikti naują Prašymą.
-
-Mokestį sumokėti galima:
-
-1. per kredito arba kitą mokėjimą priimančią įstaigą (pvz., pašto skyriuose, Perlo paslaugos terminaluose) mokant grynaisiais pinigais arba mokėjimą atliekant elektroninėmis mokėjimo priemonėmis;
-
-2. per mokesčių administratoriaus pareigūną, turintį įgaliojimą priimti grynuosius pinigus (taikoma muitams ir su jais susijusioms sumoms);
-
-3. mokestį ir su juo susijusias sumas už mokesčių mokėtoją gali sumokėti tretieji asmenys.
-
-Jei mokesčiai, įmokos ir / ar rinkliavos yra mokamos už kitą mokesčių mokėtoją, būtina pildyti išplėstinę mokėjimo nurodymo formą, nurodant pradinio mokėtojo, už kurį atliekamas mokėjimas, identifikacinį numerį, pavadinimą ar vardą, pavardę.
-
-Mokant baudas už administracinius nusižengimus už mokesčių mokėtoją, mokėjimo nurodyme būtina nurodyti nusižengimo identifikacinį kodą (ROIK), o jam nesant — baudos paskyrimo dokumento numerį, nurodomą mokėjimo nurodymo laukelyje „Unikalus mokėjimo kodas“.
-
-Jeigu mokesčių prievolių, administracinių baudų ar kitų įmokų mokėjimą atliekate iš užsienio banko sąskaitos, o mokėjimo nurodyme nėra atskirų skilčių asmens, už kurį mokama, įmokos kodo ir kitos informacijos, būtinos mokėjimui atlikti, šią informaciją (mokesčių mokėtojo kodą ir vardą, pavardę asmens, už kurį mokama, įmokos kodą, mokant administracinę baudą – 11 skaitmenų nusižengimo identifikacinį kodą (ROIK) būtina nurodyti kitame, tam skirtame mokėjimo nurodymo laukelyje (pvz., mokėjimo paskirtyje).
-
-Mokestis laikomas sumokėtu, kai mokesčių administratoriaus kredito įstaiga gauna lėšas iš mokesčių mokėtojo kredito įstaigos.
-
-## Mokesčių apskaičiavimas
-
-#### URL: https://www.vmi.lt/evmi/mokes%C4%8Di%C5%B3-apskai%C4%8Diavimas-66-72-str.-
-
-Apskaičiuoti ar perskaičiuoti mokestį gali:
-
-1. mokesčių mokėtojas (išskyrus tam tikras išimtis, pvz., žemės mokestį apskaičiuoja VMI), pastebėjęs, kad mokestis buvo apskaičiuotas neteisingai;
-
-2. mokestį išskaičiuojantis asmuo;
-
-3. VMI, tuo atveju, kai tai nustato atitinkamo mokesčio įstatymas, kai mokesčių mokėtojas įstatymų nustatyta tvarka neapskaičiavo mokesčio arba neteisingai apskaičiavęs, jo neperskaičiavo.
-
-Laikotarpis, už kurį gali būti apskaičiuotas ar perskaičiuotas mokestis:
-
-1. Jeigu kitaip nenustatyta atitinkamo mokesčio įstatyme, mokesčių mokėtojas ar mokesčių administratorius mokestį apskaičiuoti arba perskaičiuoti gali ne daugiau kaip už einamuosius ir trejus praėjusius kalendorinius metus, skaičiuojamus atgal nuo tų metų, kada pradedama mokestį apskaičiuoti arba perskaičiuoti, sausio 1 dienos.
-
-2. Mokesčių administratoriui atliekant pakartotinį mokesčių mokėtojo patikrinimą, 1 punkte nurodytos nuostatos netaikomos, tačiau mokesčių administratorius tokio patikrinimo metu negali apskaičiuoti mokesčio už ilgesnį laikotarpį negu pirminio patikrinimo metu.
-
-3. Jeigu mokesčių mokėtojas pateikia mokesčio deklaraciją arba patikslintą mokesčio deklaraciją likus mažiau kaip 90 dienų iki 1 punkte numatyto mokesčio apskaičiavimo (perskaičiavimo) termino pabaigos, mokesčių administratorius gali patikrinti šioje deklaracijoje deklaruoto mokesčio apskaičiavimo teisingumą ir jį perskaičiuoti neatsižvelgdamas į  1 punkte nurodytas  nuostatas, jeigu mokesčių administratorius patikrinimą pradeda ne vėliau kaip per 90 dienų nuo šios deklaracijos pateikimo dienos.
-
-4. Apskaičiuoti ar perskaičiuoti mokestį už ilgesnį negu 1 punkte numatytas terminas, bet ne daugiau, kaip už einamuosius ir penkerius praėjusius kalendorinius metus, skaičiuojamus 1 punkte.  nustatyta tvarka, galima šiais atvejais:
-
-- kai apskaičiuojamas ar perskaičiuojamas gyventojų pajamų mokestis (išskyrus fizinio asmens mokamo pajamų mokesčio nuo pajamų iš individualios veiklos dalį);
-
-- kai mokesčių administratorius apskaičiuoja ar perskaičiuoja mokesčių mokėtojo, neatitinkančio minimalių patikimo mokesčių mokėtojo kriterijų, mokesčius;
-
-- kai, remiantis šio Įstatymo 611 straipsniu, mokesčių administratorius mokesčius apskaičiuoja ar perskaičiuoja pagal automatinių informacijos mainų pagrindu gautą informaciją;
-
-- kai mokestis apskaičiuojamas ar perskaičiuojamas taikant Lietuvos Respublikos pelno mokesčio įstatymo 40 straipsnio 2 dalį, taip pat tikrinant Pelno mokesčio įstatymo 5 straipsnio 7 dalies ir 461 straipsnio taikymo pagrįstumą. Šiuo atveju apskaičiuoti ar perskaičiuoti mokestį už ilgesnį negu 1 punkte numatytas terminas galima tik tiek, kiek tai susiję su šiame punkte nurodytąja aplinkybe;
-
-- kai siekiama įrodyti skolų beviltiškumą ir pastangas susigrąžinti šias skolas pagal Pridėtinės vertės mokesčio įstatymo 891 straipsnį, Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo 18 straipsnį, Pelno mokesčio įstatymo 25 straipsnį. Šiuo atveju apskaičiuoti ar perskaičiuoti mokestį už ilgesnį negu 1 punkte numatytas terminas galima tik tiek, kiek tai susiję su šiame punkte nurodytąja aplinkybe;
-
-- kai mokestis apskaičiuojamas ar perskaičiuojamas teismui pripažinus mokesčio mokėtojo bankrotą tyčiniu;
-
-- kai pagal Pridėtinės vertės mokesčio įstatymo VIII skyriaus nuostatas daroma ilgalaikio turto, kuris nėra nekilnojamasis turtas, atskaita. Šiuo atveju apskaičiuoti ar perskaičiuoti mokestį už ilgesnį negu 1 punkte numatytas terminas galima tik tiek, kiek tai susiję su šiame punkte nurodytąja aplinkybe.
-
-1. Mokesčių administratorius apskaičiuoti ar perskaičiuoti mokestį už ilgesnį negu MAĮ 68 str. 1 dalyje numatytas terminas gali tuo atveju, kai baudžiamojoje byloje būtina nustatyti padarytą žalą valstybei ir nėra pasibaigę Baudžiamajame kodekse nustatyti apkaltinamojo nuosprendžio priėmimo senaties terminai.
-
-2. Apskaičiuoti ar perskaičiuoti mokestį už ilgesnį negu MAĮ 68 str. 1 dalyje numatytas terminas, bet ne daugiau kaip už einamuosius ir dešimt praėjusių kalendorinių metų, skaičiuojamų MAĮ 68 str.  1 dalyje nustatyta tvarka, galima šiais atvejais:
-
-- kai pagal Pridėtinės vertės mokesčio įstatymo VIII skyriaus nuostatas daroma nekilnojamojo turto, pripažinto ilgalaikiu turtu, atskaita. Šiuo atveju apskaičiuoti ar perskaičiuoti mokestį už ilgesnį negu MAĮ 68 str. 1 dalyje numatytas terminas galima tik tiek, kiek tai susiję su šiame punkte nurodytąja aplinkybe;           
-
-- kai vykdomos dvigubo apmokestinimo ginčų sprendimo procedūros, numatytos Lietuvos Respublikos sudarytose ir taikomose dvigubo apmokestinimo išvengimo sutartyse, Lietuvos Respublikos dvigubo apmokestinimo ginčų sprendimo įstatyme, Konvencijoje 90/436/EEB dėl dvigubo apmokestinimo išvengimo koreguojant asocijuotų įmonių pelną arba Daugiašalėje konvencijoje, taip pat kai mokesčių administratorius apskaičiuoja arba perskaičiuoja mokestį. Šiuo atveju apskaičiuoti ar perskaičiuoti mokestį už ilgesnį negu MAĮ 68 str. 1 dalyje numatytas terminas galima tik tiek, kiek tai susiję su šiame punkte nurodytąja aplinkybe.
-
-VMI ir mokesčių mokėtojas susitarimą gali pasirašyti tik tuo atveju, jeigu apskaičiuojant mokesčius nė viena iš šalių neturi pakankamai įrodymų savo apskaičiavimams pagrįsti.
-
-Susitarimo metu šalys išsprendžia kilusį ginčą, užkerta kelią kilti mokestiniam ginčui ateityje, išsprendžia mokestinės prievolės klausimą arba kitus ginčytinus klausimus.
-
-Pasiūlymą pasirašyti susitarimą savo iniciatyva gali teikti ir mokesčių mokėtojas, ir mokesčių administratorius mokestinio tyrimo ar mokestinio patikrinimo metu, taip pat visų mokestinių ginčų nagrinėjimo etapų metu.
-
-Nepavykus susitarimo pasirašyti per vieną etapą, jo pasirašymas gali būti inicijuojamas per kitus etapus, pvz., nepavykus susitarimo pasirašyti mokestinio patikrinimo metu, jo pasirašymas gali būti inicijuojamas bet kuriame mokestinio ginčo etape. Tačiau pakartotinis susitarimo procedūros inicijavimas tame pačiame ginčo etape galimas tik paaiškėjus naujoms su ginču susijusioms aplinkybėms, kurios nebuvo žinomos svarstant anksčiau pateiktą prašymą pradėti susitarimo procedūrą.
-
-Mokesčių mokėtojas, neturintis pakankamai įrodymų savo mokesčių apskaičiavimams pagrįsti, ir pageidaujantis susitarimą pasirašyti mokestinio tyrimo ar mokestinio patikrinimo metu, turi raštu kreiptis į mokesčių administratorių, atliekantį tą mokestinį tyrimą ar mokestinį patikrinimą.
-
-Pasiūlymas pasirašyti susitarimą mokestinio tyrimo metu gali būti pateikiamas per trūkumų ir / ar prieštaravimų pašalinimo terminą, nurodytą Pranešime apie atliktą mokestinį tyrimą (forma FR0687).
-
-Pasiūlymas pasirašyti susitarimą mokestinio patikrinimo metu gali būti pateikiamas atliekamo patikrinimo metu po to, kai mokesčių mokėtojas supažindinamas su patikrinimo akto projektu, arba per rašytinių pastabų pateikimo terminą.
-
-Mokesčių mokėtojas, susitarimą pageidaujantis pasirašyti mokestinio ginčo, kurį nagrinėja VMI prie FM, Mokestinių ginčų komisija prie Lietuvos Respublikos Vyriausybės ar teismas, metu, dėl susitarimo pasirašymo raštu turi kreiptis į VMI prie FM arba pasiūlymą VMI prie FM pateikti per AVMI, atlikusią mokestinį patikrinimą, kai pasiūlymas pasirašyti susitarimą sutampa su skundo dėl sprendimo dėl patikrinimo akto priėmimo padavimu VMI prie FM. Taip pat  šalis,  prašanti inicijuoti susitarimą, informuoja ginčą nagrinėjančią instituciją apie pateiktą prašymą.
-
-Mokesčių mokėtojas, pageidaujantis pasirašyti susitarimą, turi pateikti rašytinį pasiūlymą, kuriame rekomenduojama nurodyti:
-
-1. pavadinimą (jei tai fizinis asmuo — vardą, pavardę), identifikacinį numerį (asmens kodą), buveinės adresą (gyvenamąją vietą), telefoną, elektroninio pašto adresą;
-
-2. mokesčių administratoriaus nustatytas aplinkybes (faktus), kurios yra susitarimo objektas, ir dėl kurių apskaičiuoti ar apskaičiuotini mokesčiai bei su jais susijusių sumų dydžiai;
-
-3. argumentus dėl mokesčių administratoriaus nustatytų aplinkybių (faktų) ir jo apskaičiuotų ar apskaičiuotinų mokesčių ir su jais susijusių sumų dydžių nepagrįstumo, kaip (kokia suma) argumentai įtakoja mokesčio dydį;
-
-4. išvadas ir pasiūlymus dėl susitarimo pasirašymo;
-
-5. kitą informaciją, dokumentus, kurie gali būti svarbūs, nagrinėjant mokesčių mokėtojo pasiūlymą.
-
-Mokesčių mokėtojas pasiūlymą pasirašyti susitarimą gali išdėstyti ir pastabose dėl surašyto patikrinimo akto arba VMI prie FM pateiktame skunde.
-
-Pasiūlymą pasirašyti susitarimą mokesčių mokėtojui gali pateikti ir VMI vardu darbo grupė. Tokiu atveju VMI parengia ir mokesčių mokėtojui išsiunčia pasiūlymą atvykti į derybas dėl mokesčio ir su juo susijusių sumų dydžio.
-
-Mokesčių administratoriui ir mokesčių mokėtojui pasirašius susitarimą, mokesčių mokėtojas praranda teisę ginčyti mokesčio apskaičiavimo teisingumą, o VMI praranda teisę apskaičiuoti didesnę sumą, negu nurodyta pasirašytame susitarime.
-
-VMI, apskaičiuodama mokestį, turi teisę vertinti mokesčių mokėtojo veiklos turinį, o ne formalią jos išrašką.
-
-VMI mokestį apskaičiuoja taikydama turinio viršenybės prieš formą principą, kai:
-
-1. formaliai sudaryti sandoriai, ūkinės operacijos fiksuojamos apskaitoje, jei tai numato teisės aktai, ir yra vykdomi;
-
-2. sudarytas sandoris, ūkinė operacija ar bet kokia jų grupė, vertinant atliktų veiksmų visumą, savo turiniu neatitinka mokesčio įstatymo tikslo ir prasmės, tačiau atskirais veiksmais formaliai teisės aktų reikalavimai nepažeidžiami arba jų pažeidimas yra labai abejotinas;
-
-3. sandorio, ūkinės operacijos ar bet kokios jų grupės sudarymo pagrindinis tikslas – mokestinė nauda, kuri suprantama kaip mokesčio mokėjimo terminų nukėlimas, mokėtinos mokesčio sumos sumažinimas arba visiškas mokesčio išvengimas, grąžintinos (įskaitytinos) mokesčio permokos (skirtumo) padidinimas, arba mokesčio permokos (skirtumo) grąžinimo terminų sutrumpinimas;
-
-4. sudarytas sandoris, ūkinės operacijos ar bet kokia jų grupė nepateisinamas jokiais verslo ar kitais, jo naudą pagrindžiančiais, poreikiais, išskyrus nurodytą 3 punkte, ir įprastinėmis rinkos sąlygomis jie nebūtų sudaromi.
-
-Apskaičiuojant ar perskaičiuojant mokestį neatsižvelgiama į formalią mokesčių mokėtojo veiklos išraišką, bet atkuriamos iškreiptos ar slėptos aplinkybės. Mokestis apskaičiuojamas pagal atitinkamo mokesčio įstatymo nuostatas.
-
-Įvertinimas gali būti atliekamas, kai VMI mokesčių mokėtojo mokestinės prievolės dydžio negali nustatyti įprastine, atitinkamo mokesčio įstatyme nustatyta tvarka, nes mokesčių mokėtojas nevykdo arba netinkamai vykdo savo pareigas:
-
-1. apskaičiuodamas mokesčius nepateikia mokesčio deklaracijos, nustatyta tvarka patvirtintos ataskaitos ar kito dokumento, į mokesčio deklaraciją įrašo neteisingus duomenis;
-
-2. bendradarbiaudamas su VMI nevykdo arba netinkamai vykdo mokesčių teisės aktuose nustatytas mokesčių mokėtojo pareigas, trukdo VMI įgyvendinti jai suteiktas teises, nevykdo VMI nurodymų pateikti apskaitos dokumentus, registrus, sutvarkyti buhalterinę apskaitą ir kitais atvejais;
-
-3. netvarko apskaitos ar tvarko nesilaikydamas Lietuvos įstatymų;
-
-4. neišsaugo, arba išsaugo ne visus, apskaitos ar kitus dokumentus.
-
-Pagal kitų valstybės institucijų dokumentus mokesčio apskaičiavimo ir perskaičiavimo būdas taikomas, kai įstatymų nustatyta tvarka, kitos valstybės institucijos atlieka asmenų komercinės, ūkinės ar finansinės veiklos patikrinimus ir nustato mokesčių įstatymų pažeidimus, tačiau nėra įgaliotos atlikti mokesčių administravimo veiksmų.
-
-VMI, apskaičiuodama mokestį pagal savo įvertinimą, naudojasi:
-
-1. mokesčių mokėtojo pateiktais dokumentais;
-
-2. kitų mokesčių mokėtojų pateiktais dokumentais;
-
-3. informacija, gauta iš kitų asmenų;
-
-4. informacija, gauta iš Lietuvos ir užsienio valstybių mokesčių administratorių, kitų institucijų;
-
-5. informacija, gauta iš registrų (kadastrų);
-
-6. informacija, gauta stebėjimo būdu;
-
-7. informacija, gauta iš statistikos leidinių;
-
-8. informacija, gauta iš žinynų, katalogų;
-
-9. informacija, gauta iš spaudos, informacinių biuletenių, kitų visuomenės informavimo priemonių;
-
-10. informacija, gauta iš interneto svetainių;
-
-11. informacija, gauta iš kitų šaltinių, kurių pagrindu galima nustatyti mokesčių mokėtojo atitinkamus veiklos rodiklius, gauti kitą įvertinimui atlikti reikalingą informaciją.
+Už prašymo išregistruoti vieno juridinio asmens buveinę priėmimą mokamas 12,06 euro atlyginimas. Atsiskaitomąsias sąskaitas rasite čia.
